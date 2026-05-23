@@ -77,11 +77,11 @@
     <div class="contact-form-panel">
       <div class="cf-title">Send Us a <em>Message</em></div>
       <form class="cf-grid" id="contactForm" action="https://formspree.io/f/maqadkdd" method="post">
-        <div class="cf-field"><label>Full Name *</label><input type="text" placeholder="Your full name" required></div>
-        <div class="cf-field"><label>Email *</label><input type="email" placeholder="you@email.com" required></div>
+        <div class="cf-field"><label>Full Name *</label><input type="text" name="name" placeholder="Your full name" required></div>
+        <div class="cf-field"><label>Email *</label><input type="email" name="email" placeholder="you@email.com" required></div>
         <div class="cf-field cf-full">
           <label>I am a...</label>
-          <select>
+          <select name="category">
             <option value="">Select...</option>
             <option>Current university student</option>
             <option>CCL alumni</option>
@@ -91,8 +91,8 @@
             <option>Other</option>
           </select>
         </div>
-        <div class="cf-field cf-full"><label>Subject *</label><input type="text" placeholder="What is this about?" required></div>
-        <div class="cf-field cf-full"><label>Message *</label><textarea placeholder="Tell us more..." rows="5" required></textarea></div>
+        <div class="cf-field cf-full"><label>Subject *</label><input type="text" name="subject" placeholder="What is this about?" required></div>
+        <div class="cf-field cf-full"><label>Message *</label><textarea name="message" placeholder="Tell us more..." rows="5" required></textarea></div>
         <div class="cf-field cf-full">
           <button type="submit" class="btn btn-green cf-submit">Send Message →</button>
         </div>
@@ -117,9 +117,9 @@
   </div>
   <div style="display:grid;grid-template-columns:repeat(4,1fr);gap:16px;">
     <a href="membership.html" class="qlink-card anim" data-delay="0"><div style="font-size:32px;margin-bottom:10px;">🎓</div><div class="qlc-title">Join CCL</div><div class="qlc-sub">Apply for membership</div></a>
-    <a href="programs.html" class="qlink-card anim" data-delay="0.07"><div style="font-size:32px;margin-bottom:10px;">🏕️</div><div class="qlc-title">Programs</div><div class="qlc-sub">Workshops, bootcamps & more</div></a>
+    <a href="programs.html" class="qlink-card anim" data-delay="0.07"><div style="font-size:32px;margin-bottom:10px;">🏕️</div><div class="qlc-title">Programs</div><div class="qlc-sub">Workshops, communication sprint & more</div></a>
     <a href="events.html" class="qlink-card anim" data-delay="0.14"><div style="font-size:32px;margin-bottom:10px;">📅</div><div class="qlc-title">Events</div><div class="qlc-sub">See what's coming up</div></a>
-    <a href="partners.html" class="qlink-card anim" data-delay="0.21"><div style="font-size:32px;margin-bottom:10px;">🤝</div><div class="qlc-title">Partner With Us</div><div class="qlc-sub">Corporate partnership info</div></a>
+    <a href="contact.html" class="qlink-card anim" data-delay="0.21"><div style="font-size:32px;margin-bottom:10px;">🤝</div><div class="qlc-title">Connect With Us</div><div class="qlc-sub">Reach Out To Us</div></a>
   </div>
 </section>
 
@@ -133,11 +133,31 @@
 </style>
 <script src="nav.js"></script>
 <script>
-document.getElementById('contactForm').addEventListener('submit', e => {
+document.getElementById('contactForm').addEventListener('submit', async (e) => {
   e.preventDefault();
-  document.getElementById('contactForm').style.display = 'none';
-  document.getElementById('contactSuccess').style.display = 'block';
+
+  const formData = new FormData(e.target);
+
+  try {
+    const response = await fetch('https://formspree.io/f/maqadkdd', {
+      method: 'POST',
+      body: formData,
+      headers: {
+        'Accept': 'application/json'
+      }
+    });
+
+    if (response.ok) {
+      document.getElementById('contactForm').style.display = 'none';
+      document.getElementById('contactSuccess').style.display = 'block';
+    }
+  } catch (error) {
+    console.error('Error:', error);
+  }
 });
 </script>
 </body>
 </html>
+
+
+

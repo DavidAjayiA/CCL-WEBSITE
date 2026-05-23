@@ -13,6 +13,13 @@
   padding-left: 28px; margin-left: 12px;
 }
 
+.story-time {
+  display: flex; flex-direction: column; gap: 0;
+  border-top: 2px solid var(--border);
+  padding-top: 20px;
+  margin-top: 15px;
+}
+
 .tl-item {
   position: relative; padding-bottom: 28px;
 }
@@ -100,7 +107,7 @@
 }
 
 .team-card h3 { font-family: 'Cormorant Garamond', serif; font-size: 20px; font-weight: 700; color: var(--ink); }
-.team-role { font-size: 11px; letter-spacing: 1px; text-transform: uppercase; color: var(--green); font-weight: 600; }
+.team-role { font-size: 9px; letter-spacing: 1px; text-transform: uppercase; color: var(--green); font-weight: 600; }
 .team-card p { font-size: 13px; color: var(--ink-muted); line-height: 1.6; flex: 1; }
 .team-linkedin { font-size: 12px; font-weight: 600; color: var(--green); margin-top: 4px; }
 
