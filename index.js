@@ -1,3 +1,19 @@
+// Video overlay click handler
+const videoOverlay = document.getElementById('video-overlay');
+const heroVideo = document.getElementById('hero-video');
+
+if (videoOverlay && heroVideo) {
+  videoOverlay.addEventListener('click', () => {
+    videoOverlay.classList.add('hidden');
+    heroVideo.play();
+  });
+
+  // Show overlay again when video ends
+  heroVideo.addEventListener('ended', () => {
+    videoOverlay.classList.remove('hidden');
+  });
+}
+
 // FAQ accordion
 document.querySelectorAll('.faq-q').forEach(btn => {
   btn.addEventListener('click', () => {
