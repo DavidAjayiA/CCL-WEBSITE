@@ -1,0 +1,56 @@
+[
+  {
+    "title": "Global Consulting Firms Expand African Operations in 2025",
+    "excerpt": "Top consulting houses report 40% increase in Africa-focused projects, with Nigeria and Kenya leading demand.",
+    "date": "May 25",
+    "category": "consulting",
+    "source": "MCKINSEY.COM",
+    "url": "https://www.mckinsey.com/industries/public-sector/our-insights",
+    "image": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=400&h=250&fit=crop"
+  },
+  {
+    "title": "AI Disruption: How African Tech Startups Are Leading Innovation",
+    "excerpt": "African startups secure record funding for AI applications in fintech, agriculture, and logistics.",
+    "date": "May 24",
+    "category": "tech",
+    "source": "TECHCRUNCH.COM",
+    "url": "https://techcrunch.com/tag/africa/",
+    "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=400&h=250&fit=crop"
+  },
+  {
+    "title": "Nigerian Economic Outlook: Q2 2025 Market Analysis",
+    "excerpt": "Emerging opportunities in manufacturing, agriculture, and digital services create consulting demand.",
+    "date": "May 23",
+    "category": "african",
+    "source": "BBC.CO.UK",
+    "url": "http://feeds.bbc.co.uk/news/business/rss.xml",
+    "image": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=400&h=250&fit=crop"
+  },
+  {
+    "title": "Strategic Reshaping of Enterprise Supply Chains Post-2025",
+    "excerpt": "Companies invest heavily in supply chain optimization strategies following market volatility.",
+    "date": "May 22",
+    "category": "strategy",
+    "source": "BCG.COM",
+    "url": "https://www.bcg.com/publications/topics/strategy",
+    "image": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=400&h=250&fit=crop"
+  },
+  {
+    "title": "African Consulting Market Growth Accelerates",
+    "excerpt": "Local and international firms compete for dominance in 8% annual growth market.",
+    "date": "May 21",
+    "category": "consulting",
+    "source": "VENTUREBURN.COM",
+    "url": "https://ventureburn.com/feed/",
+    "image": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=400&h=250&fit=crop"
+  },
+  {
+    "title": "Tech Giants Announce Regional Innovation Hubs",
+    "excerpt": "New investment in African innovation hubs signals confidence in emerging market potential.",
+    "date": "May 20",
+    "category": "tech",
+    "source": "TECHCRUNCH.COM",
+    "url": "https://www.wired.com/tag/startups/",
+    "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=400&h=250&fit=crop"
+  }
+]
