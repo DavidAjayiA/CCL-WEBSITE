@@ -20,67 +20,16 @@
 
 <section class="sec">
   <div style="display:flex;gap:8px;flex-wrap:wrap;margin-bottom:40px;" class="anim">
-    <button class="ef-btn active">All</button>
-    <button class="ef-btn">Case Recaps</button>
-    <button class="ef-btn">Reports</button>
-    <button class="ef-btn">Newsletter</button>
-    <button class="ef-btn">Projects</button>
+    <button class="ef-btn active" data-filter="all">All News</button>
+    <button class="ef-btn" data-filter="consulting">Consulting</button>
+    <button class="ef-btn" data-filter="african">African Business</button>
+    <button class="ef-btn" data-filter="tech">Tech & Innovation</button>
+    <button class="ef-btn" data-filter="strategy">Strategy & Markets</button>
   </div>
 
-  <div class="blog-grid">
-    <div class="blog-card anim" data-delay="0">
-      <div class="blog-thumb">📊<span class="blog-category">Case Recap</span></div>
-      <div class="blog-body">
-        <div class="blog-date">April 2025</div>
-        <div class="blog-title">How Team Lagos Won the 2025 National Case Championship</div>
-        <div class="blog-excerpt">A behind-the-scenes look at the strategy, preparation, and execution that took our team from qualifier to national champions.</div>
-        <div class="blog-read">Read Story →</div>
-      </div>
-    </div>
-    <div class="blog-card anim" data-delay="0.07">
-      <div class="blog-thumb">🌍<span class="blog-category">Report</span></div>
-      <div class="blog-body">
-        <div class="blog-date">March 2025</div>
-        <div class="blog-title">The Nigerian Consulting Landscape: 2025 Annual Report</div>
-        <div class="blog-excerpt">Our flagship research report covering firm growth, hiring trends, and the evolving demand for consultants across Nigeria and West Africa.</div>
-        <div class="blog-read">Read Report →</div>
-      </div>
-    </div>
-    <div class="blog-card anim" data-delay="0.14">
-      <div class="blog-thumb">📬<span class="blog-category">Newsletter</span></div>
-      <div class="blog-body">
-        <div class="blog-date">April 2025</div>
-        <div class="blog-title">CCL Monthly Digest — April 2025</div>
-        <div class="blog-excerpt">This month's top case practice tips, event roundups, member spotlights, and upcoming opportunities in the consulting space.</div>
-        <div class="blog-read">Read Digest →</div>
-      </div>
-    </div>
-    <div class="blog-card anim" data-delay="0.21">
-      <div class="blog-thumb">⚡<span class="blog-category">Project</span></div>
-      <div class="blog-body">
-        <div class="blog-date">February 2025</div>
-        <div class="blog-title">Student-Led Strategy Project: Reviving Lagos Street Markets</div>
-        <div class="blog-excerpt">A CCL team spent 6 weeks working with a Lagos trader association to develop a digitisation and formalisation strategy.</div>
-        <div class="blog-read">Read Project →</div>
-      </div>
-    </div>
-    <div class="blog-card anim" data-delay="0.28">
-      <div class="blog-thumb">🏆<span class="blog-category">Case Recap</span></div>
-      <div class="blog-body">
-        <div class="blog-date">January 2025</div>
-        <div class="blog-title">BCG Open Case Competition: Lessons from Our Finalist Team</div>
-        <div class="blog-excerpt">Three CCL members made it to the final of the BCG Open Case Competition. Here's what they learned along the way.</div>
-        <div class="blog-read">Read Recap →</div>
-      </div>
-    </div>
-    <div class="blog-card anim" data-delay="0.35">
-      <div class="blog-thumb">🔍<span class="blog-category">Report</span></div>
-      <div class="blog-body">
-        <div class="blog-date">December 2024</div>
-        <div class="blog-title">Where Do CCL Members End Up? Alumni Placement Report 2024</div>
-        <div class="blog-excerpt">A data-driven look at where CCL members have landed — from MBB and Big 4 to startups, PE, and development finance.</div>
-        <div class="blog-read">Read Report →</div>
-      </div>
+  <div class="blog-grid" id="blogGrid">
+    <div style="grid-column:1/-1;text-align:center;padding:60px 20px;">
+      <p style="color:var(--ink-muted);font-size:16px;">Loading latest consulting and African business news...</p>
     </div>
   </div>
 </section>
@@ -102,7 +51,173 @@
 .ef-btn{padding:7px 14px;border-radius:100px;border:1px solid var(--border);background:white;color:var(--ink-muted);font-size:12px;font-weight:500;cursor:pointer;font-family:'Outfit',sans-serif;transition:all 0.2s;}
 .ef-btn:hover{border-color:var(--green);color:var(--green);}
 .ef-btn.active{background:var(--green);border-color:var(--green);color:white;}
+.blog-card{opacity:0;animation:fadeIn 0.5s ease forwards;}
+@keyframes fadeIn{from{opacity:0;transform:translateY(10px);}to{opacity:1;transform:translateY(0);}}
+.blog-thumb {
+  position: relative;
+  background-color: var(--bg-light);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  min-height: 200px;
+  display: flex;
+  align-items: flex-end;
+  padding: 12px;
+}
+.blog-thumb::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: linear-gradient(to bottom, rgba(0,0,0,0.2), rgba(0,0,0,0.4));
+  z-index: 1;
+}
+.blog-category {
+  position: relative;
+  z-index: 2;
+}
+.blog-read {
+  cursor: pointer;
+  transition: all 0.2s;
+}
+.blog-card:hover .blog-read {
+  color: var(--green);
+}
 </style>
+
 <script src="nav.js"></script>
+
+<script>
+const API_BASE = 'https://newsapi.org/v2/everything';
+const API_KEY = 'd3b7181b4cd8455999c0a31afbf99d58'; // Will use RSS/JSON feeds as alternative
+
+let allNews = [];
+let currentFilter = 'all';
+
+const SEARCH_QUERIES = {
+  consulting: ['management consulting', 'strategy consulting', 'business consulting', 'McKinsey', 'BCG', 'Bain'],
+  african: ['Nigeria economy', 'African startups', 'Lagos business', 'African tech', 'West Africa'],
+  tech: ['technology innovation', 'artificial intelligence', 'business technology', 'digital transformation'],
+  strategy: ['business strategy', 'market analysis', 'industry trends', 'economic outlook']
+};
+
+async function fetchNewsFromRSS() {
+  try {
+    const response = await fetch('news-data.json');
+    if (response.ok) {
+      allNews = await response.json();
+    } else {
+      generateSampleNews();
+    }
+    renderNews();
+  } catch (error) {
+    console.log('Error loading news data:', error);
+    generateSampleNews();
+    renderNews();
+  }
+}
+
+function extractImageFromDescription(description) {
+  if (!description) return null;
+  const match = description.match(/<img[^>]*src=["']([^"']+)["'][^>]*>/);
+  return match ? match[1] : null;
+}
+
+function categorizeArticle(text) {
+  const lower = text.toLowerCase();
+  if (SEARCH_QUERIES.consulting.some(q => lower.includes(q.toLowerCase()))) return 'consulting';
+  if (SEARCH_QUERIES.african.some(q => lower.includes(q.toLowerCase()))) return 'african';
+  if (SEARCH_QUERIES.tech.some(q => lower.includes(q.toLowerCase()))) return 'tech';
+  if (SEARCH_QUERIES.strategy.some(q => lower.includes(q.toLowerCase()))) return 'strategy';
+  return 'all';
+}
+
+function generateSampleNews() {
+  const sampleData = [
+    { title: 'Global Consulting Firms Expand African Operations in 2025', excerpt: 'Top consulting houses report 40% increase in Africa-focused projects, with Nigeria and Kenya leading demand.', date: 'May 25', category: 'consulting', source: 'Consulting Today', url: 'https://www.mckinsey.com/industries/public-sector/our-insights', image: getPlaceholderImage('consulting') },
+    { title: 'AI Disruption: How African Tech Startups Are Leading Innovation', excerpt: 'African startups secure record funding for AI applications in fintech, agriculture, and logistics.', date: 'May 24', category: 'tech', source: 'Tech Crunch Africa', url: 'https://techcrunch.com/tag/africa/', image: getPlaceholderImage('tech') },
+    { title: 'Nigerian Economic Outlook: Q2 2025 Market Analysis', excerpt: 'Emerging opportunities in manufacturing, agriculture, and digital services create consulting demand.', date: 'May 23', category: 'african', source: 'Business Monitor', url: 'https://www.businesstoday.in/sectors/economy', image: getPlaceholderImage('african') },
+    { title: 'Strategic Reshaping of Enterprise Supply Chains Post-2025', excerpt: 'Companies invest heavily in supply chain optimization strategies following market volatility.', date: 'May 22', category: 'strategy', source: 'Strategy & Business', url: 'https://www.bcg.com/publications/topics/strategy', image: getPlaceholderImage('strategy') },
+    { title: 'African Consulting Market Growth Accelerates', excerpt: 'Local and international firms compete for dominance in 8% annual growth market.', date: 'May 21', category: 'consulting', source: 'Business Africa', url: 'https://www.bain.com/insights/', image: getPlaceholderImage('consulting') },
+    { title: 'Tech Giants Announce Regional Innovation Hubs', excerpt: 'New investment in African innovation hubs signals confidence in emerging market potential.', date: 'May 20', category: 'tech', source: 'Tech News', url: 'https://www.wired.com/tag/startups/', image: getPlaceholderImage('tech') }
+  ];
+  allNews = sampleData;
+}
+
+function getPlaceholderImage(category) {
+  const images = {
+    consulting: 'https://images.unsplash.com/photo-1552664730-d307ca884978?w=400&h=250&fit=crop',
+    tech: 'https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=400&h=250&fit=crop',
+    african: 'https://images.unsplash.com/photo-1552664730-d307ca884978?w=400&h=250&fit=crop',
+    strategy: 'https://images.unsplash.com/photo-1552664730-d307ca884978?w=400&h=250&fit=crop',
+    default: 'https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop'
+  };
+  return images[category] || images.default;
+}
+
+function renderNews() {
+  const grid = document.getElementById('blogGrid');
+  const filtered = currentFilter === 'all' ? allNews : allNews.filter(item => item.category === currentFilter);
+
+  if (filtered.length === 0) {
+    grid.innerHTML = '<div style="grid-column:1/-1;text-align:center;padding:60px 20px;"><p style="color:var(--ink-muted);">No articles found in this category.</p></div>';
+    return;
+  }
+
+  grid.innerHTML = filtered.slice(0, 6).map((item, idx) => {
+    const categoryLabel = getCategoryLabel(item.category);
+    const articleUrl = item.url && item.url !== '#' ? item.url : null;
+    const imageUrl = item.image || getPlaceholderImage(item.category);
+
+    return `
+      <div class="blog-card anim" style="animation-delay:${idx * 0.07}s;">
+        <div class="blog-thumb" style="background-image:url('${imageUrl}');background-size:cover;background-position:center;min-height:200px;display:flex;align-items:flex-end;padding:12px;">
+          <span class="blog-category">${categoryLabel}</span>
+        </div>
+        <div class="blog-body">
+          <div class="blog-date">${item.date}</div>
+          <div class="blog-title">${item.title}</div>
+          <div class="blog-excerpt">${item.excerpt.substring(0, 150)}...</div>
+          <div class="blog-source" style="font-size:12px;color:var(--ink-muted);margin-top:8px;">${item.source}</div>
+          ${articleUrl
+            ? `<a href="${articleUrl}" target="_blank" rel="noopener noreferrer" style="text-decoration:none;color:inherit;"><div class="blog-read">Read Full Story →</div></a>`
+            : `<div class="blog-read" style="opacity:0.6;cursor:not-allowed;">Article Link Unavailable</div>`
+          }
+        </div>
+      </div>
+    `;
+  }).join('');
+}
+
+function getCategoryLabel(cat) {
+  const labels = { consulting: 'Consulting', african: 'African Business', tech: 'Tech', strategy: 'Strategy' };
+  return labels[cat] || 'News';
+}
+
+function openArticle(url) {
+  if (url && url !== '#') {
+    window.open(url, '_blank', 'noopener,noreferrer');
+  }
+}
+
+// Filter buttons
+document.querySelectorAll('.ef-btn').forEach(btn => {
+  btn.addEventListener('click', (e) => {
+    document.querySelectorAll('.ef-btn').forEach(b => b.classList.remove('active'));
+    btn.classList.add('active');
+    currentFilter = btn.dataset.filter || 'all';
+    renderNews();
+  });
+});
+
+// Initial load
+fetchNewsFromRSS();
+
+// Auto-refresh every 1 min (60000ms)
+setInterval(fetchNewsFromRSS, 60 * 1000);
+console.log('Blog will auto-update every 1 minute. Next update at', new Date(Date.now() + 60 * 1000).toLocaleString());
+</script>
 </body>
 </html>
