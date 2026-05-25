@@ -175,13 +175,13 @@
 
 .ev-info {}
 .ev-title { font-family: 'Cormorant Garamond', serif; font-size: 20px; font-weight: 700; color: var(--ink); }
-.ev-meta  { display: flex; gap: 16px; margin-top: 6px; flex-wrap: wrap; }
+.ev-meta  { display: flex; gap: 16px; margin-top: 6px; flex-wrap: nowrap; align-items: center; }
 .ev-tag   { font-size: 11px; font-weight: 600; letter-spacing: 0.5px; }
-.ev-tag.speaker  { color: #6B21A8; background: #F3E8FF; padding: 2px 8px; border-radius: 100px; }
-.ev-tag.training { color: #B45309; background: #FEF3C7; padding: 2px 8px; border-radius: 100px; }
-.ev-tag.webinar  { color: #0F766E; background: #CCFBF1; padding: 2px 8px; border-radius: 100px; }
-.ev-tag.comp     { color: #B91C1C; background: #FEE2E2; padding: 2px 8px; border-radius: 100px; }
-.ev-detail-small { font-size: 13px; color: var(--ink-muted); }
+.ev-tag.speaker  { color: #489707; background: #c8ff62da; padding: 2px 8px; border-radius: 100px; }
+.ev-tag.training { color: #489707; background: #c8ff62da; padding: 2px 8px; border-radius: 100px; }
+.ev-tag.webinar  { color: #489707; background: #c8ff62da; padding: 2px 8px; border-radius: 100px; }
+.ev-tag.comp     { color: #489707; background: #c8ff62da; padding: 2px 8px; border-radius: 100px; }
+.ev-detail-small { font-size: 13px; color: var(--ink-muted); white-space: nowrap; display: flex; align-items: center; gap: 6px; }
 
 .ev-actions { display: flex; flex-direction: column; gap: 8px; align-items: flex-end; }
 .ev-reg-btn {

@@ -30,7 +30,7 @@
     <ul class="nav-links">
       ${navLinks.map(l => `<li><a href="${l.href}" class="${currentPage === l.href ? 'active' : ''}">${l.label}</a></li>`).join('')}
     </ul>
-    <a href="#" class="nav-cta-btn btn">Join CCL →</a>
+    <a href="https://forms.gle/YUV48qoZho97rr2R9" target="_blank" class="nav-cta-btn btn">Join CCL →</a>
     <button class="nav-hamburger" id="hamburger" aria-label="Open menu">
       <span></span><span></span><span></span>
     </button>
@@ -50,7 +50,7 @@
         </div>
         <p class="footer-desc">Equipping the next generation of African business leaders with the skills, networks, and mindset to shape the continent's future.</p>
         <div class="footer-social">
-          <a href="https://www.linkedin.com/company/consulting-club-of-lagos/" target="_blank" rel="noopener noreferrer" class="social-btn" aria-label="LinkedIn">
+          <a href="https://www.linkedin.com/company/consulting-club-of-lagos/posts/?feedView=all" target="_blank" rel="noopener noreferrer" class="social-btn" aria-label="LinkedIn">
             <svg viewBox="0 0 24 24"><path d="M16 8a6 6 0 016 6v7h-4v-7a2 2 0 00-2-2 2 2 0 00-2 2v7h-4v-7a6 6 0 016-6zM2 9h4v12H2z"/><circle cx="4" cy="4" r="2"/></svg>
           </a>
           <a href="https://www.instagram.com/consultingcluboflagos/" target="_blank" rel="noopener noreferrer" class="social-btn" aria-label="Instagram">
