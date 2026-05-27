@@ -1,5 +1,23 @@
 [
   {
+    "title": "Airis Labs Raises $60M to Transform Visual Intelligence",
+    "excerpt": "Airis Labs, a startup specialising in artificial intelligence to build state-of-the-art platforms to interpret visual data, has raised $60 million in total funding. Total funds include a $31 million S",
+    "date": "May 2026",
+    "source": "VENTUREBURN.COM",
+    "url": "https://ventureburn.com/airis-labs-raises-60m-to-transform-visual-intelligence/",
+    "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=400&h=250&fit=crop",
+    "category": "tech"
+  },
+  {
+    "title": "AI Crypto Trading Platform Results in 2026: A 3-Week User Review",
+    "excerpt": "I approached the platform cautiously because of prior experiences with automated trading tools. When you’ve spent enough time in crypto spaces, you develop a radar for things that sound too\nThe post A",
+    "date": "May 2026",
+    "source": "VENTUREBURN.COM",
+    "url": "https://ventureburn.com/ai-crypto-trading-platform-results-in-2026-a-3-week-user-review/",
+    "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
+    "category": "all"
+  },
+  {
     "title": "Focused Energy Raises $240M to Advance Fusion Power",
     "excerpt": "Focused Energy has closed a $240m Series A financing round. The funds will be used to accelerate laser fusion industrialisation and to fund a unique power plant at Biblis, Germany.\nThe post Focused En",
     "date": "May 2026",
@@ -18,80 +36,44 @@
     "category": "all"
   },
   {
-    "title": "Olyzon Raises $10 Million to Build Agentic AI Layer for CTV Media Buying",
-    "excerpt": "Olyzon Raises $10 Million to Advance Agentic CTV Infrastructure Olyzon has raised $10 million in new funding. The round was led by a global venture firm focused on adtech and\nThe post Olyzon Raises $1",
-    "date": "May 2026",
-    "source": "VENTUREBURN.COM",
-    "url": "https://ventureburn.com/olyzon-raises-10-million/",
-    "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
-    "category": "all"
-  },
-  {
-    "title": "Rightsline Secures $500M From Hg to Boost AI Growth",
-    "excerpt": "Rightsline, a leading rights and royalties management software platform serving fiercely rights-intensive sectors, revealed that the platform had secured up to $500 million in strategic growth investm",
-    "date": "May 2026",
-    "source": "VENTUREBURN.COM",
-    "url": "https://ventureburn.com/rightsline-secures-500m-from-hg-to-boost-ai-growth/",
-    "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
-    "category": "all"
-  },
-  {
-    "title": "FAA orders SpaceX to investigate Starship V3 booster failure",
-    "excerpt": "Starship is grounded until SpaceX finds out why the first V3 booster failed during its first test flight.",
+    "title": "In more good news for Amazon, Snowflake signs $6B deal with AWS for AI CPU chips",
+    "excerpt": "Snowflake has signed a new, enormous five-year deal with Amazon to secure chips for AI usage. Nvidia is once again being put on notice.",
     "date": "May 2026",
     "source": "TECHCRUNCH.COM",
-    "url": "https://techcrunch.com/2026/05/27/faa-orders-spacex-to-investigate-starship-v3-booster-failure/",
+    "url": "https://techcrunch.com/2026/05/27/in-more-good-news-for-amazon-snowflake-signs-6b-deal-with-aws-for-ai-cpu-chips/",
     "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
     "category": "all"
   },
   {
-    "title": "Startup Battlefield 200 applications close today: Nominate a founder or submit your startup",
-    "excerpt": "Today is the final day to apply or nominate a startup for Startup Battlefield 200. Once the clock strikes 11:59 p.m. PT, the window closes on your chance to compete for $100,000 in equity-free funding",
+    "title": "Payroll startup Remote says it grew revenue 50% per employee without adding headcount",
+    "excerpt": "Payroll service provider Remote recently surpassed $300 million in annual recurring revenue (ARR) and became cash-flow positive, thanks to a 50% increase in revenue per employee resulting from AI adop",
     "date": "May 2026",
     "source": "TECHCRUNCH.COM",
-    "url": "https://techcrunch.com/2026/05/27/startup-battlefield-200-applications-close-today-nominate-a-founder-or-submit-your-startup/",
+    "url": "https://techcrunch.com/2026/05/27/payroll-startup-remote-says-it-grew-revenue-50-per-employee-without-adding-headcount/",
     "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
     "category": "all"
   },
   {
-    "title": "ElevenLabs’s new music generation model can switch genres mid-track",
-    "excerpt": "ElevenLabs' new model will let users regenerate a section of a song without affecting rest of the track",
+    "title": "UK Visa Portal exposed thousands of applicants’ passports and selfies — then called the lawyers on us",
+    "excerpt": "The third-party website exposed passports, selfies, and the location data of applicants who submitted their documents as part of the U.K. visa application process. Instead of fixing the issue, the web",
     "date": "May 2026",
     "source": "TECHCRUNCH.COM",
-    "url": "https://techcrunch.com/2026/05/27/elevenlabss-new-music-generation-model-can-switch-genres-mid-track/",
+    "url": "https://techcrunch.com/2026/05/27/uk-visa-portal-spilled-thousands-of-applicants-passports-and-selfies-online-and-hasnt-fixed-the-leak/",
     "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
     "category": "all"
   },
   {
-    "title": "Spotify now lets you ‘clip’ moments from your favorite podcast",
-    "excerpt": "With the new scissors icon, you can clip favorite moments from podcasts and share them with your audience.",
+    "title": "Meta launches Instagram, Facebook, and WhatsApp subscriptions, with more to come, including AI plans",
+    "excerpt": "Meta is rolling out paid subscription plans for Instagram, Facebook, and WhatsApp worldwide, while also testing new AI, creator, and business-focused offerings under its broader “Meta One” subscriptio",
     "date": "May 2026",
     "source": "TECHCRUNCH.COM",
-    "url": "https://techcrunch.com/2026/05/27/spotify-now-lets-you-clip-moments-from-your-favorite-podcast/",
+    "url": "https://techcrunch.com/2026/05/27/meta-officially-launches-instagram-facebook-and-whatsapp-subscriptions-with-more-to-come-including-ai-plans/",
     "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
     "category": "all"
   },
   {
-    "title": "El Niño Threat Prompts Peru to Extend Halt on Anchovy Fishing",
-    "excerpt": "Peru has extended a halt on anchovy fishing due to a warming of the Pacific waters off the country’s coast, as the threat of a weather-roiling El Niño looms.",
-    "date": "May 2026",
-    "source": "FEEDS.BLOOMBERG.COM",
-    "url": "https://www.bloomberg.com/news/articles/2026-05-27/el-nino-threat-prompts-peru-to-extend-halt-on-anchovy-fishing",
-    "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
-    "category": "all"
-  },
-  {
-    "title": "Popular X Account Sparks Massive Rally in Little-Known Chipmaker",
-    "excerpt": "Shares of a little-known European chip manufacturer soared more than 70% on Wednesday after being touted by a popular social media account.",
-    "date": "May 2026",
-    "source": "FEEDS.BLOOMBERG.COM",
-    "url": "https://www.bloomberg.com/news/articles/2026-05-27/popular-x-account-sparks-massive-rally-in-little-known-chipmaker",
-    "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
-    "category": "all"
-  },
-  {
-    "title": "Stock Rally Falters on Conflicting US-Iran Signals: Markets Wrap",
-    "excerpt": "A rally in stocks faltered near all-time highs as traders parsed mixed signals about prospects for a US-Iran deal to end the war and revive energy flows through the key Strait of Hormuz.",
+    "title": "Stock Rally Falters on Conflicting US-Iran Signals: Markets Wrap",
+    "excerpt": "Wall Street traders left stocks wavering amid mixed signals about prospects for a deal to end the war in Iran and revive energy flows through the vital Strait of Hormuz.",
     "date": "May 2026",
     "source": "FEEDS.BLOOMBERG.COM",
     "url": "https://www.bloomberg.com/news/articles/2026-05-26/asian-stocks-set-to-rise-as-iran-deal-hopes-hold-markets-wrap",
@@ -99,11 +81,29 @@
     "category": "all"
   },
   {
-    "title": "Sugar Optimism Hinges on El Niño Impact",
-    "excerpt": "As Americans confront a surge in prices at the pump, another inflation wave is headed for the grocery store.\nA combination of factors including bad weather, tariffs and a dwindling cattle herd are alr",
+    "title": "Stocks Rally Pauses as Investors Take Profits, Parse Iran Talks",
+    "excerpt": "US stocks ended Wednesday’s session roughly where they started, as investors took profits in tech names but remained optimistic that an end to the war in the Middle East was near, even as President Do",
     "date": "May 2026",
     "source": "FEEDS.BLOOMBERG.COM",
-    "url": "https://www.bloomberg.com/news/videos/2026-05-27/sugar-optimism-hinges-on-el-nino-impact-video",
+    "url": "https://www.bloomberg.com/news/articles/2026-05-27/us-stocks-drift-as-traders-weigh-latest-iran-peace-deal-reports",
+    "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
+    "category": "all"
+  },
+  {
+    "title": "Dimon ‘On the Lookout’ for JPMorgan’s Next Big Deal",
+    "excerpt": "Bloomberg Intelligence's Herman Chan joins Dani Burger on \"Bloomberg Deals.\" JPMorgan Chase CEO Jamie Dimon says, “there might be, in the next couple years, a chance to put $10 billion to $20 billion ",
+    "date": "May 2026",
+    "source": "FEEDS.BLOOMBERG.COM",
+    "url": "https://www.bloomberg.com/news/videos/2026-05-27/dimon-on-the-lookout-for-jpmorgan-s-next-big-deal-video",
+    "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
+    "category": "all"
+  },
+  {
+    "title": "Jamie Dimon 'On The Lookout' For Next Big Deal, Real-Estate Deals | Bloomberg Deals 5/27/2026",
+    "excerpt": "A weekly, midday program that delivers high-impact, editorially driven coverage of the most important corporate transactions shaping the global market. Today's guests: Ancora Alternatives President Ji",
+    "date": "May 2026",
+    "source": "FEEDS.BLOOMBERG.COM",
+    "url": "https://www.bloomberg.com/news/videos/2026-05-27/bloomberg-deals-5-27-2026-video",
     "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
     "category": "all"
   }
