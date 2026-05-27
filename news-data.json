@@ -36,6 +36,15 @@
     "category": "all"
   },
   {
+    "title": "Airbnb-backed WeRoad raises $58M to take its group travel platform to the US",
+    "excerpt": "WeRoad, the Milan-based group travel startup, has raised a $58 million Series C round led by Airbnb as it prepares for its first major expansion outside Europe. The funding brings the company’s total ",
+    "date": "May 2026",
+    "source": "TECHCRUNCH.COM",
+    "url": "https://techcrunch.com/2026/05/27/airbnb-backed-weroad-raises-58m-to-take-its-group-travel-platform-to-the-us/",
+    "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
+    "category": "all"
+  },
+  {
     "title": "UK Visa Portal spilled thousands of applicants’ passports and selfies online — and hasn’t fixed the leak",
     "excerpt": "The third-party website exposed applicants' sensitive documents as part of the U.K. visa application process. Instead of fixing the issue, the company sent attorneys.",
     "date": "May 2026",
@@ -63,48 +72,39 @@
     "category": "all"
   },
   {
-    "title": "Trump administration wants nuclear startups to use plutonium for their reactors",
-    "excerpt": "The U.S. government is sitting on dozens of tons of weapons-grade plutonium. It's hoping startups can find a use for it.",
+    "title": "Merz Advisers Slash German Outlook, See Faster Inflation",
+    "excerpt": "Economic advisers to German Chancellor Friedrich Merz almost halved their forecast for growth this year as the war in the Middle East and US trade policy weigh on activity.",
     "date": "May 2026",
-    "source": "TECHCRUNCH.COM",
-    "url": "https://techcrunch.com/2026/05/26/trump-administration-wants-nuclear-startups-to-use-plutonium-for-their-reactors/",
+    "source": "FEEDS.BLOOMBERG.COM",
+    "url": "https://www.bloomberg.com/news/articles/2026-05-27/merz-advisers-slash-german-growth-forecast-see-faster-inflation",
     "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
     "category": "all"
   },
   {
-    "title": "Global Stock Rally Powers On as Chip Shares Surge: Markets Wrap",
-    "excerpt": "Global equities extended their record-breaking rally as momentum in technology shares accelerated and geopolitical tensions eased. Oil slipped.",
+    "title": "Stocks Extend Highs on AI Optimism as Oil Slides: Markets Wrap",
+    "excerpt": "The rally in US stocks is set to stretch into a fifth day as optimism around artificial intelligence, lower oil prices and easing bond yields spurred traders to grow increasingly bullish.",
     "date": "May 2026",
     "source": "FEEDS.BLOOMBERG.COM",
     "url": "https://www.bloomberg.com/news/articles/2026-05-26/asian-stocks-set-to-rise-as-iran-deal-hopes-hold-markets-wrap",
+    "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=400&h=250&fit=crop",
+    "category": "tech"
+  },
+  {
+    "title": "HK Banks Tighten Scrutiny of Chinese Clients After Curbs",
+    "excerpt": "Hong Kong banks are ramping up scrutiny of mainland Chinese clients opening savings and investment accounts, part of a broader push to stem capital flight after Beijing launched an unprecedented crack",
+    "date": "May 2026",
+    "source": "FEEDS.BLOOMBERG.COM",
+    "url": "https://www.bloomberg.com/news/articles/2026-05-27/hk-banks-tighten-scrutiny-of-chinese-clients-after-trading-curbs",
     "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
     "category": "all"
   },
   {
-    "title": "Adani Power Drives Group Shares Rebound as Heat Wave Boosts India Energy Demand",
-    "excerpt": "Adani group companies are closing in on a combined market value of $200 billion.",
+    "title": "Salesforce Earnings Can Put AI Fears to Bed, Give Stock a Lift",
+    "excerpt": "While software stocks rebound from the artificial intelligence-driven wipeout earlier this year, Salesforce Inc. hasn’t really benefited. But its earnings after the close Wednesday could pull the comp",
     "date": "May 2026",
     "source": "FEEDS.BLOOMBERG.COM",
-    "url": "https://www.bloomberg.com/news/newsletters/2026-05-27/adani-power-leads-rebound-in-group-shares-as-mercury-soars",
-    "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
-    "category": "all"
-  },
-  {
-    "title": "Memory Chip Frenzy Sends SK Hynix, Micron Into $1 Trillion Club",
-    "excerpt": "The breakneck surge in memory-chip stocks is intensifying, sending the market capitalizations of SK Hynix Inc. and Micron Technology Inc. above $1 trillion for the first time, as investors bet the AI ",
-    "date": "May 2026",
-    "source": "FEEDS.BLOOMBERG.COM",
-    "url": "https://www.bloomberg.com/news/articles/2026-05-27/sk-hynix-joins-1-trillion-club-on-ai-memory-chip-dominance",
-    "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
-    "category": "all"
-  },
-  {
-    "title": "UBS' Khan on China Business, AI Impact and Middle East (Full Interview)",
-    "excerpt": "UBS Group AG’s Asia Pacific President Iqbal Khan discusses the China market, potential impact of AI on jobs and how the bank is navigating geopolitical turmoil. He speaks with Bloomberg's Stephen Engl",
-    "date": "May 2026",
-    "source": "FEEDS.BLOOMBERG.COM",
-    "url": "https://www.bloomberg.com/news/videos/2026-05-27/full-interview-ubs-khan-on-china-geopolitics-and-ai-video",
-    "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
-    "category": "all"
+    "url": "https://www.bloomberg.com/news/articles/2026-05-27/salesforce-earnings-can-put-ai-fears-to-bed-give-stock-a-lift",
+    "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=400&h=250&fit=crop",
+    "category": "tech"
   }
 ]
