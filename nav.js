@@ -51,13 +51,13 @@
         <p class="footer-desc">Equipping the next generation of African business leaders with the skills, networks, and mindset to shape the continent's future.</p>
         <div class="footer-social">
           <a href="https://www.linkedin.com/company/consulting-club-of-lagos/posts/?feedView=all" target="_blank" rel="noopener noreferrer" class="social-btn" aria-label="LinkedIn">
-            <svg viewBox="0 0 24 24"><path d="M16 8a6 6 0 016 6v7h-4v-7a2 2 0 00-2-2 2 2 0 00-2 2v7h-4v-7a6 6 0 016-6zM2 9h4v12H2z"/><circle cx="4" cy="4" r="2"/></svg>
+            <svg viewBox="0 0 24 24" ><path d="M16 8a6 6 0 016 6v7h-4v-7a2 2 0 00-2-2 2 2 0 00-2 2v7h-4v-7a6 6 0 016-6zM2 9h4v12H2z"/><circle cx="4" cy="4" r="2"/></svg>
           </a>
           <a href="https://www.instagram.com/consultingcluboflagos/" target="_blank" rel="noopener noreferrer" class="social-btn" aria-label="Instagram">
-            <svg viewBox="0 0 24 24"><rect x="2" y="2" width="20" height="20" rx="5" ry="5"/><path d="M16 11.37A4 4 0 1112.63 8 4 4 0 0116 11.37z"/><line x1="17.5" y1="6.5" x2="17.51" y2="6.5"/></svg>
+            <svg viewBox="0 0 24 24" fill="none" stroke="black" stroke-width="3"><rect x="2" y="2" width="20" height="20" rx="5" ry="5"/><path d="M16 11.37A4 4 0 1112.63 8 4 4 0 0116 11.37z"/><line x1="17.5" y1="6.5" x2="17.51" y2="6.5"/></svg>
           </a>
           <a href="https://consultingcluboflagos.substack.com/" target="_blank" rel="noopener noreferrer" class="social-btn" aria-label="Substack">
-          <svg viewBox="0 0 24 24"><path d="M22.539 8.242H1.46V4h21.079v4.242zM1.46 10.253v7.506h21.079v-7.506H1.46zm0 8.771V21h21.079v-2.476H1.46z"/></svg>
+          <svg viewBox="0 0 24 24" ><path d="M22.539 8.242H1.46V4h21.079v4.242zM1.46 10.253v7.506h21.079v-7.506H1.46zm0 8.771V21h21.079v-2.476H1.46z"/></svg>
           </a>
         </div>
       </div>

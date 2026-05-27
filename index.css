@@ -54,7 +54,9 @@
   font-weight: 700; color: white; line-height: 1.0;
   margin-bottom: 20px;
 }
-.hero-title em { font-style: italic; color: #8FE0AC; }
+.hero-title em {
+  font-style: normal;
+   color: #8FE0AC; }
 
 .hero-sub {
   font-size: 17px; color: rgba(255,255,255,0.65);
@@ -462,14 +464,16 @@
 }
 
 .donate-inner {
-  display: grid; grid-template-columns: 1fr 1fr;
-  gap: 72px; align-items: center;
-  max-width: 1400px; margin: 0 auto;
+  display: flex; justify-content: center; align-items: center;
+  width: 100%;
   padding: 80px 8%;
 }
 
 
-.donate-content {}
+.donate-content {
+  text-align: center;
+  max-width: 600px;
+}
 
 .donate-content .tag {
   display: inline-block; font-size: 12px; font-weight: 600;
@@ -493,13 +497,15 @@
 
 .donate-impact {
   display: flex; flex-direction: column; gap: 16px;
+  max-width: 500px; margin: 0 auto;
 }
 
 .impact-item {
-  display: flex; gap: 16px; align-items: flex-start;
+  display: flex; gap: 16px; align-items: flex-start; justify-content: center;
   background: white; border: 1px solid var(--border);
   border-radius: 12px; padding: 20px;
   transition: all 0.2s;
+  text-align: center;
 }
 .impact-item:hover {
   border-color: var(--green); box-shadow: 0 8px 24px rgba(27,110,58,0.08);
