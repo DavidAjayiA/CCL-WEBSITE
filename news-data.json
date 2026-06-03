@@ -1,73 +1,109 @@
 [
   {
-    "title": "Cyberdecks are having a moment, rejecting big tech surveillance with style and substance",
-    "excerpt": "Over the last few months, these DIY hardware communities have exploded in popularity as people on social media show off their solar-powered game emulators, pocket-sized ereaders, and clamshell purse c",
+    "title": "Quobly Closes €115M Series A for Quantum Growth",
+    "excerpt": "Quobly has officially closed a massive €115 million ($125 million) Series A funding round. The extraordinary fundraising achievement is one of the largest early-stage raises of all time in the\nThe pos",
+    "date": "Jun 2026",
+    "source": "VENTUREBURN.COM",
+    "url": "https://ventureburn.com/quobly-closes-e115m-series-a-for-quantum-growth/",
+    "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
+    "category": "all"
+  },
+  {
+    "title": "Coralogix Raises $200M to Scale AI Native Observability Platform",
+    "excerpt": "Series F Funding Strengthens AI Observability Expansion Coralogix Raises $200M marks a major milestone for the Boston based observability platform. The company builds AI driven tools for monitoring mo",
+    "date": "Jun 2026",
+    "source": "VENTUREBURN.COM",
+    "url": "https://ventureburn.com/coralogix-raises-200m-to-scale-ai-native-observability-platform/",
+    "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
+    "category": "all"
+  },
+  {
+    "title": "Gigaton Raises $26M to Transform Industrial Control",
+    "excerpt": "Gigaton has raised $26 million in a Series A funding round. The capital injection is intended to expand the company’s autonomous process control platform across the world’s most energy-intensive indus",
+    "date": "Jun 2026",
+    "source": "VENTUREBURN.COM",
+    "url": "https://ventureburn.com/gigaton-raises-26m-to-transform-industrial-control/",
+    "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
+    "category": "all"
+  },
+  {
+    "title": "How to Choose a Base RPC Provider for Production dApps ",
+    "excerpt": "Base is an Ethereum Layer 2 network, built to make onchain applications faster, cheaper, and easier to scale. It is EVM-compatible, built by Coinbase. Teams use Base for DeFi apps,\nThe post How to Cho",
+    "date": "Jun 2026",
+    "source": "VENTUREBURN.COM",
+    "url": "https://ventureburn.com/how-to-choose-a-base-rpc-provider-for-production-dapps/",
+    "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
+    "category": "all"
+  },
+  {
+    "title": "Defense tech is flooded with money, but who’s built to last?",
+    "excerpt": "Defense tech is red hot right now. Anduril and Mach Industries just doubled and quadrupled their valuations, respectively, and the U.S. government is proposing a 40% increase in defense budget. A wave",
     "date": "Jun 2026",
     "source": "TECHCRUNCH.COM",
-    "url": "https://techcrunch.com/2026/06/02/cyberdeck-tiktok-trend-reject-big-tech/",
+    "url": "https://techcrunch.com/video/defense-tech-is-flooded-with-money-but-whos-built-to-last/",
     "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
     "category": "all"
   },
   {
-    "title": "Uber caps employee AI spending after blowing through budget in four months",
-    "excerpt": "Uber's cutback has occurred after the company had reportedly encouraged staff to use AI as much as possible.",
+    "title": "Uber to put 500 data-collection vehicles on the road this year",
+    "excerpt": "The modified Ioniq 5 will be loaded with sensors to capture data for Uber's new AV Labs division.",
     "date": "Jun 2026",
     "source": "TECHCRUNCH.COM",
-    "url": "https://techcrunch.com/2026/06/02/uber-caps-employee-ai-spending-after-blowing-through-budget-in-four-months/",
+    "url": "https://techcrunch.com/2026/06/03/uber-to-put-500-data-collection-vehicles-on-the-road-this-year/",
     "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
     "category": "all"
   },
   {
-    "title": "New Microsoft tool lets devs spin up AI behavior tests using text descriptions",
-    "excerpt": "Microsoft on Tuesday took the wraps off Adaptive Spec-driven Scoring for Evaluation and Regression Testing, an open source framework for spinning up AI evaluations.",
+    "title": "Alphabet’s record-breaking $85B raise for Google’s AI business is a helluva good signal",
+    "excerpt": "If Alphabet's record-breaking $85 billion stock sale signals investor appetite for AI-related offerings, we can see that investors are ready to chow.",
     "date": "Jun 2026",
     "source": "TECHCRUNCH.COM",
-    "url": "https://techcrunch.com/2026/06/02/new-microsoft-tool-lets-devs-spin-up-ai-behavior-tests-using-text-descriptions/",
+    "url": "https://techcrunch.com/2026/06/03/alphabets-record-breaking-85b-raise-for-googles-ai-business-is-a-helluva-good-signal/",
     "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
     "category": "all"
   },
   {
-    "title": "A startup, Everand, is now bundling e-books, audiobooks, and book clubs in challenge to Amazon",
-    "excerpt": "A new reading subscription from Everand offers access to both e-books and audiobooks, and Fable's book club community.",
+    "title": "Meta mercifully spun out VR fitness game Supernatural instead of just killing it",
+    "excerpt": "Meta appears to have listened to the Supernatural users who protested the app's sad fate after sweeping layoffs.",
     "date": "Jun 2026",
     "source": "TECHCRUNCH.COM",
-    "url": "https://techcrunch.com/2026/06/02/a-startup-everand-is-now-bundling-ebooks-audiobooks-and-book-clubs-in-challenge-to-amazon/",
+    "url": "https://techcrunch.com/2026/06/03/meta-mercifully-spun-out-vr-fitness-game-supernatural-instead-of-just-killing-it/",
     "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
     "category": "all"
   },
   {
-    "title": "Canadian Stocks Index Hits 35,000 Amid Rally in Energy",
-    "excerpt": "The Canadian equities benchmark passed 35,000 for the first time on a broadening rally in energy and financials.",
+    "title": "Bill Ackman’s Pershing Square to Exit Universal Music Stake",
+    "excerpt": "Bill Ackman is looking to sell his stake in Universal Music Group NV just days after the Amsterdam-listed company rejected a takeover bid by the hedge fund billionaire.",
     "date": "Jun 2026",
     "source": "FEEDS.BLOOMBERG.COM",
-    "url": "https://www.bloomberg.com/news/articles/2026-06-02/canadian-stocks-index-hits-35-000-amid-rally-in-energy",
+    "url": "https://www.bloomberg.com/news/articles/2026-06-03/bill-ackman-s-pershing-square-set-to-exit-universal-music-stake",
     "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
     "category": "all"
   },
   {
-    "title": "Gold Rises As Traders Weigh Confusion Over US-Iran Talks",
-    "excerpt": "Axel Merk, founder and CIO of Merk Investments, said that while gold remains a relatively 'calm' investment, the world around the commodity and the geopolitical and economic 'crosscurrents' including ",
+    "title": "SpaceX Seeks $75 Billion in Record IPO Plan to Fund AI, Launch",
+    "excerpt": "SpaceX is seeking to raise $75 billion in an initial public offering that would be the biggest of all time, as Elon Musk’s rocket, space and artificial intelligence company targets a historic debut th",
     "date": "Jun 2026",
     "source": "FEEDS.BLOOMBERG.COM",
-    "url": "https://www.bloomberg.com/news/videos/2026-06-02/gold-rises-as-traders-weigh-confusion-over-us-iran-talks-video",
+    "url": "https://www.bloomberg.com/news/articles/2026-06-03/spacex-seeks-75-billion-in-record-ipo-plan-to-fund-ai-launch",
+    "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=400&h=250&fit=crop",
+    "category": "tech"
+  },
+  {
+    "title": "A 180% Crypto Rally Shows New Investing Era as Bitcoin Melts",
+    "excerpt": "As billions of dollars leave Bitcoin and Ether funds, money is flowing into a corner of crypto that promises something investors have long struggled to find in digital assets: a clearer path from econ",
+    "date": "Jun 2026",
+    "source": "FEEDS.BLOOMBERG.COM",
+    "url": "https://www.bloomberg.com/news/articles/2026-06-03/a-180-crypto-rally-shows-new-investing-era-as-bitcoin-stumbles",
     "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
     "category": "all"
   },
   {
-    "title": "Gold Pares Gains as US Jobs Data Reinforces Higher-Rate Bets",
-    "excerpt": "Gold pared gains after robust US jobs data reinforced bets that the Federal Reserve will keep interest rates higher for longer, a headwind for the precious metal.",
+    "title": "Stocks Decline as US-Iran Clashes Drive Oil Higher: Markets Wrap",
+    "excerpt": "A renewed advance in oil sent stocks lower as bond yields rose on concern that an escalation of hostilities between the US and Iran will hinder prospects for a peace deal, with elevated energy costs f",
     "date": "Jun 2026",
     "source": "FEEDS.BLOOMBERG.COM",
-    "url": "https://www.bloomberg.com/news/articles/2026-06-01/gold-holds-fall-as-traders-digest-confusion-over-us-iran-talks",
-    "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
-    "category": "all"
-  },
-  {
-    "title": "Short-Sellers Are Dug In as Bond Market Faces Big Payrolls Test",
-    "excerpt": "Bond traders are locked in to wagers on higher yields even after paring some of their more extreme positions, with critical US employment data due on Friday that may add to the argument for Federal Re",
-    "date": "Jun 2026",
-    "source": "FEEDS.BLOOMBERG.COM",
-    "url": "https://www.bloomberg.com/news/articles/2026-06-02/short-sellers-are-dug-in-as-bond-market-faces-big-payrolls-test",
+    "url": "https://www.bloomberg.com/news/articles/2026-06-02/asian-stocks-poised-to-gain-as-ai-rally-extends-markets-wrap",
     "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
     "category": "all"
   }
