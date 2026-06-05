@@ -174,9 +174,14 @@
 .evd-day   { font-family: 'Cormorant Garamond', serif; font-size: 28px; font-weight: 700; color: var(--green-dark); line-height: 1; }
 
 .ev-info {}
-.ev-title { font-family: 'Cormorant Garamond', serif; font-size: 20px; font-weight: 700; color: var(--ink); }
+.ev-title {
+   font-family: 'Cormorant Garamond',
+    serif; font-size: 20px; 
+    font-weight: 700; 
+    color: var(--ink); 
+  }
 .ev-meta  { display: flex; gap: 16px; margin-top: 6px; flex-wrap: nowrap; align-items: center; }
-.ev-tag   { font-size: 11px; font-weight: 600; letter-spacing: 0.5px; }
+.ev-tag   { font-size: 11px; font-weight: 600; letter-spacing: 0.5px; white-space: nowrap; }
 .ev-tag.speaker  { color: #489707; background: #c8ff62da; padding: 2px 8px; border-radius: 100px; }
 .ev-tag.training { color: #489707; background: #c8ff62da; padding: 2px 8px; border-radius: 100px; }
 .ev-tag.webinar  { color: #489707; background: #c8ff62da; padding: 2px 8px; border-radius: 100px; }
@@ -431,4 +436,5 @@
   .contact-info-panel{ padding: 28px 20px; }
   .contact-form-panel{ padding: 28px 20px; }
   .val-num {color: var(--green-mid);}
+  .ev-meta { flex-wrap: wrap; }
 }
