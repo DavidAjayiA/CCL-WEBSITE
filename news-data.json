@@ -1,109 +1,73 @@
 [
   {
-    "title": "Sharon AI Raises US$1.6 Billion to Expand AI Factory Infrastructure",
-    "excerpt": "Sharon AI Raises Major Financing for AI Infrastructure Growth Sharon AI has raised US$1.6 billion in private placement financing to expand its AI computing infrastructure footprint. The Australian neo",
-    "date": "Jun 2026",
-    "source": "VENTUREBURN.COM",
-    "url": "https://ventureburn.com/sharon-ai-raises-1-6-billion-ai-factory-expansion/",
-    "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
-    "category": "all"
-  },
-  {
-    "title": "Odyssey Raises $310M, Shifts Focus to Amazon and IMD",
-    "excerpt": "Odyssey has raised a major $310 million Series B funding round, pushing the valuation to $1.45 billion for the world model developer. This enormous funding marks a big tactical shift\nThe post Odyssey ",
-    "date": "Jun 2026",
-    "source": "VENTUREBURN.COM",
-    "url": "https://ventureburn.com/odyssey-raises-310m-shifts-focus-to-amazon-and-imd/",
-    "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
-    "category": "all"
-  },
-  {
-    "title": "Twenty Raises $100M, Reaches $1 Billion Valuation",
-    "excerpt": "Twenty has officially closed a $100 million Series B funding round. The strategic investment values the Arlington-based firm at $1 billion, minting it as a rare “deep-tech” unicorn and signalling\nThe ",
-    "date": "Jun 2026",
-    "source": "VENTUREBURN.COM",
-    "url": "https://ventureburn.com/twenty-raises-100m-reaches-1-billion-valuation/",
-    "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
-    "category": "all"
-  },
-  {
-    "title": "Behavox Raises $175M to Expand AI-Native Compliance Platform",
-    "excerpt": "Behavox Raises $175M to Accelerate Global Growth AI compliance firm Behavox raised $175 million of preferred equity to a fund managed by HPS Investment Partners. This is the company’s first\nThe post B",
-    "date": "Jun 2026",
-    "source": "VENTUREBURN.COM",
-    "url": "https://ventureburn.com/behavox-raises-175m-ai-compliance-platform/",
-    "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
-    "category": "all"
-  },
-  {
-    "title": "FTC lawsuit reveals how subscription scam networks evade app store enforcement",
-    "excerpt": "A new FTC lawsuit reveals how sophisticated subscription app operators can allegedly use shell companies and payment infrastructure to stay active on app stores despite mounting consumer complaints.",
+    "title": "OpenAI is bringing on some big guns in the lead-up to its IPO ",
+    "excerpt": "OpenAI is bulking up before its IPO, landing Transformer co-inventor Noam Shazeer from Google DeepMind and former Trump AI policy official Dean Ball in the same week.",
     "date": "Jun 2026",
     "source": "TECHCRUNCH.COM",
-    "url": "https://techcrunch.com/2026/06/17/ftc-lawsuit-reveals-how-subscription-scam-networks-evade-app-store-enforcement/",
+    "url": "https://techcrunch.com/2026/06/18/openai-is-bringing-on-some-big-guns-in-the-lead-up-to-its-ipo/",
     "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
     "category": "all"
   },
   {
-    "title": "World leaders want American AI. They just don’t want America to be able to turn it off.",
-    "excerpt": "French President Macron and Indian PM Modi raised alarms at the G7 summit that the U.S. could cut off access to American AI overnight  — a fear the Anthropic blackout just made real.",
+    "title": "The 11 standout startups from YC’s Demo Day, according to VCs",
+    "excerpt": "TechCrunch spoke to investors to find the hottest startups in the Spring 2026 YC batch. Some of them commanded valuations of over $175 million, VCs said.",
     "date": "Jun 2026",
     "source": "TECHCRUNCH.COM",
-    "url": "https://techcrunch.com/2026/06/17/world-leaders-want-american-ai-they-just-dont-want-america-to-be-able-to-turn-it-off/",
+    "url": "https://techcrunch.com/2026/06/18/the-11-standout-startups-from-ycs-demo-day-according-to-vcs/",
     "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
     "category": "all"
   },
   {
-    "title": "Anthropic becomes first AI startup to join the Frontier carbon removal coalition",
-    "excerpt": "Anthropic has joined the Frontier coalition, which received another $915M in pledges to fund carbon removal projects.",
+    "title": "Rivian owners file lawsuit alleging false promises on self-driving features",
+    "excerpt": "Plaintiffs in the class action complaint allege Rivian falsely promised for years it would bring hands-free driving to its first-generation R1 vehicles.",
     "date": "Jun 2026",
     "source": "TECHCRUNCH.COM",
-    "url": "https://techcrunch.com/2026/06/17/anthropic-becomes-first-ai-startup-to-join-the-frontier-carbon-removal-coalition/",
+    "url": "https://techcrunch.com/2026/06/18/rivian-owners-file-lawsuit-alleging-false-promises-on-self-driving-features/",
     "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
     "category": "all"
   },
   {
-    "title": "Cybercriminals allegedly hacked tens of thousands of Fortinet firewalls used by major companies all over the world",
-    "excerpt": "An alleged Russian-speaking group of cybercriminals is reportedly compromising and targeting several major companies that use Fortinet Firewalls and VPNs through previously known passwords.",
+    "title": "Almost half of U.S. singles feel negatively about AI in dating, Match says",
+    "excerpt": "About 47% of singles look negatively at the use of AI in dating -- but, many dating app users are open to AI helping with profile punch-ups and conversation starters.",
     "date": "Jun 2026",
     "source": "TECHCRUNCH.COM",
-    "url": "https://techcrunch.com/2026/06/17/cybercriminals-allegedly-hacked-tens-of-thousands-of-fortinet-firewalls-used-by-major-companies-all-over-the-world/",
+    "url": "https://techcrunch.com/2026/06/18/almost-half-of-u-s-singles-feel-negatively-about-ai-in-dating-match-says/",
     "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
     "category": "all"
   },
   {
-    "title": "Yen Slides to Weakest Level Versus Dollar Since July 2024",
-    "excerpt": "The yen slumped to its weakest level against the US dollar since July 2024, raising the risk of official intervention to prop it up.",
+    "title": "July Fed Rate-Hike Wagers Drive Bond Futures Volume Surge",
+    "excerpt": "The Treasury market saw a record surge in futures trading that underpins bets that the Federal Reserve’s next move will be to boost interest rates.",
     "date": "Jun 2026",
     "source": "FEEDS.BLOOMBERG.COM",
-    "url": "https://www.bloomberg.com/news/articles/2026-06-17/yen-slides-to-weakest-level-versus-dollar-since-july-2024-mqih9kot",
+    "url": "https://www.bloomberg.com/news/articles/2026-06-18/us-bond-futures-surge-to-drive-wagers-on-a-july-fed-rate-hike",
     "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
     "category": "all"
   },
   {
-    "title": "ASML CEO Sees Musk’s Terafab as Test for Supply Lines",
-    "excerpt": "ASML Holding NV Chief Executive Officer Christophe Fouquet said the chip equipment maker has to make sure it doesn’t experience supply constraints when servicing new projects such as Elon Musk’s Teraf",
+    "title": "The Crypto-Treasury Dream Unravels After a 90% Stock Plunge",
+    "excerpt": "The business model of launching a public company to buy crypto is falling apart. As a result, those in the queue to do so through blank-check companies are facing pressure from investors against a mar",
     "date": "Jun 2026",
     "source": "FEEDS.BLOOMBERG.COM",
-    "url": "https://www.bloomberg.com/news/articles/2026-06-17/asml-ceo-warns-of-possible-supply-constraints-on-musk-s-terafab",
+    "url": "https://www.bloomberg.com/news/articles/2026-06-18/the-crypto-treasury-dream-unravels-after-a-90-stock-plunge",
     "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
     "category": "all"
   },
   {
-    "title": "Stocks Fall as Traders See Fed Hike by October: Markets Wrap",
-    "excerpt": "Wall Street traders sent stocks lower as short-dated bond yields climbed after the Federal Reserve signaled the possibility of higher rates as it assesses the impacts of the Iran war on inflation.",
+    "title": "Heart Health Biotech Kardigan Up 38% After $400 Million IPO",
+    "excerpt": "Kardigan Inc. shares surged 38% in its trading debut, after the heart-health focused biotech raised $400 million in an initial public offering.",
     "date": "Jun 2026",
     "source": "FEEDS.BLOOMBERG.COM",
-    "url": "https://www.bloomberg.com/news/articles/2026-06-16/asian-stocks-to-slip-ahead-of-fed-oil-steadies-markets-wrap",
+    "url": "https://www.bloomberg.com/news/articles/2026-06-18/biotech-kardigan-rises-nearly-2-after-400-million-ipo",
     "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
     "category": "all"
   },
   {
-    "title": "Dollar Rallies as Fed Officials Open Door to 2026 Rate Hike",
-    "excerpt": "The dollar surged the most in three months after Federal Reserve officials signaled growing support for interest-rate hikes this year.",
+    "title": "Newsom Rushes to Sink Billionaire Tax Before Deadline",
+    "excerpt": "Bloomberg's Eliyahu Kamisher joins Scarlet Fu on \"Real Yield.\" Governor Gavin Newsom is mounting a last-ditch pressure campaign to stop a proposed California billionaire tax from ever reaching voters.",
     "date": "Jun 2026",
     "source": "FEEDS.BLOOMBERG.COM",
-    "url": "https://www.bloomberg.com/news/articles/2026-06-17/dollar-rallies-as-fed-officials-open-door-to-2026-rate-hike",
+    "url": "https://www.bloomberg.com/news/videos/2026-06-18/newsom-rushes-to-sink-billionaire-tax-before-deadline-video",
     "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
     "category": "all"
   }
