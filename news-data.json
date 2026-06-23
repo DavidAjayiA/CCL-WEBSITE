@@ -1,5 +1,23 @@
 [
   {
+    "title": "SpaceX Secures $6.3B Compute Deal With Reflection AI",
+    "excerpt": "SpaceX Lands Major AI Infrastructure Contract SpaceX has secured a computing agreement worth up to $6.3 billion with open-source artificial intelligence startup Reflection AI. The deal grants Reflecti",
+    "date": "Jun 2026",
+    "source": "VENTUREBURN.COM",
+    "url": "https://ventureburn.com/spacex-secures-6-3b-compute-deal-with-reflection-ai/",
+    "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=400&h=250&fit=crop",
+    "category": "tech"
+  },
+  {
+    "title": "Cadence Raises $100M to Expand AI-Powered Chronic Care Platform",
+    "excerpt": "Cadence Raises Fresh Capital To Scale Clinical AI Operations Cadence closed a $100 million Series C funding round to expand its AI-driven chronic care solution nationwide. Spark Capital led the\nThe po",
+    "date": "Jun 2026",
+    "source": "VENTUREBURN.COM",
+    "url": "https://ventureburn.com/cadence-raises-100m-expand-ai-chronic-care/",
+    "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
+    "category": "all"
+  },
+  {
     "title": "Top 10 Crypto Exchanges & Apps for Trading in April 2026",
     "excerpt": "This guide cuts through the noise. We’ve analyzed the leading contenders to identify the best cryptocurrency exchange. Our goal is to help you find the perfect fit, whether you need\nThe post Top 10 Cr",
     "date": "Jun 2026",
@@ -18,92 +36,74 @@
     "category": "all"
   },
   {
-    "title": "Best Crypto OTC Trading Platform for High Volume Detailed Review 2026",
-    "excerpt": "Finding the best OTC crypto exchange is critical for anyone looking to move significant capital. Whether you are a hedge fund manager or a Bitcoin whale, you need a partner\nThe post Best Crypto OTC Tr",
-    "date": "Jun 2026",
-    "source": "VENTUREBURN.COM",
-    "url": "https://ventureburn.com/crypto-otc-trading-platform/",
-    "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
-    "category": "all"
-  },
-  {
-    "title": "Binance Review May 2026: Trading, Fees, App & More Explained",
-    "excerpt": "If you’re looking for a comprehensive Binance review that covers all that you need to know about the largest cryptocurrency exchange in  2026, then you’re at the right place. As\nThe post Binance Revie",
-    "date": "Jun 2026",
-    "source": "VENTUREBURN.COM",
-    "url": "https://ventureburn.com/binance-review/",
-    "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
-    "category": "all"
-  },
-  {
-    "title": "Meta debuts new, cheaper smart glasses under its own brand",
-    "excerpt": "The smart glasses are available in several countries starting today in a variety of color and lens combinations.",
+    "title": "After betting the firm on Anthropic, Menlo Ventures raises victorious $3B fund",
+    "excerpt": "Menlo has created a solid rep for itself as an AI investor, all based on one gutsy $750 million move in 2024.",
     "date": "Jun 2026",
     "source": "TECHCRUNCH.COM",
-    "url": "https://techcrunch.com/2026/06/23/meta-debuts-new-cheaper-smart-glasses-under-its-own-brand/",
+    "url": "https://techcrunch.com/2026/06/23/after-betting-the-firm-on-anthropic-menlo-ventures-raises-victorious-3b-fund/",
     "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
     "category": "all"
   },
   {
-    "title": "4 days left to save up to $190 on TechCrunch Founder Summit 2026",
-    "excerpt": "Four days left to save up to $190 on your pass to TechCrunch Founder Summit 2026 - the ultimate founder bootcamp - before Early Bird rates end on June 26 at 11:59 p.m. PT. Register here.",
+    "title": "Klue says hackers stole credential from 2022 that led to customer data breaches",
+    "excerpt": "It's unclear why Klue had not revoked the credential after the limited pilot, which hackers then used to breach a system holding keys for accessing customers' data.",
     "date": "Jun 2026",
     "source": "TECHCRUNCH.COM",
-    "url": "https://techcrunch.com/2026/06/23/4-days-left-to-save-up-to-190-on-techcrunch-founder-summit-2026/",
+    "url": "https://techcrunch.com/2026/06/23/klue-says-hackers-stole-credential-from-2022-that-led-to-customer-data-breaches/",
     "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
     "category": "all"
   },
   {
-    "title": "Ribbie turns real-time baseball stats into arcade-like, pixel-art broadcasts",
-    "excerpt": "Ribbie lets you follow along live with MLB games with a delightful, arcade-inspired interface.",
+    "title": "Mark Zuckerberg wants Meta to launch its own prediction market",
+    "excerpt": "The app would be independent of Meta's other social media offerings, although sources told the NYT that those social sites could direct users to engagement with the app.",
     "date": "Jun 2026",
     "source": "TECHCRUNCH.COM",
-    "url": "https://techcrunch.com/2026/06/23/ribbie-turns-real-time-baseball-stats-into-arcade-like-pixel-art-broadcasts/",
+    "url": "https://techcrunch.com/2026/06/23/mark-zuckerberg-wants-meta-to-launch-its-own-prediction-market/",
     "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
     "category": "all"
   },
   {
-    "title": "Fika Jobs raises $4M to build a video-first hiring platform where AI agents interview candidates",
-    "excerpt": "Stockholm-based startup Fika Jobs is building a video-first hiring platform that combines AI interview agents with short-form video profiles, creating something that feels like a cross between LinkedI",
+    "title": "Anthropic’s Claude Tag is learning your company, one Slack message at a time",
+    "excerpt": "Anthropic’s new Claude Tag brings an always-on AI teammate to Slack. But beyond productivity, the feature is a strategic play to capture organizational context, institutional knowledge, and enterprise",
     "date": "Jun 2026",
     "source": "TECHCRUNCH.COM",
-    "url": "https://techcrunch.com/2026/06/23/fika-jobs-raises-4m-to-build-a-video-first-hiring-platform-where-ai-agents-interview-candidates/",
+    "url": "https://techcrunch.com/2026/06/23/anthropics-claude-tag-is-learning-your-company-one-slack-message-at-a-time/",
     "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
     "category": "all"
   },
   {
-    "title": "Macklem Warns Over-Investment in US Poses Financial Risks",
-    "excerpt": "The Bank of Canada’s top official is warning that over-investment in the US is creating broader correction risks for the global financial system.",
+    "title": "SpaceX Set to Raise $25 Billion of Bonds in Debut Offer",
+    "excerpt": "Elon Musk’s rocket, satellite and AI conglomerate is set to raise $25 billion of bonds in five parts on Tuesday, in its debut bond offer, and is paying a relatively wide premium over Treasuries to get",
     "date": "Jun 2026",
     "source": "FEEDS.BLOOMBERG.COM",
-    "url": "https://www.bloomberg.com/news/articles/2026-06-23/macklem-warns-over-investment-in-us-poses-global-financial-risks",
+    "url": "https://www.bloomberg.com/news/videos/2026-06-23/spacex-set-to-raise-25-billion-of-bonds-in-debut-offer-video",
     "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
     "category": "all"
   },
   {
-    "title": "Stocks Slide as Wall Street Gets AI Wake-Up Call: Markets Wrap",
-    "excerpt": "Wall Street got a reality check as a bruising selloff in several technology giants fueled concern the artificial-intelligence frenzy that has powered the equity bull market might be overblown.",
+    "title": "Ether-Linked Nonprofit Cuts Budget 40% In ‘Challenging Era’",
+    "excerpt": "Vitalik Buterin, the programmer who helped create underlying technology for Ether, the world’s No. 2 cryptocurrency, said the nonprofit behind it is being forced to make some difficult decisions.",
     "date": "Jun 2026",
     "source": "FEEDS.BLOOMBERG.COM",
-    "url": "https://www.bloomberg.com/news/articles/2026-06-22/asian-stocks-set-for-gains-as-oil-holds-losses-markets-wrap",
+    "url": "https://www.bloomberg.com/news/articles/2026-06-23/ether-linked-nonprofit-cuts-budget-40-during-challenging-era",
     "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
     "category": "all"
   },
   {
-    "title": "Apollo Faces Rising Redemption Pressure",
-    "excerpt": "Apollo is again capping withdrawals from its flagship private credit fund after investors requested redemptions far above the 5% limit. Bloomberg's Silas Brown joins Bloomberg Open Interest to explain",
+    "title": "Oil Eases While Tankers Openly Enter Hormuz After Peace Deal",
+    "excerpt": "Oil dipped as tankers become more overt in transiting the Strait of Hormuz, a sign that a much-anticipated rush of barrels is en route to quell one of the most severe supply shocks in history.",
     "date": "Jun 2026",
     "source": "FEEDS.BLOOMBERG.COM",
-    "url": "https://www.bloomberg.com/news/videos/2026-06-23/apollo-faces-rising-redemption-pressure-video",
+    "url": "https://www.bloomberg.com/news/articles/2026-06-22/latest-oil-market-news-and-analysis-for-july-23",
     "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
     "category": "all"
   },
   {
-    "title": "La nueva Fed de Kevin Warsh",
-    "excerpt": "Kevin Warsh superó su primer gran examen al frente de la Reserva Federal. La Fed mantuvo las tasas sin cambios, pero los mercados reforzaron las apuestas a una posible subida en octubre. Mientras tant",
+    "title": "Macklem Says Bank Capital Rule Change Alone Won’t Spark Lending",
+    "excerpt": "Looser bank capital rules alone won’t boost economic activity, according to Bank of Canada Governor Tiff Macklem, echoing analysts who questioned whether a recent regulatory change would immediately s",
     "date": "Jun 2026",
     "source": "FEEDS.BLOOMBERG.COM",
-    "url": "https://www.bloomberg.com/news/videos/2026-06-23/la-nueva-fed-de-kevin-warsh-video",
+    "url": "https://www.bloomberg.com/news/articles/2026-06-23/macklem-says-bank-capital-rule-change-alone-won-t-spark-lending",
     "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
     "category": "all"
   }
