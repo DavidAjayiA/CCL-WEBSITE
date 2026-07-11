@@ -1,73 +1,109 @@
 [
   {
-    "title": "Filing: College app Fizz accuses VC of sharing confidential startup information with rival Sidechat",
-    "excerpt": "Fizz has expanded its lawsuit against rival Sidechat, alleging that a Maveron VC shared its confidential information obtained during a fundraising meeting with the competing startup.",
+    "title": "Hippo Harvest Raises $30M to Expand Robotic Greenhouse Farming",
+    "excerpt": "Hippo Harvest Raises $30M to Scale Robotic Greenhouse Production Hippo Harvest has raised $30 million in Series C funding to expand its robotics-powered greenhouse operations and increase production o",
+    "date": "Jul 2026",
+    "source": "VENTUREBURN.COM",
+    "url": "https://ventureburn.com/hippo-harvest-raises-30m-to-expand-robotic-greenhouse-farming/",
+    "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
+    "category": "all"
+  },
+  {
+    "title": "Oxylabs Raises $130M to Expand AI Data Infrastructure Platform",
+    "excerpt": "Oxylabs Raises $130M to Accelerate AI Data Infrastructure Lithuania-based web data infrastructure company Oxylabs has received $130 million in funding from private equity firm Warburg Pincus. The inve",
+    "date": "Jul 2026",
+    "source": "VENTUREBURN.COM",
+    "url": "https://ventureburn.com/oxylabs-raises-130m-to-expand-ai-data-infrastructure-platform/",
+    "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
+    "category": "all"
+  },
+  {
+    "title": "Kraken Technology Raises $175M to Expand Maritime Defence Systems",
+    "excerpt": "Kraken Technology Raises $175M to Scale Autonomous Maritime Defence Kraken Technology has raised $175 million in a Series B funding round to accelerate the development of autonomous maritime defence s",
+    "date": "Jul 2026",
+    "source": "VENTUREBURN.COM",
+    "url": "https://ventureburn.com/kraken-technology-raises-175m-to-expand-maritime-defence-systems/",
+    "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
+    "category": "all"
+  },
+  {
+    "title": "Voice AI Startup Gradium Raises $100M Seed for Global Expansion",
+    "excerpt": "Paris-based voice AI startup Gradium has announced a major $100 million seed funding round. The company recently added a $30 million extension to its initial $70 million tranche raised last\nThe post V",
+    "date": "Jul 2026",
+    "source": "VENTUREBURN.COM",
+    "url": "https://ventureburn.com/voice-ai-startup-gradium-raises-100m-seed/",
+    "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
+    "category": "all"
+  },
+  {
+    "title": "US cybersecurity agency CISA had to build its incident playbook during the incident, agency reveals",
+    "excerpt": "Independent cybersecurity journalist Brian Krebs reported in May that a security researcher with cyber firm GitGuardian alerted him to reams of exposed passwords stored in a publicly accessible GitHub",
     "date": "Jul 2026",
     "source": "TECHCRUNCH.COM",
-    "url": "https://techcrunch.com/2026/07/10/filing-college-app-fizz-accuses-vc-of-sharing-confidential-startup-information-with-rival-sidechat/",
+    "url": "https://techcrunch.com/2026/07/10/us-cyber-agency-cisa-had-to-build-its-incident-playbook-during-the-incident-agency-reveals/",
     "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
     "category": "all"
   },
   {
-    "title": "SK Hynix raises $26.5B in the biggest foreign IPO in US history, is urged to build new US fabs",
-    "excerpt": "The AI chip boom just produced its biggest Wall Street moment yet. Now SK Hynix and Samsung are being asked to build U.S. factories.",
+    "title": "Phia accused of ‘cookie stuffing,’ taking affiliate credit on purchases it didn’t earn",
+    "excerpt": "Phia, the shopping startup founded by Bill Gates’ daughter, Phoebe, and her friend Sophia Kianni is under fire for a practice known as “cookie stuffing,” which helped the product receive commissions a",
     "date": "Jul 2026",
     "source": "TECHCRUNCH.COM",
-    "url": "https://techcrunch.com/2026/07/10/sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-us-history-is-urged-to-build-new-us-fabs/",
+    "url": "https://techcrunch.com/2026/07/10/phia-accused-of-cookie-stuffing-taking-affiliate-credit-on-purchases-it-didnt-earn/",
     "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
     "category": "all"
   },
   {
-    "title": "A new app, HyperTexting, turns the open web into a scrollable social media-like feed",
-    "excerpt": "HyperTexting's new app aims to make the open web feel more like social media by turning websites, blogs, newsletters, and podcasts into a scrollable feed, while also making it easier to post to your o",
+    "title": "Meta removes controversial AI feature on Instagram after backlash",
+    "excerpt": "\"Our intent was to provide a useful creative tool and to give people control over whether their public content could be referenced in this way,\" the company said in a blog post. \"We've heard the feedb",
     "date": "Jul 2026",
     "source": "TECHCRUNCH.COM",
-    "url": "https://techcrunch.com/2026/07/10/a-new-app-hypertexting-turns-the-open-web-into-a-scrollable-social-media-like-feed/",
+    "url": "https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/",
     "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
     "category": "all"
   },
   {
-    "title": "China is catching up to Elon Musk’s reusable rockets",
-    "excerpt": "China's state-owned space company recovered its first orbital rocket booster after launch.",
+    "title": "Bluesky’s interim CEO, Toni Schneider, drops the ‘interim’",
+    "excerpt": "Schneider, who formerly served as the CEO of Automattic and is a partner at True Ventures, says he is \"all in\" on the unconventional social media platform.",
     "date": "Jul 2026",
     "source": "TECHCRUNCH.COM",
-    "url": "https://techcrunch.com/2026/07/10/china-is-catching-up-to-elon-musks-reusable-rockets/",
+    "url": "https://techcrunch.com/2026/07/10/blueskys-interim-ceo-toni-schneider-drops-the-interim/",
     "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
     "category": "all"
   },
   {
-    "title": "ING Weighs Venezuela Commodity Deals as Client Requests Rise",
-    "excerpt": "ING Groep, one of the top financiers of commodity trading, is fielding “a lot” of calls from clients to support Venezuelan natural resource deals as the country revamps exports after years of US sanct",
+    "title": "India, NZ Plan Strategic Partnership Including Maritime Security",
+    "excerpt": "India and New Zealand will elevate their relationship to a “strategic partnership,” as both seek closer trade and security ties.",
     "date": "Jul 2026",
     "source": "FEEDS.BLOOMBERG.COM",
-    "url": "https://www.bloomberg.com/news/articles/2026-07-09/ing-weighs-venezuela-commodity-deals-as-client-requests-rise",
+    "url": "https://www.bloomberg.com/news/articles/2026-07-11/india-nz-plan-strategic-partnership-including-maratime-security",
     "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
     "category": "all"
   },
   {
-    "title": "Trump Says Iran Ceasefire Over But Talks on Deal to Continue",
-    "excerpt": "President Donald Trump said the US would continue talks with Iran but considers the ceasefire between the countries to be over.\n“The Islamic Republic of Iran has asked us to continue ‘talks.’ We have ",
+    "title": "SK Hynix Rises After Record US Offering | The Close 7/10/2026",
+    "excerpt": "Bloomberg Television brings you the latest news and analysis leading up to the final minutes and seconds before and after the closing bell on Wall Street. Today's guests are Winnie Cisar, CreditSights",
     "date": "Jul 2026",
     "source": "FEEDS.BLOOMBERG.COM",
-    "url": "https://www.bloomberg.com/news/videos/2026-07-10/trump-says-iran-ceasefire-over-but-talks-to-continue-video",
+    "url": "https://www.bloomberg.com/news/videos/2026-07-10/the-close-7-10-2026-video",
     "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
     "category": "all"
   },
   {
-    "title": "Oil Eases as US, Iran Continue Talks After Renewed Fighting",
-    "excerpt": "Oil prices slipped as the US and Iran appear set to continue talks following a flare-up in attacks that strained their ceasefire and deterred tanker traffic through the Strait of Hormuz.",
+    "title": "MGM Resorts Engaged in Deal Talks With Diller, WSJ Says",
+    "excerpt": "MGM Resorts International is engaged in deal talks with Barry Diller’s People Inc. after the entertainment mogul offered to acquire the part of the casino company he doesn’t already own, the Wall Stre",
     "date": "Jul 2026",
     "source": "FEEDS.BLOOMBERG.COM",
-    "url": "https://www.bloomberg.com/news/articles/2026-07-09/latest-oil-market-news-and-analysis-for-july-10",
+    "url": "https://www.bloomberg.com/news/articles/2026-07-10/mgm-resorts-engaged-in-deal-talks-with-diller-wsj-says",
     "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
     "category": "all"
   },
   {
-    "title": "More Americans Are Getting Prenups, Even If They Aren't Rich",
-    "excerpt": "Bloomberg's Nikki Waller joins Scarlet Fu and Tom Keene on \"Bloomberg Money.\" Belle Burden’s blockbuster memoir, 'Strangers,' has riveted readers with the tale of her marriage’s sudden implosion and a",
+    "title": "S&P Global: FIFA to Offer Short-Term Economic Boost",
+    "excerpt": "Nora Wittstruck, Chief Analytical Officer for Governments at S&P Global, joined Romaine Bostick and Katie Greifeld on Bloomberg's 'The Close' to provide insights on FIFA's financial position during th",
     "date": "Jul 2026",
     "source": "FEEDS.BLOOMBERG.COM",
-    "url": "https://www.bloomberg.com/news/videos/2026-07-10/more-americans-getting-prenups-even-if-they-aren-t-rich-video",
+    "url": "https://www.bloomberg.com/news/videos/2026-07-10/s-p-global-fifa-to-offer-short-term-economic-boost-video",
     "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
     "category": "all"
   }
