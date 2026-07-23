@@ -36,6 +36,15 @@
     "category": "all"
   },
   {
+    "title": "Experts say exploiting Anthropic’s Fable isn’t how Kimi K3 got so good",
+    "excerpt": "\"I don't think you get a model this strong and this quickly on the heels of Fable doing strictly distillation,\" one expert told TechCrunch.",
+    "date": "Jul 2026",
+    "source": "TECHCRUNCH.COM",
+    "url": "https://techcrunch.com/2026/07/23/experts-say-exploiting-anthropics-fable-isnt-how-kimi-k3-got-so-good/",
+    "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
+    "category": "all"
+  },
+  {
     "title": "ServiceNow bets $40 million on Indian banking software specialist to expand its financial services push",
     "excerpt": "ServiceNow's investment gives BusinessNext a strategic partner to expand its AI-powered banking software globally.",
     "date": "Jul 2026",
@@ -63,48 +72,39 @@
     "category": "all"
   },
   {
-    "title": "Treasury threatens sanctions after White House claims Moonshot distilled Anthropic’s Fable",
-    "excerpt": "The episode has also intensified a broader debate in Washington over the influx of Chinese open models.",
+    "title": "US Stocks Drop as Traders Focus on AI Spending, Oil Jumps",
+    "excerpt": "US stocks retreated as worries about artificial-intelligence spending weighed on sentiment while oil prices hit $100 a barrel for the first time in two months. Traders braced for more key earnings, in",
     "date": "Jul 2026",
-    "source": "TECHCRUNCH.COM",
-    "url": "https://techcrunch.com/2026/07/22/treasury-threatens-sanctions-after-white-house-claims-moonshot-distilled-anthropics-fable/",
+    "source": "FEEDS.BLOOMBERG.COM",
+    "url": "https://www.bloomberg.com/news/articles/2026-07-23/us-stock-futures-drop-as-traders-focus-on-ai-spending-oil-jumps",
+    "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
+    "category": "all"
+  },
+  {
+    "title": "Stocks Slide as US-Iran Jitters Drive Oil to $100: Markets Wrap",
+    "excerpt": "A surge in oil spurred by the escalating Iran war sent stocks and bonds lower, with Wall Street also rattled by renewed concerns over whether massive artificial-intelligence investments will pay off.",
+    "date": "Jul 2026",
+    "source": "FEEDS.BLOOMBERG.COM",
+    "url": "https://www.bloomberg.com/news/articles/2026-07-22/stock-market-today-dow-s-p-live-updates",
+    "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
+    "category": "all"
+  },
+  {
+    "title": "Mexican Mayor Shot Dead in his Office After Surviving Earlier Hit",
+    "excerpt": "Armed assailants gunned down the mayor of a small Mexican city just south of the country’s capital in his office, at least the 14th sitting city leader to be killed since President Claudia Sheinbaum t",
+    "date": "Jul 2026",
+    "source": "FEEDS.BLOOMBERG.COM",
+    "url": "https://www.bloomberg.com/news/articles/2026-07-23/mexican-mayor-shot-dead-in-his-office-after-surviving-earlier-hit",
     "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
     "category": "all"
   },
   {
     "title": "TotalEnergies Profit Jumps 68% as Wars Drive Refining Boom",
-    "excerpt": "TotalEnergies SE said second-quarter earnings surged as wars in Iran and Ukraine boosted prices for crude and refined products, offsetting a drop in profit from its gas business.",
+    "excerpt": "TotalEnergies SE said second-quarter earnings surged as conflict-related supply disruptions boosted prices for crude and refined products, offsetting a drop in profit from its gas business.",
     "date": "Jul 2026",
     "source": "FEEDS.BLOOMBERG.COM",
     "url": "https://www.bloomberg.com/news/articles/2026-07-23/totalenergies-profit-jumps-68-as-war-upends-energy-markets",
     "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
     "category": "all"
-  },
-  {
-    "title": "Latest Oil Market News and Analysis for July 23",
-    "excerpt": "Oil extended its rally after Iran-backed Houthi militants said they attacked two Saudi Arabian tankers in the Red Sea, escalating the Middle East conflict and threatening deeper supply disruptions.",
-    "date": "Jul 2026",
-    "source": "FEEDS.BLOOMBERG.COM",
-    "url": "https://www.bloomberg.com/news/articles/2026-07-22/latest-oil-market-news-and-analysis-for-july-23",
-    "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
-    "category": "all"
-  },
-  {
-    "title": "Zimbabwe’s State Firm Secures $300 Million to Develop Lithium Mine",
-    "excerpt": "Mutapa Energy Resources, Zimbabwe’s state-owned lithium miner, has secured $300 million from a group of companies, which includes Chinese entities, to develop its assets in the southern African nation",
-    "date": "Jul 2026",
-    "source": "FEEDS.BLOOMBERG.COM",
-    "url": "https://www.bloomberg.com/news/articles/2026-07-23/zimbabwe-state-firm-secures-300-million-lithium-mine",
-    "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
-    "category": "all"
-  },
-  {
-    "title": "Stocks Fall as AI Spending Fears Grow, Oil Rises: Markets Wrap",
-    "excerpt": "Stocks fell as unease over ever-higher artificial intelligence spending outweighed an otherwise strong earnings report from Alphabet Inc., while Brent crude climbed for a fifth straight day.",
-    "date": "Jul 2026",
-    "source": "FEEDS.BLOOMBERG.COM",
-    "url": "https://www.bloomberg.com/news/articles/2026-07-22/stock-market-today-dow-s-p-live-updates",
-    "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=400&h=250&fit=crop",
-    "category": "tech"
   }
 ]
