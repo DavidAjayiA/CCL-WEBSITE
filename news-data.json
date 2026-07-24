@@ -1,109 +1,73 @@
 [
   {
-    "title": "Ropedia Raises $30M in Pre-A Funding To Scale Physical AI Data Infrastructure",
-    "excerpt": "Teaching AI to interact with the real world is one of the most complex challenges today. While chatbots thrived on internet text, robots need physical experience to learn. To solve\nThe post Ropedia Ra",
-    "date": "Jul 2026",
-    "source": "VENTUREBURN.COM",
-    "url": "https://ventureburn.com/ropedia-raises-30m-pre-a-funding-scale-physical-ai-infrastructure/",
-    "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
-    "category": "all"
-  },
-  {
-    "title": "Uber Founder’s Robotics Company Atoms Raises $1.7 Billion To Automate Physical Industries",
-    "excerpt": "Travis Kalanick is making a loud return to the global tech stage with a bold vision for heavy industry. His physical AI startup Atoms raises $1.7 billion in a massive\nThe post Uber Founder’s Robotics ",
-    "date": "Jul 2026",
-    "source": "VENTUREBURN.COM",
-    "url": "https://ventureburn.com/atoms-raises-1-7-billion-robotics-automation/",
-    "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
-    "category": "all"
-  },
-  {
-    "title": "Genius AI Raises $44 Million To Expand From Wellness Into AI In-Person Service Economy",
-    "excerpt": "The in-person service economy has seen a massive surge in the adoption of artificial intelligence. Tech startup Genius AI raises $44 million to capitalize on this growth. The Series D\nThe post Genius ",
-    "date": "Jul 2026",
-    "source": "VENTUREBURN.COM",
-    "url": "https://ventureburn.com/genius-ai-raises-44-million-series-d-service-economy/",
-    "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=400&h=250&fit=crop",
-    "category": "tech"
-  },
-  {
-    "title": "Crystalys Therapeutics Raises $130 Million To Bring Late-Stage Gout Drug To U.S. Market",
-    "excerpt": "Crystalys Therapeutics raises $130 million in an oversubscribed Series B financing round. The funding will help Crystalys take its late-stage gout drug to market. Series B comes less than a\nThe post C",
-    "date": "Jul 2026",
-    "source": "VENTUREBURN.COM",
-    "url": "https://ventureburn.com/crystalys-therapeutics-raises-130-million-gout-drug/",
-    "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
-    "category": "all"
-  },
-  {
-    "title": "Anthropic updates Claude voice mode with more capable models",
-    "excerpt": "Claude's new voice model will let you reschedule your meeting or draft an email",
+    "title": "How AI guardrails are impeding the work of offensive cybersecurity researchers",
+    "excerpt": "We spoke with several cybersecurity researchers, who look for unknown vulnerabilities and develop tools to exploit them, about how OpenAI’s and Anthropic’s guardrails affect their work.",
     "date": "Jul 2026",
     "source": "TECHCRUNCH.COM",
-    "url": "https://techcrunch.com/2026/07/23/anthropic-updates-claude-voice-mode-with-more-capable-models/",
+    "url": "https://techcrunch.com/2026/07/23/how-ai-guardrails-are-impeding-the-work-of-offensive-cybersecurity-researchers/",
     "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
     "category": "all"
   },
   {
-    "title": "AegisAI, founded by former Google security execs, lands $36M to stop AI-driven spear phishing",
-    "excerpt": "The Series A was led by Battery Ventures, bringing AegisAI total funding to $49 million.",
+    "title": "Meet the judges who will crown Australia’s next breakout startup",
+    "excerpt": "TechCrunch Startup Battlefield is coming to Australia — and we're partnering with Stripe to find the country's most exciting early-stage startups.",
     "date": "Jul 2026",
     "source": "TECHCRUNCH.COM",
-    "url": "https://techcrunch.com/2026/07/23/aegisai-founded-by-former-google-security-execs-lands-36m-to-stop-ai-driven-spear-phishing/",
+    "url": "https://techcrunch.com/2026/07/23/meet-the-judges-who-will-crown-australias-next-breakout-startup/",
     "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
     "category": "all"
   },
   {
-    "title": "US government says Iran-linked hackers are disrupting American water and energy providers",
-    "excerpt": "An updated government advisory warns that Iranian hackers are exploiting systems used by water and energy providers.",
+    "title": "Mobileye CEO Amnon Shashua to step aside as company pushes into robotaxis, robotics",
+    "excerpt": "Shashua has been invited to take the chairman of the board seat.",
     "date": "Jul 2026",
     "source": "TECHCRUNCH.COM",
-    "url": "https://techcrunch.com/2026/07/23/us-government-says-iran-linked-hackers-are-disrupting-american-water-and-energy-providers/",
+    "url": "https://techcrunch.com/2026/07/23/mobileye-ceo-amnon-shashua-to-step-aside-as-company-pushes-into-robotaxis-robotics/",
     "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
     "category": "all"
   },
   {
-    "title": "Runway launches AI model router as generative media gets crowded",
-    "excerpt": "The Media Router is a tool that automatically selects the best image, video, or audio generation model for a request based on whether a developer prioritizes quality, speed or cost.",
+    "title": "AMD takes on Nvidia with its Helios AI rack-scale system",
+    "excerpt": "AMD is challenging its chipmaker rival with a new rack-scale system that will start shipping to customers later this year.",
     "date": "Jul 2026",
     "source": "TECHCRUNCH.COM",
-    "url": "https://techcrunch.com/2026/07/23/runway-bets-on-ai-model-routing-as-generative-media-gets-crowded/",
+    "url": "https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/",
     "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
     "category": "all"
   },
   {
-    "title": "Yen’s Slump Extends Beyond Dollar and Stokes Inflation Fears",
-    "excerpt": "While the yen’s plunge to a four-decade low against the dollar has dominated headlines, a broader gauge of the Japanese currency’s health is also flashing a warning.",
+    "title": "CXMT’s Frenzy Ignites Hopes of Futher Hardware Rally in China",
+    "excerpt": "Investors are looking to Monday’s trading debut of CXMT Corp. to help renew a rally in Chinese semiconductor stocks that has been on pause ahead of the memory giant’s initial public offering.",
     "date": "Jul 2026",
     "source": "FEEDS.BLOOMBERG.COM",
-    "url": "https://www.bloomberg.com/news/articles/2026-07-23/yen-s-slump-in-trade-weighted-gauge-shows-its-broad-based-drop",
+    "url": "https://www.bloomberg.com/news/articles/2026-07-23/cxmt-s-frenzy-ignites-hopes-of-futher-hardware-rally-in-china",
     "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
     "category": "all"
   },
   {
-    "title": "Stocks Hit by AI and War Jitters as Oil Tops $100: Markets Wrap",
-    "excerpt": "A surge in oil spurred by the escalating Iran war sent stocks and bonds lower, with Wall Street also rattled by renewed concerns over whether massive artificial-intelligence investments will pay off.",
+    "title": "Manipal Health Seeks to Raise Up to $960 Million in India IPO",
+    "excerpt": "Manipal Health Enterprises Ltd. is seeking to raise as much as 92.7 billion rupees ($960 million) in an initial public offering, continuing a run of sizable share sales in India.",
     "date": "Jul 2026",
     "source": "FEEDS.BLOOMBERG.COM",
-    "url": "https://www.bloomberg.com/news/articles/2026-07-22/stock-market-today-dow-s-p-live-updates",
+    "url": "https://www.bloomberg.com/news/articles/2026-07-24/manipal-health-seeks-to-raise-up-to-960-million-in-india-ipo",
     "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
     "category": "all"
   },
   {
-    "title": "China Tankers Pass Red Sea Chokepoint Despite Houthi Threat",
-    "excerpt": "Two China-owned oil tankers loaded with Saudi Arabian crude exited the Red Sea via the Bab el-Mandeb chokepoint despite overnight Houthi attacks on vessels in the region.",
+    "title": "China’s Gold Imports Surge After International Prices Slump",
+    "excerpt": "Chinese gold imports rose to a two-year high in June, underscoring resilient demand in the world’s biggest bullion market after a plunge in international prices.",
     "date": "Jul 2026",
     "source": "FEEDS.BLOOMBERG.COM",
-    "url": "https://www.bloomberg.com/news/articles/2026-07-23/china-tankers-head-to-red-sea-chokepoint-despite-houthi-attacks",
+    "url": "https://www.bloomberg.com/news/articles/2026-07-24/china-s-gold-imports-surge-after-international-prices-slump",
     "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
     "category": "all"
   },
   {
-    "title": "Miami to Sell Griffin a Historic Site Next to New Citadel HQ",
-    "excerpt": "Miami agreed to sell Ken Griffin a site across the street from the planned Citadel headquarters in the Brickell financial district that currently houses an historic cottage, completing the billionaire",
+    "title": "Latest Oil Market News and Analysis for July 24",
+    "excerpt": "Brent crude traded near $100 a barrel after Houthi attacks on tankers in the Red Sea opened a new front in the Middle East conflict, while President Donald Trump threatened to extend US strikes on Ira",
     "date": "Jul 2026",
     "source": "FEEDS.BLOOMBERG.COM",
-    "url": "https://www.bloomberg.com/news/articles/2026-07-23/miami-to-sell-griffin-an-historic-site-next-to-new-citadel-hq",
+    "url": "https://www.bloomberg.com/news/articles/2026-07-23/latest-oil-market-news-and-analysis-for-july-24",
     "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
     "category": "all"
   }
