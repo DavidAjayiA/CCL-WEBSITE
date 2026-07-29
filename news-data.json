@@ -1,5 +1,23 @@
 [
   {
+    "title": "PrimeXBT: What “Accumulation” Really Tells You About Bitcoin and Gold Right Now",
+    "excerpt": "By Jonatan Randin, Senior Market Analyst, PrimeXBT A figure went round earlier this year claiming whales had bought roughly 270,000 BTC inside thirty days. It got picked up everywhere. It\nThe post Pri",
+    "date": "Jul 2026",
+    "source": "VENTUREBURN.COM",
+    "url": "https://ventureburn.com/primexbt-what-accumulation-really-tells-you-about-bitcoin-and-gold-right-now/",
+    "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
+    "category": "all"
+  },
+  {
+    "title": "Qureight Raises $20M for AI-powered Lung and Heart Clinical Trials",
+    "excerpt": "Qureight just raised $20 million to fix how to read a chest scan. The Cambridge company builds AI imaging tools for lung and heart clinical trials, and its Series B\nThe post Qureight Raises $20M for A",
+    "date": "Jul 2026",
+    "source": "VENTUREBURN.COM",
+    "url": "https://ventureburn.com/qureight-raises-20m-series-b-ai-lung-heart-clinical-trials/",
+    "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
+    "category": "all"
+  },
+  {
     "title": "COR Raises $30M To Boost AI-Driven Profitability For Agencies And Consultancies",
     "excerpt": "Running a creative agency or consulting firm is harder than ever. Client demands keep rising quickly. At the same time, operating budgets stay tight. Leaders often guess whether individual projects\nTh",
     "date": "Jul 2026",
@@ -18,93 +36,75 @@
     "category": "tech"
   },
   {
-    "title": "Binance Wallet Launches NES Perpetuals Trading Competition With $50,000 in Rewards",
-    "excerpt": "Binance Wallet has a new competition running. NES perpetuals, $50,000 on the table, ten days to trade your way into a share of it. Window opens July 28 at 13:00\nThe post Binance Wallet Launches NES Pe",
-    "date": "Jul 2026",
-    "source": "VENTUREBURN.COM",
-    "url": "https://ventureburn.com/binance-wallet-launches-nes-perpetuals-trading-competition-with-50000-in-rewards/",
-    "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
-    "category": "all"
-  },
-  {
-    "title": "Dwelly Raises $170M to Accelerate AI-Led Property Management",
-    "excerpt": "Dwelly Raises Fresh Capital To Scale AI Property Platform  Dwelly raised $170 million to support its AI-first property management approach. The funding was co-led by EQT Growth and General Catalyst,\nT",
-    "date": "Jul 2026",
-    "source": "VENTUREBURN.COM",
-    "url": "https://ventureburn.com/dwelly-raises-170m-series-b-ai-property-management/",
-    "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
-    "category": "all"
-  },
-  {
-    "title": "Cyera agrees to acquire Oasis Security for $1B to safeguard proliferating AI agents",
-    "excerpt": "The deal is Cyera's third acquisition this year.",
+    "title": "DoorDash is building its own drone delivery business",
+    "excerpt": "DoorDash has received FAA approval to operate a commercial drone delivery service in the United States.",
     "date": "Jul 2026",
     "source": "TECHCRUNCH.COM",
-    "url": "https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents/",
+    "url": "https://techcrunch.com/2026/07/29/doordash-is-building-its-own-drone-delivery-business/",
     "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
     "category": "all"
   },
   {
-    "title": "Bot-detection startup Spur nabs $200M from Insight",
-    "excerpt": "Spur Intelligence has raised a $200 million round from Insight Partners for its tech that can identify legit human traffic from bots.",
+    "title": "Spotify adds a running mode to its app",
+    "excerpt": "Running Mode will be available to Premium users on iOS in select countries",
     "date": "Jul 2026",
     "source": "TECHCRUNCH.COM",
-    "url": "https://techcrunch.com/2026/07/28/bot-detection-startup-spur-nabs-200m-from-insight/",
+    "url": "https://techcrunch.com/2026/07/29/spotify-adds-a-running-mode-to-its-app/",
     "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
     "category": "all"
   },
   {
-    "title": "MCP startup Runlayer accuses Rippling of stealing its product idea",
-    "excerpt": "Runlayer is suing Rippling after Rippling evaluated the startup's MCP  gateway product and then opted to build one itself.",
+    "title": "Fast Metals is treating waste with more waste to extract critical minerals",
+    "excerpt": "Aluminum production has saddled the world with billions of tons of caustic waste. One startup has a plan to clean it up and turn a profit.",
     "date": "Jul 2026",
     "source": "TECHCRUNCH.COM",
-    "url": "https://techcrunch.com/2026/07/28/mcp-startup-runlayer-accuses-rippling-of-stealing-its-product-idea/",
+    "url": "https://techcrunch.com/2026/07/29/fast-metals-is-treating-waste-with-more-waste-to-extract-critical-minerals/",
     "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
     "category": "all"
   },
   {
-    "title": "Sam Altman is ready to decelerate",
-    "excerpt": "His change of position comes after \"the first security incident that I have felt very viscerally.\"",
+    "title": "As AI content floods the internet, Pangram raises $9M to detect it",
+    "excerpt": "Pangram has raised $9 million to scale its AI detection software. The startup has also released a new AI text detection model, Pangram 4, and an AI image detection model in research preview.",
     "date": "Jul 2026",
     "source": "TECHCRUNCH.COM",
-    "url": "https://techcrunch.com/2026/07/28/sam-altman-is-ready-to-decelerate/",
+    "url": "https://techcrunch.com/2026/07/29/as-ai-content-floods-the-internet-pangram-raises-9m-to-detect-it/",
     "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
     "category": "all"
   },
   {
-    "title": "South Korea to Hold Emergency Market Meeting After Kospi Turmoil",
-    "excerpt": "South Korea will hold an emergency meeting Wednesday evening to discuss the market situation after a stocks rout that has wiped billions of dollars off investors’ holdings.",
+    "title": "Auge global de la yerba mate no llega a productores argentinos",
+    "excerpt": "La yerba mate conquista consumidores en las grandes ciudades del mundo. Pero detrás de ese boom, muchos pequeños productores argentinos atraviesan una crisis y cada vez más emigran a Brasil en busca d",
     "date": "Jul 2026",
     "source": "FEEDS.BLOOMBERG.COM",
-    "url": "https://www.bloomberg.com/news/articles/2026-07-29/south-korea-to-hold-emergency-market-meeting-after-kospi-turmoil",
+    "url": "https://www.bloomberg.com/news/videos/2026-07-29/auge-global-de-la-yerba-mate-no-llega-a-productores-argentinos",
     "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
     "category": "all"
   },
   {
-    "title": "Citadel Securities’ Fed Rate Hike Call Adds to Market Angst",
-    "excerpt": "Ahead of the Federal Reserve’s policy decision later Wednesday, bond traders are on edge. While most expect policymakers to leave interest rates unchanged, prominent voices across Wall Street are putt",
+    "title": "Emerging Stocks Sink on Asia Losses; Currencies Drop Before Fed",
+    "excerpt": "Emerging-market stocks plunged for a second straight day as a rout in Asian chip stocks deepened, while most currencies weakened ahead of the Federal Reserve’s interest-rate decision.",
     "date": "Jul 2026",
     "source": "FEEDS.BLOOMBERG.COM",
-    "url": "https://www.bloomberg.com/news/articles/2026-07-28/citadel-securities-fed-rate-hike-call-adds-to-market-angst",
+    "url": "https://www.bloomberg.com/news/articles/2026-07-29/emerging-market-stocks-sink-further-as-asian-tech-slide-deepens",
     "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
     "category": "all"
   },
   {
-    "title": "Correlation to Return Into Month-End: 3-Minutes MLIV",
-    "excerpt": "Lizzy Burden, Anna Edwards and Mark Cudmore break down today's key themes for analysts and investors on \"Bloomberg: The Opening Trade.\" (Source: Bloomberg)",
-    "date": "Jul 2026",
-    "source": "FEEDS.BLOOMBERG.COM",
-    "url": "https://www.bloomberg.com/news/videos/2026-07-29/correlation-to-return-into-month-end-3-minutes-mliv-video",
-    "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
-    "category": "all"
-  },
-  {
-    "title": "US Stocks Rise as Fed Call and AI Earnings Loom: Markets Wrap",
-    "excerpt": "US stocks edged higher as traders held off on major bets ahead of a US interest-rate decision where markets see room for a hike and earnings from two of the world’s biggest spenders on artificial inte",
+    "title": "Stocks Fall Before Fed, AI Earnings as Oil Climbs: Markets Wrap",
+    "excerpt": "Wall Street traders gearing up for the Federal Reserve decision sent stocks lower as oil jumped, with the market also bracing for results from two of the biggest artificial-intelligence spenders.",
     "date": "Jul 2026",
     "source": "FEEDS.BLOOMBERG.COM",
     "url": "https://www.bloomberg.com/news/articles/2026-07-28/stock-market-today-dow-s-p-live-updates",
-    "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=400&h=250&fit=crop",
-    "category": "tech"
+    "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
+    "category": "all"
+  },
+  {
+    "title": "Bloom Surges on Higher Guidance as Earnings Double Estimates",
+    "excerpt": "Bloom Energy Corp. jumped the most in a week after the fuel-cell maker posted earnings that were more than double expectations and raised full-year guidance for the second consecutive quarter, a sign ",
+    "date": "Jul 2026",
+    "source": "FEEDS.BLOOMBERG.COM",
+    "url": "https://www.bloomberg.com/news/articles/2026-07-28/bloom-surges-after-raising-guidance-as-earnings-double-estimates",
+    "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
+    "category": "all"
   }
 ]
