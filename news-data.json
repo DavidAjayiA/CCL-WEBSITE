@@ -1,97 +1,52 @@
 [
   {
-    "title": "June AI Raises $20 Million in Pre-Seed Funding To Automate Enterprise AI Deployment",
-    "excerpt": "Enterprise software implementation has hit a massive bottleneck. Companies buy advanced artificial intelligence tools, but integrating them into legacy systems remains slow, costly, and painful. June ",
-    "date": "Aug 2026",
-    "source": "VENTUREBURN.COM",
-    "url": "https://ventureburn.com/june-ai-raises-20-million-in-pre-seed-funding-to-automate-enterprise-ai-deployment/",
-    "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=400&h=250&fit=crop",
-    "category": "tech"
-  },
-  {
-    "title": "Horizon3 Raises $250 Million to Expand AI-Powered Cybersecurity Platform",
-    "excerpt": "Horizon3 Raises $250 Million To Advance AI-Driven Cybersecurity Horizon3, an AI-powered cybersecurity firm based in San Francisco, raised $250 million in Series E funding, which it said would be used\n",
-    "date": "Aug 2026",
-    "source": "VENTUREBURN.COM",
-    "url": "https://ventureburn.com/horizon3-raises-250-million/",
-    "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
-    "category": "all"
-  },
-  {
-    "title": "Dash Bio Raises $30 Million to Modernise Drug Development Infrastructure",
-    "excerpt": "Dash Bio Raises $30 Million To Expand Automated Bioanalysis Platform Life sciences venture firms invested to accelerate innovation across Dash Bio’s Automated Bioanalysis Platform for pharmaceutical c",
-    "date": "Aug 2026",
-    "source": "VENTUREBURN.COM",
-    "url": "https://ventureburn.com/dash-bio-raises-30-million/",
-    "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
-    "category": "all"
-  },
-  {
-    "title": "Zenity Raises $125 Million to Expand AI Agent Security Platform",
-    "excerpt": "Zenity Raises $125 Million To Accelerate AI Agent Security AI security platform Zenity raised $125 million in a Series C funding round for enterprise expansion. The Boston and Tel Aviv-based\nThe post ",
-    "date": "Aug 2026",
-    "source": "VENTUREBURN.COM",
-    "url": "https://ventureburn.com/zenity-raises-125-million/",
-    "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
-    "category": "all"
-  },
-  {
-    "title": "After killer quarter, Palantir CEO Alex Karp calls AI industry ‘Marxist’",
-    "excerpt": "After a quarter that delivered $1 billion in profit, Palantir CEO Alex Karp on Monday once again warned that AI frontier labs are too untrustworthy for enterprises.",
+    "title": "Apple says more ex-employees may have taken confidential data to OpenAI",
+    "excerpt": "Apple says its trade secrets investigation into OpenAI has widened. In a new court filing, Apple claims additional former staff may have retained or accessed confidential information.",
     "date": "Aug 2026",
     "source": "TECHCRUNCH.COM",
-    "url": "https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist/",
+    "url": "https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/",
     "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
     "category": "all"
   },
   {
-    "title": "Snap CEO sidesteps Specs preorder questions on Q2 earnings call",
-    "excerpt": "When asked about product-market fit, Spiegel said he believes mass-market consumer adoption won't occur until the end of the decade.",
+    "title": "Spotify now has over 300M subscribers",
+    "excerpt": "Notably, the company saw its subscriber base swell by 9% in the second quarter despite raising prices in several regions this year.",
     "date": "Aug 2026",
     "source": "TECHCRUNCH.COM",
-    "url": "https://techcrunch.com/2026/08/03/snap-ceo-sidesteps-specs-pre-order-questions-on-q2-earnings-call/",
+    "url": "https://techcrunch.com/2026/08/04/spotify-now-has-over-300m-subscribers/",
     "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
     "category": "all"
   },
   {
-    "title": "AWS is helping vibe-coding startup Superblocks, and the implications are big",
-    "excerpt": "AWS now allows vibe-coding tool Superblocks to be embedded into the private clouds of AWS customers. It's another step toward decoupling apps from models.",
+    "title": "India moves to give its instant payments network a business model",
+    "excerpt": "The legislation lays the groundwork for a potential overhaul of India's zero-merchant-discount-rate regime, under which businesses have not paid fees to accept UPI payments since 2020.",
     "date": "Aug 2026",
     "source": "TECHCRUNCH.COM",
-    "url": "https://techcrunch.com/2026/08/03/aws-is-helping-vibe-coding-startup-superblocks-and-the-implications-are-big/",
+    "url": "https://techcrunch.com/2026/08/04/india-moves-to-give-its-instant-payments-network-a-business-model/",
     "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
     "category": "all"
   },
   {
-    "title": "Who’s legally to blame for Anthropic and OpenAI’s autonomous AI hacks? It’s complicated",
-    "excerpt": "OpenAI and Anthropic admitted that their unreleased AI models escaped their sandboxes and hacked several companies in unprecedented cyberattacks. Who is legally to blame? Should prosecutors charge the",
+    "title": "Is the future of data centers portable? Runware builds a pod to find out",
+    "excerpt": "On Tuesday, AI infrastructure company Runware announced the launch of its own modular data center called Sonic Inference Pod.",
     "date": "Aug 2026",
     "source": "TECHCRUNCH.COM",
-    "url": "https://techcrunch.com/2026/08/03/whos-legally-to-blame-for-anthropic-and-openais-autonomous-ai-hacks-its-complicated/",
+    "url": "https://techcrunch.com/2026/08/04/is-the-future-of-data-centers-portable-runware-builds-a-pod-to-find-out/",
     "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
     "category": "all"
   },
   {
-    "title": "India Seeks Up to $3.3 Billion From LIC Stake Sale: ECM Watch",
-    "excerpt": "India plans to raise as much as $3.3 billion by selling a stake in state-run Life Insurance Corp., as the government seeks to bolster public finances strained by higher oil prices.",
+    "title": "India Boosts LIC Share Sale to $3.3 Billion on Strong Demand",
+    "excerpt": "India on Tuesday expanded the size of its share sale in the state-run insurance giant to raise $3.3 billion after the base offer was oversubscribed, bolstering public finances amid challenges posed by",
     "date": "Aug 2026",
     "source": "FEEDS.BLOOMBERG.COM",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-03/india-seeks-to-raise-at-least-1-3-billion-in-lic-share-sale",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-04/india-expands-lic-share-sale-to-3-3-billion-on-strong-demand",
     "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
     "category": "all"
   },
   {
-    "title": "Aramco Says July Attacks Had No Material Operational Impact",
-    "excerpt": "Saudi Aramco said attacks last month didn’t have a material impact on its operations, and the company is working to expand its oil export capacity as the Iran war disrupts flows through the Strait of ",
-    "date": "Aug 2026",
-    "source": "FEEDS.BLOOMBERG.COM",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-04/aramco-says-july-attacks-had-no-material-impact-on-operations",
-    "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
-    "category": "all"
-  },
-  {
-    "title": "Stocks Hold Near Record Highs as Earnings Roll In: Markets Wrap",
-    "excerpt": "Stocks extended gains as investors turned their focus to corporate earnings after weeks of choppy trading spurred by concerns over tech valuations and the conflict in the Middle East.",
+    "title": "S&P 500 Set for All-Time Highs on Hormuz Deal Push: Markets Wrap",
+    "excerpt": "Hopes for a deal to revive the Strait of Hormuz lifted stocks toward all-time highs, bonds rose and oil sank, with Wall Street’s enthusiasm also fueled by a batch of solid corporate earnings.",
     "date": "Aug 2026",
     "source": "FEEDS.BLOOMBERG.COM",
     "url": "https://www.bloomberg.com/news/articles/2026-08-03/stock-market-today-dow-s-p-live-updates",
@@ -99,11 +54,20 @@
     "category": "all"
   },
   {
-    "title": "Bank of Korea Minutes Back More Hikes on Inflation, Growth",
-    "excerpt": "The Bank of Korea saw a need for further interest-rate hikes after last month’s increase, as stronger growth threatened to keep inflation elevated and financial stability risks continued to build, min",
+    "title": "Latest Oil Market News and Analysis for Aug. 4",
+    "excerpt": "Oil slid as optimism grew that the US and Iran are moving closer to a deal to reopen the vital Strait of Hormuz chokepoint.",
     "date": "Aug 2026",
     "source": "FEEDS.BLOOMBERG.COM",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-04/bank-of-korea-minutes-back-more-hikes-on-inflation-growth",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-03/latest-oil-market-news-and-analysis-for-aug-4",
+    "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
+    "category": "all"
+  },
+  {
+    "title": "A Quant and a Korean Dentist Push the Limits of Leveraged ETFs",
+    "excerpt": "A growing number of investors from the US to South Korea are using leveraged exchange-traded funds for long-term investing, a far cry from the day trading they were designed for.",
+    "date": "Aug 2026",
+    "source": "FEEDS.BLOOMBERG.COM",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-04/a-quant-and-a-korean-dentist-push-the-limits-of-leveraged-etfs",
     "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
     "category": "all"
   }
