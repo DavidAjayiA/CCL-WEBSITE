@@ -1,109 +1,73 @@
 [
   {
-    "title": "CodeRabbit Raises $143M To Govern AI Software Development",
-    "excerpt": "CodeRabbit Raises $143M Series C Funding CodeRabbit has raised $143 million in Series C funding at a $1.5 billion valuation. The round was co-led by Atomico and Smash Capital. New\nThe post CodeRabbit ",
-    "date": "Aug 2026",
-    "source": "VENTUREBURN.COM",
-    "url": "https://ventureburn.com/coderabbit-raises-143m-ai-code-review/",
-    "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
-    "category": "all"
-  },
-  {
-    "title": "Skan AI Raises $63M to Scale Enterprise AI Context Platform",
-    "excerpt": "Skan AI Raises $63M for Enterprise AI Expansion Skan AI has raised $63 million in funding to expand its enterprise artificial intelligence platform. Cathay Innovation and Dell Technologies Capital co-",
-    "date": "Aug 2026",
-    "source": "VENTUREBURN.COM",
-    "url": "https://ventureburn.com/skan-ai-raises-63m-enterprise-ai/",
-    "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=400&h=250&fit=crop",
-    "category": "tech"
-  },
-  {
-    "title": "Blacksmith Raises $45M to Scale AI Code Validation Cloud",
-    "excerpt": "Blacksmith Raises $45M Series B Funding Blacksmith has raised $45 million in Series B funding at a $550 million valuation. Peak XV Partners led the round with participation from existing\nThe post Blac",
-    "date": "Aug 2026",
-    "source": "VENTUREBURN.COM",
-    "url": "https://ventureburn.com/blacksmith-raises-45m-ai-code-validation/",
-    "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
-    "category": "all"
-  },
-  {
-    "title": "XRP Price Prediction: Can XRP Stop The Rot As Moonberg Crypto Presale Explodes?",
-    "excerpt": "The XRP price prediction suggests that the recent drop to $1 could be part of a continuing bearish trend that has done considerable damage to XRP portfolios. Even as news\nThe post XRP Price Prediction",
-    "date": "Aug 2026",
-    "source": "VENTUREBURN.COM",
-    "url": "https://ventureburn.com/xrp-price-prediction-can-xrp-stop-the-rot-as-moonberg-crypto-presale-explodes/",
-    "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
-    "category": "all"
-  },
-  {
-    "title": "Grubhub’s $24M FTC settlement is finally reaching diners and drivers",
-    "excerpt": "Checks are being mailed from Grubhub's $23.8 million fine from  the FTC after it settled allegations over its business practices.",
+    "title": "Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, classes",
+    "excerpt": "Is Anthropic's new watermarking system a travesty? Some have taken to social media to complain that it is.",
     "date": "Aug 2026",
     "source": "TECHCRUNCH.COM",
-    "url": "https://techcrunch.com/2026/08/12/grubhubs-24m-ftc-settlement-is-finally-reaching-diners-and-drivers/",
+    "url": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/",
     "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
     "category": "all"
   },
   {
-    "title": "AI coding startup Cognition reportedly already in talks to raise at $40B valuation",
-    "excerpt": "Cognition may be looking to raise another mega round just a few months after raising $1 billion at a $26 billion valuation.",
+    "title": "AI nuclear power firm Fermi finally has a new CEO",
+    "excerpt": "Lee McIntire, an independent member of Fermi's board, has been hired as CEO, more than three months since the company fired co-founder Toby Neugebauer from the top post.",
     "date": "Aug 2026",
     "source": "TECHCRUNCH.COM",
-    "url": "https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/",
+    "url": "https://techcrunch.com/2026/08/12/ai-nuclear-power-firm-fermi-finally-has-a-new-ceo/",
     "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
     "category": "all"
   },
   {
-    "title": "As AI safety concerns mount, three pioneers make the case for staying open",
-    "excerpt": "At Ai4, three of the world's most respected AI experts—Geoffrey Hinton, Fei-Fei Li, and Andrew Ng—debated regulation, open-source access, and how America can compete as China advances in Asia.",
+    "title": "Northrop’s robot space mechanic is a new way to keep satellites at work longer",
+    "excerpt": "The Mission Robotic Vehicle is making the first attempt to attach a new thruster to an aging satellite.",
     "date": "Aug 2026",
     "source": "TECHCRUNCH.COM",
-    "url": "https://techcrunch.com/2026/08/12/as-ai-safety-concerns-mount-three-pioneers-make-the-case-for-staying-open/",
+    "url": "https://techcrunch.com/2026/08/12/northrops-robot-space-mechanic-is-a-new-way-to-keep-satellites-at-work-longer/",
     "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
     "category": "all"
   },
   {
-    "title": "OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise",
-    "excerpt": "Thrive Holdings has raised $2 billion in new funding at a $12 billion valuation from investors like SoftBank, D1 Capital Partners, and Altimeter Capital.",
+    "title": "Amazon will train on Twitch streamers’ content by default, unless they opt out",
+    "excerpt": "\"If this was opt-in, nobody would opt in,\" Twitch CPO Mike Minton said on a livestream responding to user feedback. \"That's honestly the answer.\"",
     "date": "Aug 2026",
     "source": "TECHCRUNCH.COM",
-    "url": "https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise/",
+    "url": "https://techcrunch.com/2026/08/12/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out/",
     "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
     "category": "all"
   },
   {
-    "title": "S&P 500 Rises Toward Record on Tame Inflation Data: Markets Wrap",
-    "excerpt": "An in-line inflation reading drove stocks toward fresh all-time highs, easing concern about imminent Federal Reserve interest-rate increases despite elevated oil prices.",
+    "title": "Latest Oil Market News and Analysis for Aug. 13",
+    "excerpt": "Oil took a breather after a six-session gain, with futures edging lower as traders waited for signs of progress on reopening the Strait of Hormuz.",
     "date": "Aug 2026",
     "source": "FEEDS.BLOOMBERG.COM",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-11/stock-market-today-dow-s-p-live-updates",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-12/latest-oil-market-news-and-analysis-for-aug-13",
     "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
     "category": "all"
   },
   {
-    "title": "Odd Lots Live Is Coming to Los Angeles",
-    "excerpt": "See you on 9/17",
+    "title": "Origin Shares Rise Most in Six Months as Earnings Beat Estimates",
+    "excerpt": "Origin Energy Ltd.  shares rose the most in six months after full-year profit beat analyst estimates, and the uptake of electric vehicles and home batteries in Australia accelerated.",
     "date": "Aug 2026",
     "source": "FEEDS.BLOOMBERG.COM",
-    "url": "https://www.bloomberg.com/news/newsletters/2026-08-12/odd-lots-live-is-coming-to-los-angeles",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-12/origin-profit-beats-estimates-on-australian-ev-battery-uptake",
     "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
     "category": "all"
   },
   {
-    "title": "US Stocks Climb Near Record as Earnings Revive Faith in AI Trade",
-    "excerpt": "US stocks advanced toward all-time highs, led by the technology sector, after a subdued inflation reading helped ease interest-rate hike concerns.",
+    "title": "Singapore Top Property Firms’ Profit Grows, Signal Recovery",
+    "excerpt": "Two of Singapore’s biggest property-focused firms reported improved first-half profit, helped by growing fee-related business and new project launches, as they seek to rebuild investor confidence afte",
     "date": "Aug 2026",
     "source": "FEEDS.BLOOMBERG.COM",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-12/us-stock-futures-rise-as-tech-rally-resumes-before-key-cpi-data",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-12/singapore-s-capitaland-sees-profit-recovery-due-to-fee-increases",
     "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
     "category": "all"
   },
   {
-    "title": "Hong, Crowley 'Two Sides of the Same Coin' Says Republican Rep. Steil",
-    "excerpt": "Wisconsin Representative Bryan Steil said that moderate David Crowley and democratic socialist Francesca Hong are 'two sides of the same coin' after Crowley pulled off an upset in the Democratic prima",
+    "title": "China’s Coal-to-Chemicals Push Pays Off With Record Profits",
+    "excerpt": "China’s decade-plus quest to replace oil with coal in chemicals production is paying off for industry leader Ningxia Baofeng Energy Group Co., which pulled in record profits as crude prices soared due",
     "date": "Aug 2026",
     "source": "FEEDS.BLOOMBERG.COM",
-    "url": "https://www.bloomberg.com/news/videos/2026-08-12/hong-crowley-two-sides-of-the-same-coin-says-steil-video",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-13/china-s-coal-to-chemicals-push-pays-off-with-record-profits",
     "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
     "category": "all"
   }
