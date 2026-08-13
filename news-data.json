@@ -1,109 +1,73 @@
 [
   {
-    "title": "CodeRabbit Raises $143M To Govern AI Software Development",
-    "excerpt": "CodeRabbit Raises $143M Series C Funding CodeRabbit has raised $143 million in Series C funding at a $1.5 billion valuation. The round was co-led by Atomico and Smash Capital. New\nThe post CodeRabbit ",
-    "date": "Aug 2026",
-    "source": "VENTUREBURN.COM",
-    "url": "https://ventureburn.com/coderabbit-raises-143m-ai-code-review/",
-    "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
-    "category": "all"
-  },
-  {
-    "title": "Skan AI Raises $63M to Scale Enterprise AI Context Platform",
-    "excerpt": "Skan AI Raises $63M for Enterprise AI Expansion Skan AI has raised $63 million in funding to expand its enterprise artificial intelligence platform. Cathay Innovation and Dell Technologies Capital co-",
-    "date": "Aug 2026",
-    "source": "VENTUREBURN.COM",
-    "url": "https://ventureburn.com/skan-ai-raises-63m-enterprise-ai/",
-    "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=400&h=250&fit=crop",
-    "category": "tech"
-  },
-  {
-    "title": "Blacksmith Raises $45M to Scale AI Code Validation Cloud",
-    "excerpt": "Blacksmith Raises $45M Series B Funding Blacksmith has raised $45 million in Series B funding at a $550 million valuation. Peak XV Partners led the round with participation from existing\nThe post Blac",
-    "date": "Aug 2026",
-    "source": "VENTUREBURN.COM",
-    "url": "https://ventureburn.com/blacksmith-raises-45m-ai-code-validation/",
-    "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
-    "category": "all"
-  },
-  {
-    "title": "XRP Price Prediction: Can XRP Stop The Rot As Moonberg Crypto Presale Explodes?",
-    "excerpt": "The XRP price prediction suggests that the recent drop to $1 could be part of a continuing bearish trend that has done considerable damage to XRP portfolios. Even as news\nThe post XRP Price Prediction",
-    "date": "Aug 2026",
-    "source": "VENTUREBURN.COM",
-    "url": "https://ventureburn.com/xrp-price-prediction-can-xrp-stop-the-rot-as-moonberg-crypto-presale-explodes/",
-    "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
-    "category": "all"
-  },
-  {
-    "title": "Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, classes",
-    "excerpt": "Is Anthropic's new watermarking system a travesty? Some have taken to social media to complain that it is.",
+    "title": "Anthropic set AI agents loose on the same task. They started a turf war.",
+    "excerpt": "Anthropic researchers found AI agents can clash, collude and coordinate in unexpected ways, raising new questions about whether today’s safety tests capture the risks of multi-agent systems.",
     "date": "Aug 2026",
     "source": "TECHCRUNCH.COM",
-    "url": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/",
+    "url": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/",
     "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
     "category": "all"
   },
   {
-    "title": "AI nuclear power firm Fermi finally has a new CEO",
-    "excerpt": "Lee McIntire, an independent member of Fermi's board, has been hired as CEO, more than three months since the company fired co-founder Toby Neugebauer from the top post.",
+    "title": "OpenAI hires new CRO as executive shake-up continues",
+    "excerpt": "Dali Rajic will take over as OpenAI's top salesperson.",
     "date": "Aug 2026",
     "source": "TECHCRUNCH.COM",
-    "url": "https://techcrunch.com/2026/08/12/ai-nuclear-power-firm-fermi-finally-has-a-new-ceo/",
+    "url": "https://techcrunch.com/2026/08/13/openai-hires-new-cro-as-executive-shake-up-continues/",
     "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
     "category": "all"
   },
   {
-    "title": "Northrop’s robot space mechanic is a new way to keep satellites at work longer",
-    "excerpt": "The Mission Robotic Vehicle is making the first attempt to attach a new thruster to an aging satellite.",
+    "title": "Ford on track to complete $2B factory overhaul for Fathom EV truck",
+    "excerpt": "Ford expects to begin prototype builds of the Fathom EV in the first quarter of 2027.",
     "date": "Aug 2026",
     "source": "TECHCRUNCH.COM",
-    "url": "https://techcrunch.com/2026/08/12/northrops-robot-space-mechanic-is-a-new-way-to-keep-satellites-at-work-longer/",
+    "url": "https://techcrunch.com/2026/08/13/ford-on-track-to-complete-2b-factory-overhaul-for-fathom-ev-truck/",
     "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
     "category": "all"
   },
   {
-    "title": "Amazon will train on Twitch streamers’ content by default, unless they opt out",
-    "excerpt": "\"If this was opt-in, nobody would opt in,\" Twitch CPO Mike Minton said on a livestream responding to user feedback. \"That's honestly the answer.\"",
+    "title": "X open sources its ranking algorithm, letting users see if they’ve been ‘shadowbanned’",
+    "excerpt": "X is expanding the open source code behind its 'For You' feed and launching new transparency tools that show users when its ranking systems have affected their accounts or posts.",
     "date": "Aug 2026",
     "source": "TECHCRUNCH.COM",
-    "url": "https://techcrunch.com/2026/08/12/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out/",
+    "url": "https://techcrunch.com/2026/08/13/x-open-sources-its-ranking-algorithm-letting-users-see-if-theyve-been-shadowbanned/",
     "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
     "category": "all"
   },
   {
-    "title": "Kaplan on Rate Hikes, Warsh at Jackson Hole",
-    "excerpt": "Former Dallas Fed President and Goldman Sachs Vice Chairman Robert Kaplan says the Federal Reserve was right to hold rates in July. He also says Fed Chairman Kevin Warsh needs to give some more detail",
-    "date": "Aug 2026",
-    "source": "FEEDS.BLOOMBERG.COM",
-    "url": "https://www.bloomberg.com/news/videos/2026-08-13/kaplan-on-rate-hikes-warsh-at-jackson-hole-video",
-    "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
-    "category": "all"
-  },
-  {
-    "title": "Jaguar Land Rover Sales Dented by Supplier Fire and Iran War",
-    "excerpt": "Jaguar Land Rover Automotive Plc’s revenue tumbled almost 10% in the latest quarter after production at Britain’s largest carmaker was derailed again.",
-    "date": "Aug 2026",
-    "source": "FEEDS.BLOOMBERG.COM",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-13/jlr-owner-misses-profit-estimate-stung-by-luxury-unit-weakness",
-    "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
-    "category": "all"
-  },
-  {
-    "title": "Air India Orders One-Off Drug Test for Its Over 5,000 Pilots",
-    "excerpt": "Air India Group will screen its more than 5,000 pilots for psychoactive substances in an unprecedented one-time action, according to an internal email, after a captain allegedly tested positive for il",
-    "date": "Aug 2026",
-    "source": "FEEDS.BLOOMBERG.COM",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-13/air-india-orders-one-off-drug-test-for-its-over-5-000-pilots",
-    "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
-    "category": "all"
-  },
-  {
-    "title": "Stocks Rise and Bond Yields Fall After PPI Report: Markets Wrap",
-    "excerpt": "Wall Street traders drove stocks higher and bond yields fell as more evidence that inflation isn’t broadly accelerating reinforced bets the Federal Reserve will refrain from raising rates next month.",
+    "title": "S&P 500 Set for Record High on Inflation Cooldown: Markets Wrap",
+    "excerpt": "Wall Street traders drove stocks higher and bond yields fell as more evidence of moderating inflation reinforced bets the Federal Reserve will refrain from raising interest rates next month.",
     "date": "Aug 2026",
     "source": "FEEDS.BLOOMBERG.COM",
     "url": "https://www.bloomberg.com/news/articles/2026-08-12/stock-market-today-dow-s-p-live-updates",
+    "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
+    "category": "all"
+  },
+  {
+    "title": "Latest Oil Market News and Analysis for Aug. 13",
+    "excerpt": "Oil snapped its run of recent gains, as limited progress over a deal to end the Iran war left traders parsing how much oil is crossing the Strait of Hormuz.",
+    "date": "Aug 2026",
+    "source": "FEEDS.BLOOMBERG.COM",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-12/latest-oil-market-news-and-analysis-for-aug-13",
+    "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
+    "category": "all"
+  },
+  {
+    "title": "Workday Shares Surge After Report Silver Lake Is in Talks to Buy Company  ",
+    "excerpt": "Workday Inc. shares jumped after a Reuters report that private equity firm Silver Lake is in talks to purchase the software provider.",
+    "date": "Aug 2026",
+    "source": "FEEDS.BLOOMBERG.COM",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-13/workday-jumps-after-reuters-reports-silver-lake-in-talks-to-buy",
+    "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
+    "category": "all"
+  },
+  {
+    "title": "Japan On Possible Yen Intervention Watch",
+    "excerpt": "Bloomberg's Anya Andrianova joins Emily Graffeo on \"Real Yield.\" The yen remains within striking distance of a crucial level against the dollar, even after Prime Minister Sanae Takaichi’s government w",
+    "date": "Aug 2026",
+    "source": "FEEDS.BLOOMBERG.COM",
+    "url": "https://www.bloomberg.com/news/videos/2026-08-13/japan-on-possible-yen-intervention-watch-video",
     "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
     "category": "all"
   }
