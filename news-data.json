@@ -36,6 +36,24 @@
     "category": "all"
   },
   {
+    "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
+    "excerpt": "OpenRouter's CEO recently described the startup as Stripe for AI.",
+    "date": "Aug 2026",
+    "source": "TECHCRUNCH.COM",
+    "url": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
+    "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
+    "category": "all"
+  },
+  {
+    "title": "Why people aren’t buying Mark Zuckerberg’s AI future",
+    "excerpt": "On the latest episode of Equity podcast, we discuss why not everyone is buying Zuckerberg’s vision.",
+    "date": "Aug 2026",
+    "source": "TECHCRUNCH.COM",
+    "url": "https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future/",
+    "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
+    "category": "all"
+  },
+  {
     "title": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’",
     "excerpt": "Dario Amodei is pushing back against the idea that he's been painting an overly pessimistic picture of AI.",
     "date": "Aug 2026",
@@ -54,56 +72,38 @@
     "category": "all"
   },
   {
-    "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
-    "excerpt": "The woman claimed that AI tools are \"taking everyday life and turning it into child sexual abuse.\"",
-    "date": "Aug 2026",
-    "source": "TECHCRUNCH.COM",
-    "url": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
-    "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
-    "category": "all"
-  },
-  {
-    "title": "Anthropic shares more details about how Claude’s new watermarks will work",
-    "excerpt": "How will the watermarking actually work? Can it be hidden with editing? And how does this affect code?",
-    "date": "Aug 2026",
-    "source": "TECHCRUNCH.COM",
-    "url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
-    "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
-    "category": "all"
-  },
-  {
-    "title": "Bloomberg This Weekend | Meta on Trial, the Race To Replace Gov. DeSantis, and Pet Longevity",
-    "excerpt": "The news doesn’t stop when markets close. Hosts Joe Mathieu, Carol Massar and Lisa Mateo bring clarity, context and a bit of humor to the weekend’s biggest headlines, LIVE from New York. Joined by Rep",
+    "title": "Trump Says He’s Curtailing Drills With South Korea",
+    "excerpt": "President Donald Trump said he told the Pentagon to “substantially reduce” joint military exercises with South Korea, citing the cost of the drills and the signal they send to North Korea. Bloomberg's",
     "date": "Aug 2026",
     "source": "FEEDS.BLOOMBERG.COM",
-    "url": "https://www.bloomberg.com/news/videos/2026-08-16/bloomberg-this-weekend-8-16-2026-video",
+    "url": "https://www.bloomberg.com/news/videos/2026-08-17/trump-says-he-s-curtailing-drills-with-south-korea-video",
     "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
     "category": "all"
   },
   {
-    "title": "Fed’s Internal Rate Debate Faces New Scrutiny",
-    "excerpt": "Minutes from the Federal Reserve’s July meeting will offer a closer look at the debate that produced three dissents in favor of a quarter-point rate increase, an unusually visible split as policymaker",
+    "title": "NAB Shares Drop as Mortgage Growth in Australia Seen Slowing",
+    "excerpt": "National Australia Bank Ltd. shares fell Monday after the lender revealed slowing mortgage growth and cash earnings that were below consensus estimates.",
     "date": "Aug 2026",
     "source": "FEEDS.BLOOMBERG.COM",
-    "url": "https://www.bloomberg.com/news/videos/2026-08-16/fed-s-internal-rate-debate-faces-new-scrutiny-video",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-16/national-australia-bank-profit-edges-up-on-business-bank-growth",
     "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
     "category": "all"
   },
   {
-    "title": "Inside the Business of Ultra Luxury Travel",
-    "excerpt": "Luxury Travel and Event Expert Olivia Ferney sits down with Lisa Mateo, Joe Mathieu and Carol Massar on Bloomberg This Weekend and shares how she has built a business catering to ultrawealthy clients ",
+    "title": "Dollar Dips as Fed Hike Bets Ease, Treasuries Gain: Markets Wrap",
+    "excerpt": "The dollar remained under pressure after weak US economic data reduced bets for the Federal Reserve to raise interest rates next month.",
     "date": "Aug 2026",
     "source": "FEEDS.BLOOMBERG.COM",
-    "url": "https://www.bloomberg.com/news/videos/2026-08-16/inside-the-business-of-ultra-luxury-travel-video",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-16/stock-market-today-dow-s-p-live-updates",
     "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
     "category": "all"
   },
   {
-    "title": "Donalds Looks to Build on DeSantis Legacy",
-    "excerpt": "Republican Rep. Byron Donalds is on Bloomberg This Weekend and tells hosts Joe Mathieu and Carol Massar that affordability will be central to his campaign for Florida governor, proposing changes aimed",
+    "title": "A2 Milk Sees Slow Recovery From China Formula Supply Problem",
+    "excerpt": "New Zealand infant formula supplier a2 Milk expects only a gradual recovery from supply chain disruptions that impacted its China sales earlier this year, signaling the earnings margins will be soft i",
     "date": "Aug 2026",
     "source": "FEEDS.BLOOMBERG.COM",
-    "url": "https://www.bloomberg.com/news/videos/2026-08-16/donalds-looks-to-build-on-desantis-legacy-video",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-16/a2-milk-sees-slow-recovery-from-china-formula-supply-problem",
     "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
     "category": "all"
   }
