@@ -1,5 +1,23 @@
 [
   {
+    "title": "Relativity Networks Raises $22 Million To Bring Faster Hollow Fiber to Data Centers",
+    "excerpt": "Local power grid bottlenecks have forced AI operators to split computing clusters across far-flung regions. Relativity Networks raises $22 million to implement hollow-core fibers to connect data cente",
+    "date": "Aug 2026",
+    "source": "VENTUREBURN.COM",
+    "url": "https://ventureburn.com/relativity-networks-22-million-hollow-core-fiber-data-centers/",
+    "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
+    "category": "all"
+  },
+  {
+    "title": "NVIDIA-Backed Groq Raises $350 Million To Build the World’s Leading AI Inference Cloud",
+    "excerpt": "Building enterprise artificial intelligence infrastructure has become prohibitively expensive for startups. Groq raises $350 million as it aims to cut the price of running inference AI in half. Groq’s",
+    "date": "Aug 2026",
+    "source": "VENTUREBURN.COM",
+    "url": "https://ventureburn.com/groq-raises-350-million-funding-3-5b-valuation-nvidia-inference/",
+    "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=400&h=250&fit=crop",
+    "category": "tech"
+  },
+  {
     "title": "Craif Raises $33M to Advance US Cancer Testing Platform",
     "excerpt": "Craif Raises Series D for Cancer Detection Craif has raised approximately $33 million in Series D financing to advance early cancer detection technology. The round included $30.7 million in equity\nThe",
     "date": "Aug 2026",
@@ -18,20 +36,29 @@
     "category": "all"
   },
   {
-    "title": "Flexential Secures $800M to Expand Data Centre Capacity",
-    "excerpt": "Flexential Secures Capital for Data Centre Growth Flexential has secured an $800 million credit facility to accelerate data centre development. The financing targets markets experiencing strong custom",
+    "title": "AI isn’t close to curing cancer. This startup says it knows what it will take.",
+    "excerpt": "It's the data, stupid.",
     "date": "Aug 2026",
-    "source": "VENTUREBURN.COM",
-    "url": "https://ventureburn.com/flexential-secures-800m-data-centre-capacity/",
+    "source": "TECHCRUNCH.COM",
+    "url": "https://techcrunch.com/2026/08/19/ai-isnt-close-to-curing-cancer-this-startup-says-it-knows-what-it-will-take/",
     "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
     "category": "all"
   },
   {
-    "title": "Smack Technologies Raises $61M To Accelerate Military AI Decision-Making Software",
-    "excerpt": "Developing military AI demands immense capital, with the soaring upfront cost of building AI infrastructure stalling many defense startups before deployment. To eliminate these critical operational bo",
+    "title": "You can Venmo your college tuition, for some reason",
+    "excerpt": "Kids these days don't know how good they have it.",
     "date": "Aug 2026",
-    "source": "VENTUREBURN.COM",
-    "url": "https://ventureburn.com/smack-technologies-raises-61m-military-ai-software/",
+    "source": "TECHCRUNCH.COM",
+    "url": "https://techcrunch.com/2026/08/19/you-can-venmo-your-college-tuition-for-some-reason/",
+    "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
+    "category": "all"
+  },
+  {
+    "title": "Relativity Networks raises $22 million to bring a faster kind of fiber to data centers",
+    "excerpt": "Relativity Networks deals in hollow-core fiber, a rarely deployed technology that allows data to be transmitted 30% faster than conventional fiber.",
+    "date": "Aug 2026",
+    "source": "TECHCRUNCH.COM",
+    "url": "https://techcrunch.com/2026/08/19/relativity-networks-raises-22-million-to-bring-a-faster-kind-of-fiber-to-data-centers/",
     "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
     "category": "all"
   },
@@ -45,65 +72,38 @@
     "category": "all"
   },
   {
-    "title": "DOJ’s probe into Andreessen Horowitz over board seats baffles VCs",
-    "excerpt": "Since portfolio companies often pivot and expand into competing markets, investors view occasional conflicts of interest as unavoidable for large VC firms.",
-    "date": "Aug 2026",
-    "source": "TECHCRUNCH.COM",
-    "url": "https://techcrunch.com/2026/08/18/dojs-probe-into-andreessen-horowitz-over-board-seats-baffles-vcs/",
-    "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
-    "category": "all"
-  },
-  {
-    "title": "TikTok explores peer-to-peer payments via DMs, report says",
-    "excerpt": "If rolled out, the feature would use the social media service’s TikTok Pay offering, which is already available in Southeast Asia for TikTok Shop purchases.",
-    "date": "Aug 2026",
-    "source": "TECHCRUNCH.COM",
-    "url": "https://techcrunch.com/2026/08/18/tiktok-explores-peer-to-peer-payments-via-dms-report-says/",
-    "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
-    "category": "all"
-  },
-  {
-    "title": "OpenAI institutes new safeguards after Hugging Face breach",
-    "excerpt": "The new safeguards include more detailed monitoring of models during the development process, as well as greater emphasis on alignment and security during the post-training process.",
-    "date": "Aug 2026",
-    "source": "TECHCRUNCH.COM",
-    "url": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/",
-    "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
-    "category": "all"
-  },
-  {
-    "title": "Australia Rejects Far-Right Call to Slash Cigarette Taxes by 75%",
-    "excerpt": "Australia’s government rejected the far right One Nation party’s call to slash cigarette taxes in order to reduce prices and cut crime, arguing instead for an intensified struggle against illegal toba",
+    "title": "Where Investors Can Hide From Shocks | Open Interest 8/18/2026",
+    "excerpt": "Get a jump start on the US trading day with Dani Burger on \"Bloomberg Open Interest.\" Bond anxiety is building around the globe. Ed Yardeni weighs the risks from AI and the Fed. Home Depot puts the co",
     "date": "Aug 2026",
     "source": "FEEDS.BLOOMBERG.COM",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-19/australia-rejects-far-right-call-to-slash-cigarette-taxes-by-75",
+    "url": "https://www.bloomberg.com/news/videos/2026-08-18/open-interest-8-18-2026-video",
     "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
     "category": "all"
   },
   {
-    "title": "UAE Reports Iranian Missile Attack as Tensions Rise | Horizons Middle East & Africa 8/19/2026",
-    "excerpt": "Horizons Middle East & Africa is your daily spotlight on one of the world's fastest-growing regions. Live from Dubai, we bring you the latest global markets and analysis, plus news-making interviews, ",
+    "title": "Iran War: Trump Says No Talks Taking Place | The Pulse 8/19/2026",
+    "excerpt": "\"The Pulse With Francine Lacqua\" is all about conversations with high profile guests in the beating heart of global business, economics, finance and politics. Based in London, we go wherever the story",
     "date": "Aug 2026",
     "source": "FEEDS.BLOOMBERG.COM",
-    "url": "https://www.bloomberg.com/news/videos/2026-08-19/horizons-middle-east-africa-8-19-2026-video",
+    "url": "https://www.bloomberg.com/news/videos/2026-08-19/the-pulse-8-19-2026-video",
     "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
     "category": "all"
   },
   {
-    "title": "Optimism on Europe Returns to Pre-Iran War Highs: Taking Stock",
-    "excerpt": "Investors increasingly favor European stocks over US peers as the region’s robust economic outlook proves more attractive at a time of surging AI spending.",
+    "title": "Ukraine's 150% Bond Market Rally Shows Traders It Can Beat the Odds",
+    "excerpt": "The four-year advance in Ukraine’s high-octane bond market is running strong.",
     "date": "Aug 2026",
     "source": "FEEDS.BLOOMBERG.COM",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-19/optimism-on-europe-returns-to-pre-iran-war-highs-taking-stock",
-    "image": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=400&h=250&fit=crop",
-    "category": "strategy"
+    "url": "https://www.bloomberg.com/news/articles/2026-08-19/ukraine-s-150-bond-market-rally-shows-traders-it-can-beat-the-odds",
+    "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
+    "category": "all"
   },
   {
-    "title": "India Stocks Top Indonesia as Asia’s Least-Favored in BofA Poll",
-    "excerpt": "India has replaced Indonesia as Asia’s least-preferred stock market in a survey of fund managers by Bank of America Corp., signaling growing caution toward a market that’s among the world’s worst perf",
+    "title": "Stocks Waver as Oil Keeps Bonds Under Pressure: Markets Wrap",
+    "excerpt": "Stocks struggled for direction and long-dated bonds remained under pressure as higher oil prices kept traders cautious following days of yields at multiyear highs.",
     "date": "Aug 2026",
     "source": "FEEDS.BLOOMBERG.COM",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-19/india-stocks-top-indonesia-as-asia-s-least-favored-in-bofa-poll",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-18/stock-market-today-dow-s-p-live-updates",
     "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
     "category": "all"
   }
