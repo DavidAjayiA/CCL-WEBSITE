@@ -1,5 +1,23 @@
 [
   {
+    "title": "Starcloud Raises $250 Million To Build AI Data Centers in Space",
+    "excerpt": "Training AI is getting too expensive and too hot. The biggest AI data centers on the ground use a lot of electricity. They also need massive cooling systems. On top\nThe post Starcloud Raises $250 Mill",
+    "date": "Aug 2026",
+    "source": "VENTUREBURN.COM",
+    "url": "https://ventureburn.com/starcloud-raises-250-million-for-ai-data-centers-in-space/",
+    "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
+    "category": "all"
+  },
+  {
+    "title": "FSH Technologies Raises $25M To Replace Government IT Systems and Hourly Consulting Firms",
+    "excerpt": "For decades, cities and school districts bought software by hiring a consulting firm and paying by the hour. FSH Technologies raises $25M to replace this consulting method for speedy results.\nThe post",
+    "date": "Aug 2026",
+    "source": "VENTUREBURN.COM",
+    "url": "https://ventureburn.com/fsh-technologies-raises-25m-replace-hourly-gov-consulting/",
+    "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
+    "category": "all"
+  },
+  {
     "title": "RollerCoin",
     "excerpt": "RollerCoin is a browser-based crypto mining simulator that combines arcade games with virtual mining. Players build and manage a mining farm, increase its hash power through gameplay and equipment, an",
     "date": "Aug 2026",
@@ -18,92 +36,74 @@
     "category": "all"
   },
   {
-    "title": "ChatGPT Can Now Control iMessage—Is Your Apple Data at Risk?",
-    "excerpt": "As tech giants deal with the soaring upfront cost of building AI infrastructure, software vendors face intense pressure to prove their software is genuinely useful. To make these systems part\nThe post",
-    "date": "Aug 2026",
-    "source": "VENTUREBURN.COM",
-    "url": "https://ventureburn.com/chatgpt-can-now-control-imessage-apple-privacy-concerns/",
-    "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
-    "category": "all"
-  },
-  {
-    "title": "Nvidia Explores Potential Partnership and Acquisition Deals with Korean AI Chip Startup Rebellions",
-    "excerpt": "Nvidia Eyes South Korean Startup Rebellions in Latest Expansion Strategy Nvidia Corp. is reportedly in early discussions with South Korean AI chip designer Rebellions regarding potential collaboration",
-    "date": "Aug 2026",
-    "source": "VENTUREBURN.COM",
-    "url": "https://ventureburn.com/nvidia-explores-rebellions-partnership/",
-    "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
-    "category": "all"
-  },
-  {
-    "title": "Michael Polansky is training an AI model on skin that’s still alive",
-    "excerpt": "Michael Polansky — better known publicly as Lady Gaga's partner and a former top deputy to Sean Parker — has quietly spent years building an AI-driven startup that keeps living human skin tissue alive",
+    "title": "OpenAI says California should strengthen its AI safety bill",
+    "excerpt": "OpenAI is calling for California to strengthen SB 53, an AI safety bill that the company previously opposed.",
     "date": "Aug 2026",
     "source": "TECHCRUNCH.COM",
-    "url": "https://techcrunch.com/2026/08/21/michael-polansky-is-training-an-ai-model-on-skin-thats-still-alive/",
+    "url": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
     "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
     "category": "all"
   },
   {
-    "title": "Japanese space tech startup Letara expands beyond satellite thrusters with $16M",
-    "excerpt": "Japanese space startup Letara is betting its hybrid rocket technology can move beyond small satellite thrusters into a broader market for space, defense and security, after raising ¥2.6 billion ($16 m",
+    "title": "Frontier AI labs still won’t say how they’d contain a rogue model",
+    "excerpt": "A new study finds leading AI labs have few publicly documented plans for containing rogue models, raising questions about preparedness as AI systems increasingly demonstrate unexpected and potentially",
     "date": "Aug 2026",
     "source": "TECHCRUNCH.COM",
-    "url": "https://techcrunch.com/2026/08/21/japanese-space-tech-startup-letara-expands-beyond-satellite-thrusters-with-16m/",
+    "url": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/",
     "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
     "category": "all"
   },
   {
-    "title": "Anthropic’s Opus 4.6 is a smut-machine",
-    "excerpt": "Anthropic forbids its Claude models from generating sexually explicit content. But a series of tests conducted by TechCrunch found that it didn't take much to get past the restriction.",
+    "title": "US battery startups have found a lifeline in defense",
+    "excerpt": "U.S. battery startups pulled in $500 million in grants from the Department of Energy, throwing a lifeline to an industry that was on the ropes after EV incentives were slashed.",
     "date": "Aug 2026",
     "source": "TECHCRUNCH.COM",
-    "url": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
+    "url": "https://techcrunch.com/2026/08/22/us-battery-startups-have-found-a-lifeline-in-defense/",
     "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
     "category": "all"
   },
   {
-    "title": "Nvidia partners with data center developer Cloverleaf",
-    "excerpt": "Nvidia continues to pour money into data center development — just as AI data centers bring lots of money into Nvidia.",
+    "title": "Pixel 11 Pro XL review: Snappier cameras can’t hide an iterative upgrade",
+    "excerpt": "Google’s Pixel 11 Pro XL brings snappier cameras and genuinely useful AI features like Rambler, but its iterative upgrades may not be enough to tempt recent Pixel owners.",
     "date": "Aug 2026",
     "source": "TECHCRUNCH.COM",
-    "url": "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/",
+    "url": "https://techcrunch.com/2026/08/22/pixel-11-pro-xl-review-snappier-cameras-cant-hide-an-iterative-upgrade/",
     "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
     "category": "all"
   },
   {
-    "title": "Chinese AI Models Gain Ground on Price and Use",
-    "excerpt": "Chinese AI models are rapidly narrowing the performance gap with US rivals while gaining users with lower prices and open-weight technology that lets companies deploy them locally. Bloomberg News Tech",
+    "title": "Bloomberg This Weekend 8/22/2026",
+    "excerpt": "The news doesn’t stop when markets close. Hosts David Gura, Christina Ruffini and Alexis Christoforous bring clarity, context and a bit of humor to the weekend’s biggest headlines, LIVE from New York.",
     "date": "Aug 2026",
     "source": "FEEDS.BLOOMBERG.COM",
-    "url": "https://www.bloomberg.com/news/videos/2026-08-22/chinese-ai-models-gain-ground-on-price-and-use-video",
+    "url": "https://www.bloomberg.com/news/videos/2026-08-22/bloomberg-this-weekend-8-22-2026-video",
     "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
     "category": "all"
   },
   {
-    "title": "Supreme Court Keeps Trump Ballroom Work Going",
-    "excerpt": "Chief Justice John Roberts temporarily allowed construction of President Donald Trump’s White House ballroom to continue while the Supreme Court considers whether to grant a longer stay, after lower c",
+    "title": "Pointed! Bloomberg's Weekly News Quiz For Risk-Takers",
+    "excerpt": "Pointed offers a strategic twist to the news quiz format, testing not just players’ knowledge of the news but also their confidence in their answers. Join Bloomberg's Alexis Christoforous, David Gura,",
     "date": "Aug 2026",
     "source": "FEEDS.BLOOMBERG.COM",
-    "url": "https://www.bloomberg.com/news/videos/2026-08-22/supreme-court-keeps-trump-ballroom-work-going-video",
+    "url": "https://www.bloomberg.com/news/videos/2026-08-22/pointed-bloomberg-s-weekly-news-quiz-for-risk-takers-video",
     "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
     "category": "all"
   },
   {
-    "title": "The AI Spending Spree Comes With a Catch",
-    "excerpt": "Sam Palmisano says the AI boom is built on long-cycle bets in data centers, chips and energy, even as AI software changes at breakneck speed. If adoption slows or cheaper Chinese open-source models ga",
+    "title": "US Colleges Face a Shrinking Student Pipeline",
+    "excerpt": "US colleges are confronting a prolonged demographic squeeze as the number of high school graduates, after peaking in 2025, is projected to decline 13% through 2041, putting particular pressure on regi",
     "date": "Aug 2026",
     "source": "FEEDS.BLOOMBERG.COM",
-    "url": "https://www.bloomberg.com/news/videos/2026-08-22/the-ai-spending-spree-comes-with-a-catch-video",
+    "url": "https://www.bloomberg.com/news/videos/2026-08-22/us-colleges-face-a-shrinking-student-pipeline-video",
     "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
     "category": "all"
   },
   {
-    "title": "Investing in AI for More Jobs, Less Pay",
-    "excerpt": "The good news and bad news about AI",
+    "title": "Sanctions Target Iran’s Weakened Regional Network",
+    "excerpt": "The US is preparing a new campaign of economic pressure on Iran after diplomacy and months of fighting failed to produce a durable settlement, with President Donald Trump warning countries against mai",
     "date": "Aug 2026",
     "source": "FEEDS.BLOOMBERG.COM",
-    "url": "https://www.bloomberg.com/news/newsletters/2026-08-22/investing-in-ai-for-more-jobs-less-pay",
+    "url": "https://www.bloomberg.com/news/videos/2026-08-22/sanctions-target-iran-s-weakened-regional-network-video",
     "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
     "category": "all"
   }
