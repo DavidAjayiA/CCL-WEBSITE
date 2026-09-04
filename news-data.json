@@ -1,5 +1,23 @@
 [
   {
+    "title": "Why Tech CEOs Are Backing Nvidia’s Hugging Face Acquisition and HPE’s Surge",
+    "excerpt": "Nvidia’s massive buyout of Hugging Face is a total game-changer for the tech world. It gives the chip giant a massive foothold in the software space as everyone scrambles to\nThe post Why Tech CEOs Are",
+    "date": "Sep 2026",
+    "source": "VENTUREBURN.COM",
+    "url": "https://ventureburn.com/nvidia-hugging-face-hpe-surge/",
+    "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
+    "category": "all"
+  },
+  {
+    "title": "Crusoe Raises $3 Billion At A $30B Valuation To Revolutionize AI Data Centers",
+    "excerpt": "Training those massive language models requires an insane amount of power, and our aging electrical grids simply can’t handle the strain. We are literally running out of juice as data\nThe post Crusoe ",
+    "date": "Sep 2026",
+    "source": "VENTUREBURN.COM",
+    "url": "https://ventureburn.com/crusoe-raises-3-billion-at-a-30b-valuation-to-revolutionize-ai-data-centers/",
+    "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
+    "category": "all"
+  },
+  {
     "title": "Why the Same Crypto Swap Can Cost More: How to Compare Crypto Exchange Rates Before You Trade",
     "excerpt": "You enter the same amount and crypto pair on two platforms, yet one provider offers noticeably more of the destination asset than the other. How can the same swap produce\nThe post Why the Same Crypto ",
     "date": "Sep 2026",
@@ -18,62 +36,53 @@
     "category": "all"
   },
   {
-    "title": "Asian Stocks and US Markets Rally as Oil and Yields Ease Following Trump Statements",
-    "excerpt": "Asian stock markets mounted a healthy recovery following a drab start to the week. Bond yields and oil prices dropped sharply after Donald Trump indicated that recent US military strikes\nThe post Asia",
-    "date": "Sep 2026",
-    "source": "VENTUREBURN.COM",
-    "url": "https://ventureburn.com/asian-stocks-and-us-markets-rally-as-oil-and-yields-ease-following-trump-statement/",
-    "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
-    "category": "all"
-  },
-  {
-    "title": "Lasso Security Raises $30 Million Series A To Power AI Guardrails Without GPUs",
-    "excerpt": "To ensure a user prompt isn’t a malicious attack, companies must route every single request through another large language model. This requires heavy, expensive GPUs. This hardware bottleneck forces c",
-    "date": "Sep 2026",
-    "source": "VENTUREBURN.COM",
-    "url": "https://ventureburn.com/lasso-security-raises-30-million-gpu-free-ai-guardrails/",
-    "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
-    "category": "all"
-  },
-  {
-    "title": "Crusoe reportedly raises $3B at a  $30B valuation",
-    "excerpt": "The round came together after the data center developer reportedly secured a $13 billion contract with Jane Street.",
+    "title": "CD sales are making an unexpected comeback amid a retro tech boom",
+    "excerpt": "U.S. CD revenue jumped 58.6% in the first half of 2026, reversing last year’s decline as interest in retro tech and physical media continues to grow.",
     "date": "Sep 2026",
     "source": "TECHCRUNCH.COM",
-    "url": "https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/",
+    "url": "https://techcrunch.com/2026/09/04/cd-sales-are-making-an-unexpected-comeback-amid-a-retro-tech-boom/",
     "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
     "category": "all"
   },
   {
-    "title": "Oura files to go public",
-    "excerpt": "The ring maker says that its business has shown significant revenue growth over the past year.",
+    "title": "Krafton doubles down on India with another $250M bet beyond gaming",
+    "excerpt": "Krafton's planned investment in India is set to surpass $500 million with its latest commitment.",
     "date": "Sep 2026",
     "source": "TECHCRUNCH.COM",
-    "url": "https://techcrunch.com/2026/09/03/oura-files-to-go-public/",
+    "url": "https://techcrunch.com/2026/09/04/krafton-doubles-down-on-india-with-another-250m-bet-beyond-gaming/",
     "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
     "category": "all"
   },
   {
-    "title": "Tesla is asking people if they want to buy and run Cybercab fleets",
-    "excerpt": "The company published a form on its website Thursday soliciting info from people who are interested in \"Cybercab fleet vehicle purchasing.\"",
+    "title": "Google’s Gemini Spark can now manage your Google Photos library",
+    "excerpt": "Gemini Spark can edit and curate photo albums, create shared collections, turn photos into calendar events, and handle other Google Photos tasks for AI Pro and Ultra subscribers.",
     "date": "Sep 2026",
     "source": "TECHCRUNCH.COM",
-    "url": "https://techcrunch.com/2026/09/03/tesla-is-asking-people-if-they-want-to-buy-and-run-cybercab-fleets/",
+    "url": "https://techcrunch.com/2026/09/04/googles-gemini-spark-can-now-manage-your-google-photos-library/",
     "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
     "category": "all"
   },
   {
-    "title": "Startup ARR is less secure than ever, new research shows",
-    "excerpt": "The AI era has completely broken enterprise buying patterns, and startups haven't yet figured out how to navigate.",
+    "title": "Less than 24 hours to apply for your TechCrunch Disrupt 2026 Side Event",
+    "excerpt": "Less than 24 hours left to apply to host a Side Event during TechCrunch Disrupt 2026 and make your mark in the Silicon Valley scene. Apply before the application closes tonight at midnight PT.",
     "date": "Sep 2026",
     "source": "TECHCRUNCH.COM",
-    "url": "https://techcrunch.com/2026/09/03/startup-arr-is-less-secure-than-ever-new-research-shows/",
+    "url": "https://techcrunch.com/2026/09/04/less-than-24-hours-to-apply-for-your-techcrunch-disrupt-2026-side-event/",
     "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
     "category": "all"
   },
   {
-    "title": "Stocks Rise as Fed Rate-Hike Bets Ease, Yen Gains: Markets Wrap",
-    "excerpt": "Asian stocks and currencies rose as investors pared bets on a Federal Reserve interest-rate hike this month, weakening the dollar. The yen strengthened.",
+    "title": "European Stocks Post Weekly Drop as Hot US Jobs Boost Fed Bets",
+    "excerpt": "European stocks posted their third weekly decline in four, as traders added to wagers on a US interest-rate hike following a hotter-than-expected jobs report.",
+    "date": "Sep 2026",
+    "source": "FEEDS.BLOOMBERG.COM",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-04/european-stocks-muted-before-us-data-vw-soars-on-restructuring",
+    "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
+    "category": "all"
+  },
+  {
+    "title": "Stocks Fall as Jobs Fuel Bets Fed Will Raise Rates: Markets Wrap",
+    "excerpt": "A stronger-than-anticipated increase in US jobs drove stocks and short-dated bonds lower, with traders boosting their bets the Federal Reserve will raise rates this month.",
     "date": "Sep 2026",
     "source": "FEEDS.BLOOMBERG.COM",
     "url": "https://www.bloomberg.com/news/articles/2026-09-03/stock-market-today-dow-s-p-live-updates",
@@ -81,29 +90,20 @@
     "category": "all"
   },
   {
-    "title": "India’s SEBI to Review Options Settlement Pricing After Closing Auction Chaos",
-    "excerpt": "India’s markets regulator may propose changes to equity derivatives settlement pricing after feedback that the new closing-auction system triggered sharp price swings.",
+    "title": "Blue Owl Tech Fund Raises $150 Million Through Private Placement",
+    "excerpt": "Blue Owl Technology Finance Corp. raised $150 million through a private placement, its third financing since June, the software-focused private credit fund said Friday.",
     "date": "Sep 2026",
     "source": "FEEDS.BLOOMBERG.COM",
-    "url": "https://www.bloomberg.com/news/articles/2026-09-03/india-s-sebi-to-review-f-o-settlement-prices-on-auction-feedback",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-04/blue-owl-tech-fund-raises-150-million-through-private-placement",
     "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
     "category": "all"
   },
   {
-    "title": "Sharp Price Swings Prompt SEBI Review of India’s Closing Auction",
-    "excerpt": "Regulator may propose changes to the way settlement prices for equity derivatives contracts are calculated.",
+    "title": "Portugal to Negotiate With Lufthansa, Air France-KLM on TAP",
+    "excerpt": "Portugal’s government will enter an additional round of negotiations with Deutsche Lufthansa AG and Air France-KLM over the sale of a minority stake in TAP as it seeks to secure improved offers from b",
     "date": "Sep 2026",
     "source": "FEEDS.BLOOMBERG.COM",
-    "url": "https://www.bloomberg.com/news/newsletters/2026-09-04/sharp-price-swings-prompt-sebi-review-of-india-s-closing-auction",
-    "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
-    "category": "all"
-  },
-  {
-    "title": "Malaysia Johor Regent TMJ’s Plan to Sell Singapore Land Clouded by Huge Tax Bill",
-    "excerpt": "A Malaysian royal’s plan to sell a tract of land in the heart of Singapore faces a complication: a tax bill that may exceed $1 billion.",
-    "date": "Sep 2026",
-    "source": "FEEDS.BLOOMBERG.COM",
-    "url": "https://www.bloomberg.com/news/articles/2026-09-02/malaysia-johor-regent-tmj-s-plan-to-sell-singapore-land-clouded-by-huge-tax-bill",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-04/portugal-to-negotiate-with-lufthansa-air-france-klm-on-tap-sale",
     "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
     "category": "all"
   }
