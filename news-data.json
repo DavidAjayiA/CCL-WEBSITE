@@ -1,5 +1,68 @@
 [
   {
+    "title": "US Job Growth Surprises in August as Fed Weighs Policy Shift",
+    "excerpt": "US employers tacked on 162,000 jobs this August, easily crushing the forecasts analysts set. The unemployment rate stayed pinned at 4.1%, ignoring all those bearish predictions about a cooling labor\nT",
+    "date": "Sep 2026",
+    "source": "VENTUREBURN.COM",
+    "url": "https://ventureburn.com/us-job-growth-august-fed-outlook/",
+    "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
+    "category": "all"
+  },
+  {
+    "title": "How Crypto Is Changing the Way People Pay for Digital Goods",
+    "excerpt": "How Crypto Is Changing the Way People Pay for Digital Goods The consumption of digital-only goods has shifted from a niche hobby to a dominant economic force. In 2023, the\nThe post How Crypto Is Chang",
+    "date": "Sep 2026",
+    "source": "VENTUREBURN.COM",
+    "url": "https://ventureburn.com/how-crypto-is-changing-the-way-people-pay-for-digital-goods/",
+    "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
+    "category": "all"
+  },
+  {
+    "title": "Why Tech CEOs Are Backing Nvidia’s Hugging Face Acquisition and HPE’s Surge",
+    "excerpt": "Nvidia’s massive buyout of Hugging Face is a total game-changer for the tech world. It gives the chip giant a massive foothold in the software space as everyone scrambles to\nThe post Why Tech CEOs Are",
+    "date": "Sep 2026",
+    "source": "VENTUREBURN.COM",
+    "url": "https://ventureburn.com/nvidia-hugging-face-hpe-surge/",
+    "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
+    "category": "all"
+  },
+  {
+    "title": "Crusoe Raises $3 Billion At A $30B Valuation To Revolutionize AI Data Centers",
+    "excerpt": "Training those massive language models requires an insane amount of power, and our aging electrical grids simply can’t handle the strain. We are literally running out of juice as data\nThe post Crusoe ",
+    "date": "Sep 2026",
+    "source": "VENTUREBURN.COM",
+    "url": "https://ventureburn.com/crusoe-raises-3-billion-at-a-30b-valuation-to-revolutionize-ai-data-centers/",
+    "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
+    "category": "all"
+  },
+  {
+    "title": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
+    "excerpt": "The round is being raised just months after the robot data startup exited from stealth.",
+    "date": "Sep 2026",
+    "source": "TECHCRUNCH.COM",
+    "url": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/",
+    "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
+    "category": "all"
+  },
+  {
+    "title": "OpenAI’s rogue agents keep escaping, with no formal process to investigate them",
+    "excerpt": "OpenAI’s latest agent swarm incident adds urgency to calls for independent investigations as researchers and lawmakers question whether AI labs should control the scope of their own safety reviews.",
+    "date": "Sep 2026",
+    "source": "TECHCRUNCH.COM",
+    "url": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/",
+    "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
+    "category": "all"
+  },
+  {
+    "title": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
+    "excerpt": "Nscale, which recently struck a $45 billion deal with Anthropic, is in talks to raise additional funds in anticipation of an upcoming IPO.",
+    "date": "Sep 2026",
+    "source": "TECHCRUNCH.COM",
+    "url": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/",
+    "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
+    "category": "all"
+  },
+  {
     "title": "Judge blocks X rival from using Twitter name, but allows ‘Tweet’ for now",
     "excerpt": "A federal judge temporarily barred an X rival from using the Twitter name, but found that X was likely to have abandoned the “Tweet” trademark and bird logo. The startup has since relaunched as Tweet.",
     "date": "Sep 2026",
@@ -9,65 +72,38 @@
     "category": "all"
   },
   {
-    "title": "What will Apple’s John Ternus era look like?",
-    "excerpt": "It’s officially the Ternus era at Apple.   Tim Cook stepped down as CEO this week, handing the company to former hardware chief John Ternus, whose first memo promised a “huge launch next week” — timin",
-    "date": "Sep 2026",
-    "source": "TECHCRUNCH.COM",
-    "url": "https://techcrunch.com/video/what-will-apples-john-ternus-era-look-like/",
-    "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
-    "category": "all"
-  },
-  {
-    "title": "No little kids allowed, and other new info about Tesla’s Cybercab",
-    "excerpt": "The company says no children under 13 can ride -- even with a parent. That's more restrictive than the Model Y SUVs it's using as robotaxis.",
-    "date": "Sep 2026",
-    "source": "TECHCRUNCH.COM",
-    "url": "https://techcrunch.com/2026/09/04/no-little-kids-allowed-and-other-new-info-about-teslas-cybercab/",
-    "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
-    "category": "all"
-  },
-  {
-    "title": "Another swarm of OpenAI agents reached the open internet without the frontier lab’s knowledge",
-    "excerpt": "It's the latest failure of OpenAI's internal monitoring and security systems.",
-    "date": "Sep 2026",
-    "source": "TECHCRUNCH.COM",
-    "url": "https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/",
-    "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
-    "category": "all"
-  },
-  {
-    "title": "Algorithm Research CEO on Interest Rates Expectations",
-    "excerpt": "Ketaki Sharma, founder and CEO of Algorithm Research, says the inflation is the main factor to watch in assessing the the bond market and the Federal Reserve’s next move. She speaks on \"Horizons: Midd",
+    "title": "HK’s Lee Says City to Expand Offshore Yuan Usage in 5-Year Plan",
+    "excerpt": "Hong Kong Chief Executive John Lee said the city’s first five-year plan will focus on areas including expanding offshore yuan usage and cross-border investment with the mainland.",
     "date": "Sep 2026",
     "source": "FEEDS.BLOOMBERG.COM",
-    "url": "https://www.bloomberg.com/news/videos/2026-09-04/algorithm-research-ceo-on-interest-rates-expectations-video",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-05/hk-s-lee-says-city-to-expand-offshore-yuan-usage-in-5-year-plan",
     "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
     "category": "all"
   },
   {
-    "title": "Honey Deuces, Tickets, Merch: US Open Spending",
-    "excerpt": "Bloomberg's Lisa Mateo joins Scarlet Fu and Tom Keene on \"Bloomberg Money.\" They discuss how people are spending their money at the US Open. (Source: Bloomberg)",
+    "title": "Bloom Energy, Illumina, Everpure to Join S&P 500 This Month",
+    "excerpt": "Bloom Energy Corp., Illumina Inc. and Everpure Inc. will join the S&P 500 in the latest quarterly rebalance, S&P Dow Jones Indices said Friday.",
     "date": "Sep 2026",
     "source": "FEEDS.BLOOMBERG.COM",
-    "url": "https://www.bloomberg.com/news/videos/2026-09-04/honey-deuces-tickets-merch-us-open-spending-video",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-04/bloom-energy-illumina-everpure-to-join-s-p-500-in-september",
     "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
     "category": "all"
   },
   {
-    "title": "Stocks Fall as Jobs Fuel Bets Fed Will Raise Rates: Markets Wrap",
-    "excerpt": "A stronger-than-anticipated increase in US jobs drove stocks and short-dated bonds lower, with traders boosting their bets the Federal Reserve will raise rates this month.",
+    "title": "Emerging Currencies Cap Longest Winning Streak Since 2007",
+    "excerpt": "An index for emerging-market currencies rose for a 10th successive week, its longest winning streak since 2007, even as a blowout US jobs report briefly jolted global markets on Friday.",
     "date": "Sep 2026",
     "source": "FEEDS.BLOOMBERG.COM",
-    "url": "https://www.bloomberg.com/news/articles/2026-09-03/stock-market-today-dow-s-p-live-updates",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-04/emerging-market-stocks-currencies-rise-as-fed-hike-bets-ease",
     "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
     "category": "all"
   },
   {
-    "title": "Parents Push Teens to Start Investing Earlier Than They Did",
-    "excerpt": "Bloomberg's Josyana Joshua joins Scarlet Fu and Tom Keene on \"Bloomberg Money.\" Many parents are opening accounts that let teens learn the basics of investing with their supervision, in hopes of teach",
+    "title": "Wall Street Risk Complex Defies Rate Threat After Jobs Data",
+    "excerpt": "The global bond selloff is proving no wrecking ball for Wall Street, repricing the cost of money without setting off the usual scramble out of risk assets.",
     "date": "Sep 2026",
     "source": "FEEDS.BLOOMBERG.COM",
-    "url": "https://www.bloomberg.com/news/videos/2026-09-04/parents-push-teens-to-start-investing-early-video",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-04/wall-street-risk-complex-defies-rate-threat-after-jobs-blowout",
     "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
     "category": "all"
   }
