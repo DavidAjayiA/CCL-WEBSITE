@@ -1,5 +1,14 @@
 [
   {
+    "title": "OpenAI and Samsung Deepen Custom AI Chip and Stargate Enterprise Partnership",
+    "excerpt": "ChatGPT is expensive, not the chatbot running the artificial intelligence computing and infrastructure. It uses a lot of computer power every time it has to answer a question.  Most AI\nThe post OpenAI",
+    "date": "Sep 2026",
+    "source": "VENTUREBURN.COM",
+    "url": "https://ventureburn.com/openai-and-samsung-deepen-chip-enterprise-partnership/",
+    "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=400&h=250&fit=crop",
+    "category": "tech"
+  },
+  {
     "title": "Euno Raises $23M to Scale Enterprise AI Context Platform",
     "excerpt": "Euno Raises Series A to Advance Enterprise AI Euno has raised $23 million in Series A funding to expand its AI context platform. The round was led by N47 with\nThe post Euno Raises $23M to Scale Enterp",
     "date": "Sep 2026",
@@ -27,83 +36,74 @@
     "category": "all"
   },
   {
-    "title": "Cognition Raises $2 Billion At $48B Valuation To Push AI Coding Company",
-    "excerpt": "Every company wants to build more software. But there aren’t enough software engineers. Teams leave features unbuilt, delay security fixes, and push upgrades because they run out of engineering time. ",
-    "date": "Sep 2026",
-    "source": "VENTUREBURN.COM",
-    "url": "https://ventureburn.com/cognition-raises-2-billion-power-ai-software-engineer/",
-    "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
-    "category": "all"
-  },
-  {
-    "title": "Viral AI assistant Instinct now has its own email address",
-    "excerpt": "Instinct’s new email feature lets the AI agent create and manage accounts, contact businesses, handle support requests, and do more on users' behalf.",
+    "title": "Apple Watch’s new AI features are normalizing the idea that technology is always listening",
+    "excerpt": "Apple says its new watches won’t save raw audio, but features that can transcribe recent speech and summarize ambient conversations raise new questions about consent, privacy, and how people behave wh",
     "date": "Sep 2026",
     "source": "TECHCRUNCH.COM",
-    "url": "https://techcrunch.com/2026/09/09/viral-ai-assistant-instinct-now-has-its-own-email-address/",
+    "url": "https://techcrunch.com/2026/09/09/apple-watchs-new-ai-features-are-normalizing-the-idea-that-technology-is-always-listening/",
     "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
     "category": "all"
   },
   {
-    "title": "Uber rival inDrive scales beyond ride-hailing to capture more consumer spending",
-    "excerpt": "inDrive's ad business, first piloted in July 2025, has served more than 2 billion impressions and attracted over 2,000 paying advertisers a month.",
+    "title": "Everything Apple announced at its fall iPhone event, from the foldable iPhone Duo to an always-listening Apple Watch",
+    "excerpt": "The main event was the tech giant's highly anticipated first foldable phone, the iPhone Duo.",
     "date": "Sep 2026",
     "source": "TECHCRUNCH.COM",
-    "url": "https://techcrunch.com/2026/09/09/uber-rival-indrive-scales-beyond-ride-hailing-to-capture-more-consumer-spending/",
+    "url": "https://techcrunch.com/2026/09/09/everything-apple-announced-at-its-fall-iphone-event-from-the-foldable-iphone-duo-to-an-always-listening-apple-watch/",
     "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
     "category": "all"
   },
   {
-    "title": "‘Gambling with our lives’: Anthropic researcher quits, warns against self-improving AI ",
-    "excerpt": "Anthropic researcher Jacob Coxon resigned over AI extinction fears, calling for pacing agreements between labs.",
+    "title": "There are new shiny iPhones, so Apple is making you pay more for older models ",
+    "excerpt": "Apple is raising the price of its existing iPhone models by $100, including iPhone 16, iPhone 17, and iPhone Air.",
     "date": "Sep 2026",
     "source": "TECHCRUNCH.COM",
-    "url": "https://techcrunch.com/2026/09/09/gambling-with-our-lives-anthropic-researcher-quits-warns-against-self-improving-ai/",
+    "url": "https://techcrunch.com/2026/09/09/there-are-new-shiny-iphones-so-apple-is-making-you-pay-more-for-older-models/",
     "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
     "category": "all"
   },
   {
-    "title": "Shipt becomes the latest delivery app with an AI shopping assistant",
-    "excerpt": "Users can ask the assistant to do things like \"Create a cart for my Saturday tailgate for 25 people and include some brunch items,\" or \"Build a cart for easy school lunches and after-school snacks,\" S",
+    "title": "The hinge for Apple’s new foldable phone was built with AI",
+    "excerpt": "Apple says it used AI and 3D printing in the manufacturing process for its long-awaited foldable phone.",
     "date": "Sep 2026",
     "source": "TECHCRUNCH.COM",
-    "url": "https://techcrunch.com/2026/09/09/shipt-becomes-the-latest-delivery-app-with-an-ai-shopping-assistant/",
+    "url": "https://techcrunch.com/2026/09/09/the-hinge-for-apples-new-foldable-phone-was-built-with-ai/",
     "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
     "category": "all"
   },
   {
-    "title": "Vale CFO Sees No Downturn in Iron Ore Prices",
-    "excerpt": "Vale SA Chief Financial Officer Marcelo Bacci says iron ore is a resilient commodity and says demand is stable. He also says the mining giant may tap the Chinese bond market in the near future. He spe",
+    "title": "Husband & Wife Explore Sale of $37B Credit Firm",
+    "excerpt": "Bloomberg's Matt Monks joins Scarlet Fu on \"Bloomberg Deals.\" Palmer Square Capital Management is a $37 billion credit firm run by the husband-wife duo Chris and Angie Long. And the couple is explorin",
     "date": "Sep 2026",
     "source": "FEEDS.BLOOMBERG.COM",
-    "url": "https://www.bloomberg.com/news/videos/2026-09-09/vale-cfo-sees-no-downturn-in-iron-ore-prices-video",
+    "url": "https://www.bloomberg.com/news/videos/2026-09-09/husband-wife-explore-sale-of-37b-credit-firm-video",
     "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
     "category": "all"
   },
   {
-    "title": "Bessent Triples Debt Buyback But Market Shows Disappointment",
-    "excerpt": "The US Treasury tripled the initial size of its next buyback of longer-dated government debt, in an announcement that was met with initial disappointment by investors.",
+    "title": "AI Can Create Massive Opportunities For All Of Us: Shah",
+    "excerpt": "Ajay Shah, chairman of global technology investment banking at Deutsche Bank Securities, joins Scarlet Fu on \"Bloomberg Deals.\" An AI researcher has resigned from Anthropic and called on other staffer",
+    "date": "Sep 2026",
+    "source": "FEEDS.BLOOMBERG.COM",
+    "url": "https://www.bloomberg.com/news/videos/2026-09-09/ai-can-create-massive-opportunities-for-all-of-us-shah-video",
+    "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
+    "category": "all"
+  },
+  {
+    "title": "Signet Jewelers CEO on 2Q Results & Trends To Watch",
+    "excerpt": "J.K. Symancyk, CEO of Signet Jewelers, said the company feels confident after raising guidance for a second time this year, pointing to solid fundamentals, five positive comparable-sales quarters in t",
+    "date": "Sep 2026",
+    "source": "FEEDS.BLOOMBERG.COM",
+    "url": "https://www.bloomberg.com/news/videos/2026-09-09/signet-jewelers-ceo-on-2q-results-trends-to-watch-video",
+    "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
+    "category": "all"
+  },
+  {
+    "title": "Bessent’s Upsized Buybacks Get Hit by Treasury-Market Reality",
+    "excerpt": "Treasury Secretary Scott Bessent’s unusual move to supersize his department’s debt buyback program stumbled on Wednesday, when an announcement on the size of the first enlarged operation proved insuff",
     "date": "Sep 2026",
     "source": "FEEDS.BLOOMBERG.COM",
     "url": "https://www.bloomberg.com/news/articles/2026-09-09/us-more-than-doubles-long-dated-debt-buyback-size-to-6-billion",
-    "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
-    "category": "all"
-  },
-  {
-    "title": "Gold Trims Gains as Yields Push Higher After Treasury Buyback",
-    "excerpt": "Gold trimmed gains as bond yields and the dollar pushed higher after the US Treasury said it will triple its long-dated debt buyback to $6 billion.",
-    "date": "Sep 2026",
-    "source": "FEEDS.BLOOMBERG.COM",
-    "url": "https://www.bloomberg.com/news/articles/2026-09-08/gold-holds-decline-as-mideast-tensions-bolster-rate-hike-case",
-    "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
-    "category": "all"
-  },
-  {
-    "title": "Apple’s Rally Pressures New CEO to Deliver on Foldable iPhone",
-    "excerpt": "Apple Inc.’s $570 billion summer surge is saddling new Chief Executive Officer John Ternus with high expectations heading into the company’s most anticipated event in years: the unveiling of the folda",
-    "date": "Sep 2026",
-    "source": "FEEDS.BLOOMBERG.COM",
-    "url": "https://www.bloomberg.com/news/articles/2026-09-09/apple-s-rally-pressures-new-ceo-to-deliver-on-foldable-iphone",
     "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
     "category": "all"
   }
