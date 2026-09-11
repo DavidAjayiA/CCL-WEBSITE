@@ -1,5 +1,32 @@
 [
   {
+    "title": "Positron AI Raises $875M to Scale AI Inference Hardware",
+    "excerpt": "Positron AI Raises $875M Series C Funding Positron AI has raised $875 million in Series C financing at a $5 billion valuation. The company develops hardware designed to make AI\nThe post Positron AI Ra",
+    "date": "Sep 2026",
+    "source": "VENTUREBURN.COM",
+    "url": "https://ventureburn.com/positron-ai-raises-875m-inference-hardware/",
+    "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
+    "category": "all"
+  },
+  {
+    "title": "TAR Raises $120M to Scale Off-Grid AI Power Systems",
+    "excerpt": "TAR Raises $120M Series A At $1B Valuation TAR has raised $120 million in Series A funding to expand off-grid power systems for AI data centres. Spark Capital led the\nThe post TAR Raises $120M to Scal",
+    "date": "Sep 2026",
+    "source": "VENTUREBURN.COM",
+    "url": "https://ventureburn.com/tar-raises-120m-off-grid-ai-power/",
+    "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
+    "category": "all"
+  },
+  {
+    "title": "Inspiren Raises $70M to Expand AI Senior Living Platform",
+    "excerpt": "Inspiren Raises $70M At Over $500M Valuation Inspiren has raised $70 million in Series C funding to expand its AI-powered senior living platform. The New York-based company now has a\nThe post Inspiren",
+    "date": "Sep 2026",
+    "source": "VENTUREBURN.COM",
+    "url": "https://ventureburn.com/inspiren-raises-70m-ai-senior-living/",
+    "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
+    "category": "all"
+  },
+  {
     "title": "The Real Reason You Keep Getting No-Caller-ID Calls on Your Phone ",
     "excerpt": "No Caller ID number calls are increasing because the barrier to making anonymous calls has collapsed. VoIP apps, carrier-level suppression codes, and call masking services now allow anyone to hide\nThe",
     "date": "Sep 2026",
@@ -9,101 +36,74 @@
     "category": "all"
   },
   {
-    "title": "Musk’s Boring Company Raises $3 Billion for Dubai Loop Transportation Network",
-    "excerpt": "In 2016, Musk tweeted about traffic in LA, how it drives him crazy, and wanting to build a tunnel boring machine. One year later, he founded The Boring Company to\nThe post Musk’s Boring Company Raises",
+    "title": "Thrive Capital led VCs into pro sports ownership; Collaborative Fund just upped that play",
+    "excerpt": "Collaborative Fund just bought into D.C. United and its stadium, with  firm founder Craig Shapiro pitching it as a way to showcase for the firm's startups.",
     "date": "Sep 2026",
-    "source": "VENTUREBURN.COM",
-    "url": "https://ventureburn.com/boring-company-raises-3-billion-dubai-loop/",
+    "source": "TECHCRUNCH.COM",
+    "url": "https://techcrunch.com/2026/09/10/thrive-capital-showed-vcs-the-way-into-pro-sports-ownership-collaborative-fund-is-now-trying-its-own-version-of-the-same-play/",
     "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
     "category": "all"
   },
   {
-    "title": "UniPat Raises $300 Million Backed By Alibaba To Expand AI Testing and Benchmarking",
-    "excerpt": "As artificial intelligence continues to grow, one problem has emerged: testing. While everyone is busy building a flashy, large language model to impress investors, there are only a few verified\nThe p",
+    "title": "Jensen Huang explains why Nvidia will grow an astounding 70% next year",
+    "excerpt": "Nvidia has its finger in every pie, and sees another year of plenty in its future, Jensen Huang says. But, he insists, its deals are not circular.",
     "date": "Sep 2026",
-    "source": "VENTUREBURN.COM",
-    "url": "https://ventureburn.com/unipat-raises-300-million-for-ai-testing-benchmarking/",
+    "source": "TECHCRUNCH.COM",
+    "url": "https://techcrunch.com/2026/09/10/jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year/",
+    "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
+    "category": "all"
+  },
+  {
+    "title": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
+    "excerpt": "Mark Wahlberg joins Bruce K. Lee at Disrupt to discuss investing, entrepreneurship, healthcare, wellness and building businesses.",
+    "date": "Sep 2026",
+    "source": "TECHCRUNCH.COM",
+    "url": "https://techcrunch.com/2026/09/10/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/",
+    "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
+    "category": "all"
+  },
+  {
+    "title": "OpenAI puts Pro subscriptions on hold due to Astra demand",
+    "excerpt": "The company said Pro subscriptions put the most strain on its systems, so it's pausing sign-ups while adding more capacity.",
+    "date": "Sep 2026",
+    "source": "TECHCRUNCH.COM",
+    "url": "https://techcrunch.com/2026/09/10/openai-puts-pro-subscriptions-on-hold-due-to-astra-demand/",
+    "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
+    "category": "all"
+  },
+  {
+    "title": "DeepSeek Hands Memory Stock Investors Fresh Reason for Caution",
+    "excerpt": "Fund managers wading back into South Korean memory makers’ stocks got a fresh gut check after DeepSeek’s latest artificial intelligence model raised doubts on the strength of demand.",
+    "date": "Sep 2026",
+    "source": "FEEDS.BLOOMBERG.COM",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-11/deepseek-hands-memory-stock-investors-fresh-reason-for-caution",
     "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=400&h=250&fit=crop",
     "category": "tech"
   },
   {
-    "title": "DYU Secures $15M Pre-Series B to Accelerate AI Mobility Expansion",
-    "excerpt": "Shenzhen-based E-bike manufacturer Dayu Zhixing Technology, widely known as DYU, has secured nearly 100 million yuan, roughly $15 million, in a pre-Series B funding round. Led by Tongxin Capital with\n",
-    "date": "Sep 2026",
-    "source": "VENTUREBURN.COM",
-    "url": "https://ventureburn.com/dyu-secures-15m-ai-mobility/",
-    "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
-    "category": "all"
-  },
-  {
-    "title": "Meta’s AI agent Muse is now the No. 2 app in the US",
-    "excerpt": "Meta's newest app Muse is off to a slower start than the company's other apps, like Meta AI or Threads.",
-    "date": "Sep 2026",
-    "source": "TECHCRUNCH.COM",
-    "url": "https://techcrunch.com/2026/09/10/metas-ai-agent-muse-is-now-the-no-2-app-in-the-us/",
-    "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
-    "category": "all"
-  },
-  {
-    "title": "Proxima Fusion bets €140M on a critical fusion ingredient dominated by Asian suppliers",
-    "excerpt": "Proxima Fusion said Wednesday it plans to build a €140 million ($162.6 million) factory to produce fusion-grade high-temperature superconducting (HTS) tape, which will provide the startup with key com",
-    "date": "Sep 2026",
-    "source": "TECHCRUNCH.COM",
-    "url": "https://techcrunch.com/2026/09/10/proxima-fusion-bets-e140m-on-a-critical-fusion-ingredient-dominated-by-asian-suppliers/",
-    "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
-    "category": "all"
-  },
-  {
-    "title": "Amazon makes it easier to buy what you see on Prime Video",
-    "excerpt": "Amazon is expanding shopping integrations across Prime Video, letting viewers discover products tied to thousands of shows, movies, and live sports through X-Ray, its shopping app, and a new Lens-powe",
-    "date": "Sep 2026",
-    "source": "TECHCRUNCH.COM",
-    "url": "https://techcrunch.com/2026/09/10/amazon-makes-it-easier-to-buy-what-you-see-on-prime-video/",
-    "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
-    "category": "all"
-  },
-  {
-    "title": "Anthropic reveals rogue AI agents hate CAPTCHAs, just like you",
-    "excerpt": "Come inside the mind of a bot trying to convince the internet it's human.",
-    "date": "Sep 2026",
-    "source": "TECHCRUNCH.COM",
-    "url": "https://techcrunch.com/2026/09/10/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you/",
-    "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
-    "category": "all"
-  },
-  {
-    "title": "Stocks, Bonds Drop as Oil Spike Boosts Fed Wagers: Markets Wrap",
-    "excerpt": "Another rally in oil prices spurred losses in stocks and bonds, with the latest inflation data reinforcing bets the Federal Reserve will increase rates soon amid pressures from higher energy costs.",
+    "title": "Japan’s Bond Yields Rise as Oil Concerns Fuel Global Selloff",
+    "excerpt": "Japan’s government bonds slumped on Friday, tracking a selloff in the US bond market after escalating Middle East tensions drove up oil prices.",
     "date": "Sep 2026",
     "source": "FEEDS.BLOOMBERG.COM",
-    "url": "https://www.bloomberg.com/news/articles/2026-09-09/stock-market-today-dow-s-p-live-updates",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-11/japan-s-bond-yields-rise-as-oil-concerns-fuel-global-selloff",
     "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
     "category": "all"
   },
   {
-    "title": "Dollar Rises as Fed Hike Bets Grow Heading Into Inflation Report",
-    "excerpt": "The dollar rose as strong US producer prices and an oil rally boosted bets on Federal Reserve interest-rate hikes this year, putting more focus on Friday’s inflation report.",
+    "title": "Asian Stocks, Bonds Drop on Oil, Inflation Concern: Markets Wrap",
+    "excerpt": "Asian stocks and bonds fell after a surge in oil prices sparked a selloff in US markets, while the latest inflation data reinforced bets on an imminent Federal Reserve interest-rate hike.",
     "date": "Sep 2026",
     "source": "FEEDS.BLOOMBERG.COM",
-    "url": "https://www.bloomberg.com/news/articles/2026-09-10/dollar-has-best-day-in-two-weeks-as-ppi-oil-add-to-fed-bets",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-10/stock-market-today-dow-s-p-live-updates",
     "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
     "category": "all"
   },
   {
-    "title": "Dispersion In High Yield Idiosyncratic: Steinbach",
-    "excerpt": "Margaret Steinbach, fixed income asset class lead at Capital Group, joins Scarlet Fu on \"Bloomberg Deals.\" They discuss the gap between spreads between CCC and single B bonds in the high yield market.",
+    "title": "India Small-Cap Rally Draws Record Fund Inflows",
+    "excerpt": "Record fund inflows are fueling gains in smaller companies even as India’s broader stock market struggles.",
     "date": "Sep 2026",
     "source": "FEEDS.BLOOMBERG.COM",
-    "url": "https://www.bloomberg.com/news/videos/2026-09-10/dispersion-in-high-yield-idiosyncratic-steinbach-video",
-    "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
-    "category": "all"
-  },
-  {
-    "title": "S&P 500 Slides Fourth Straight Day as Oil Prices, Yields Surge",
-    "excerpt": "US stocks fell for a fourth straight day, their longest slide since June, as the relentless climb in oil prices and fresh evidence of sticky inflation boosted Treasury yields and bets the Federal Rese",
-    "date": "Sep 2026",
-    "source": "FEEDS.BLOOMBERG.COM",
-    "url": "https://www.bloomberg.com/news/articles/2026-09-10/futures-muted-ahead-of-ppi-data-oracle-s-ai-signaling-results",
+    "url": "https://www.bloomberg.com/news/newsletters/2026-09-11/india-small-cap-rally-draws-record-fund-inflows",
     "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
     "category": "all"
   }
