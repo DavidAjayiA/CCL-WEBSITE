@@ -1,5 +1,14 @@
 [
   {
+    "title": "MIND Raises $72 Million To Rebuild Data Loss Prevention For The AI Era",
+    "excerpt": "Companies now use AI tools like ChatGPT and internal AI agents that can read and move data on their own. While this sounds great, it creates a huge new problem\nThe post MIND Raises $72 Million To Rebu",
+    "date": "Sep 2026",
+    "source": "VENTUREBURN.COM",
+    "url": "https://ventureburn.com/mind-raises-72-million-ai-data-loss-prevention/",
+    "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
+    "category": "all"
+  },
+  {
     "title": "Huawei New AI Chip, Ascend60, Launches in Q1 2027 To Challenge NVIDIA",
     "excerpt": "When one single company dictates the rules of artificial intelligence hardware, innovation stalls out completely. Prices skyrocket overnight. Desperate startups practically beg for server time. That e",
     "date": "Sep 2026",
@@ -23,15 +32,6 @@
     "date": "Sep 2026",
     "source": "VENTUREBURN.COM",
     "url": "https://ventureburn.com/does-account-privacy-carry-equal-weight-alongside-password-strength-in-digital-purchases/",
-    "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
-    "category": "all"
-  },
-  {
-    "title": "Arcee AI Raises $150 Millon to Build American Open Models That Enterprises Can Own",
-    "excerpt": "Any company that uses ChatGPT or Claude through an API doesn’t really own the model. They send data to someone else, pay per token, and cannot see how the model\nThe post Arcee AI Raises $150 Millon to",
-    "date": "Sep 2026",
-    "source": "VENTUREBURN.COM",
-    "url": "https://ventureburn.com/arcee-raises-150-million-to-build-open-enterprise-ai-models/",
     "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
     "category": "all"
   },
@@ -72,17 +72,8 @@
     "category": "all"
   },
   {
-    "title": "RBA Must Judge If Rates High Enough to Cool Prices, Bullock Says",
-    "excerpt": "Australia’s central bank needs to decide later this month whether its benchmark interest rate is at a level sufficient to restrain price pressures and return inflation to target, Governor Michele Bull",
-    "date": "Sep 2026",
-    "source": "FEEDS.BLOOMBERG.COM",
-    "url": "https://www.bloomberg.com/news/articles/2026-09-18/rba-must-decide-if-rate-sufficient-to-cool-prices-bullock-says",
-    "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
-    "category": "all"
-  },
-  {
-    "title": "Yen Extends Drop After BOJ Hikes, Asia Stocks Rise: Markets Wrap",
-    "excerpt": "The yen extended its loss after the Bank of Japan raised interest rates in a split vote. Asian stocks and bonds rose as a pullback in oil prices eased inflation concerns.",
+    "title": "Stocks Rise as Tech Climbs and Oil Extends Retreat: Markets Wrap",
+    "excerpt": "Technology stocks drove equity gains in the US and Asia as lower oil prices lifted broader sentiment, setting markets up for a positive end to a turbulent week.",
     "date": "Sep 2026",
     "source": "FEEDS.BLOOMBERG.COM",
     "url": "https://www.bloomberg.com/news/articles/2026-09-17/stock-market-today-dow-s-p-live-updates",
@@ -90,20 +81,29 @@
     "category": "all"
   },
   {
-    "title": "Yen Drops Against Dollar After BOJ Raises Rates as Expected",
-    "excerpt": "The yen fell against the dollar after the Bank of Japan lifted its policy rate by 25 basis points as expected.",
+    "title": "Shapoorji Seeks Bond Payment Delay as Tata Listing Takes Shape",
+    "excerpt": "India’s Shapoorji Pallonji Group, the conglomerate behind the country’s biggest private credit deal, is in talks with lenders to one of its units to extend a bond payment due at the end of September, ",
     "date": "Sep 2026",
     "source": "FEEDS.BLOOMBERG.COM",
-    "url": "https://www.bloomberg.com/news/articles/2026-09-18/yen-drops-against-dollar-after-boj-raises-rates-as-expected",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-18/shapoorji-seeks-bond-payment-delay-as-tata-listing-takes-shape",
     "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
     "category": "all"
   },
   {
-    "title": "Latest Oil Market News and Analysis for Sept. 18",
-    "excerpt": "Oil dropped for a third day as supply concerns eased and traders looked to the next round of diplomacy that’ll shape the US-Iran war.",
+    "title": "Copper Set for Weekly Gain as Chinese Buyers Return to the Fore",
+    "excerpt": "Copper headed for a weekly gain as signs of a rebound in Chinese demand helped to offset hawkish messaging from the Federal Reserve about the likelihood of more interest-rate rises.",
     "date": "Sep 2026",
     "source": "FEEDS.BLOOMBERG.COM",
-    "url": "https://www.bloomberg.com/news/articles/2026-09-17/latest-oil-market-news-and-analysis-for-sept-18",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-18/copper-set-for-weekly-gain-as-chinese-buyers-return-to-the-fore",
+    "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
+    "category": "all"
+  },
+  {
+    "title": "Yen Extends Declines After Ueda Gives Mixed Signals on Hikes",
+    "excerpt": "The yen extended its drop against the dollar after Bank of Japan Governor Kazuo Ueda gave mixed signals about future interest-rate hikes, falling short of markets’ hawkish expectations.",
+    "date": "Sep 2026",
+    "source": "FEEDS.BLOOMBERG.COM",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-18/yen-drops-against-dollar-after-boj-raises-rates-as-expected",
     "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
     "category": "all"
   }
