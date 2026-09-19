@@ -1,5 +1,23 @@
 [
   {
+    "title": "Disha Secures $5.96M Series A Led by General Catalyst to Scale AI Health Coaching",
+    "excerpt": "Vernacular AI health coaching platform Disha has secured US$5.96M in a Series A funding round led by General Catalyst. Existing backers Elevation Capital and Flamel Performing Creatives Private Limite",
+    "date": "Sep 2026",
+    "source": "VENTUREBURN.COM",
+    "url": "https://ventureburn.com/disha-secures-5-96m-series-a/",
+    "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
+    "category": "all"
+  },
+  {
+    "title": "Indian Rigid-Packaging Maker Manika Plastech Closes $17M Mainboard IPO",
+    "excerpt": "Indian rigid-plastic packaging manufacturer Manika Plastech has successfully closed its mainboard IPO, securing US$17 million in capital. The public offer ran from September 11 to September 16, 2026, ",
+    "date": "Sep 2026",
+    "source": "VENTUREBURN.COM",
+    "url": "https://ventureburn.com/manika-plastech-closes-ipo/",
+    "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
+    "category": "all"
+  },
+  {
     "title": "Google, NVIDIA, and Emerald AI Launch AI Data Center Power Coalition, AEMA",
     "excerpt": "At this point, we’re basically running out of electricity to feed the insatiable AI industry. Every new language model, every stunning image generation, and every breakthrough algorithm requires massi",
     "date": "Sep 2026",
@@ -18,20 +36,29 @@
     "category": "all"
   },
   {
-    "title": "French Biotech AbTx Secures €1.7M Seed to Advance Miniaturised Cancer Antibodies",
-    "excerpt": "French biotech newcomer AbTx just pulled in €1.7 million—about $2 million—in a fresh seed round. Established in 2024, the startup is laser-focused on crafting precision therapies for solid tumors that",
+    "title": "Petlibro’s new AI-powered feeder is a game changer for multi-cat homes",
+    "excerpt": "Petlibro's new Granary 2 smart feeders use a built-in scale and (on pricier models) an AI camera to track exactly how much your cat is eating and when — though the fanciest health-monitoring features ",
     "date": "Sep 2026",
-    "source": "VENTUREBURN.COM",
-    "url": "https://ventureburn.com/abtx-raises-1-7m-seed-cancer-antibodies/",
+    "source": "TECHCRUNCH.COM",
+    "url": "https://techcrunch.com/2026/09/19/petlibros-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes/",
     "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
     "category": "all"
   },
   {
-    "title": "African Biochar Startup Raises $1.5M to Scale Factory-Based Carbon Removal",
-    "excerpt": "Africa-based biochar developer Biochar Industrial Group has secured $1.5 million in pre-seed funding to expand its decentralized climate technology model. The fresh capital will fund the installation ",
+    "title": "AI safety conversations have gotten unbelievable",
+    "excerpt": "This week two conversations about AI safety went viral that demonstrate just how hard it is to discern AI fact from fiction.",
     "date": "Sep 2026",
-    "source": "VENTUREBURN.COM",
-    "url": "https://ventureburn.com/african-biochar-startup-raises-1-5m/",
+    "source": "TECHCRUNCH.COM",
+    "url": "https://techcrunch.com/2026/09/19/ai-safety-conversations-have-gotten-unbelievable/",
+    "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
+    "category": "all"
+  },
+  {
+    "title": "Vals, backed by Andreessen Horowitz, is looking to become the gold standard for AI benchmarking",
+    "excerpt": "Vals AI is hoping to make AI benchmarking a more neutral and trustworthy resource in a world increasingly inundated by AI models.",
+    "date": "Sep 2026",
+    "source": "TECHCRUNCH.COM",
+    "url": "https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking/",
     "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
     "category": "all"
   },
@@ -45,65 +72,38 @@
     "category": "all"
   },
   {
-    "title": "Tilly Norwood’s press tour is going about as well as you’d expect for an AI",
-    "excerpt": "In one particularly odd interview, Norwood seems to malfunction and begin speaking Chinese.",
-    "date": "Sep 2026",
-    "source": "TECHCRUNCH.COM",
-    "url": "https://techcrunch.com/2026/09/18/tilly-norwoods-press-tour-is-going-about-as-well-as-youd-expect-for-an-ai/",
-    "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
-    "category": "all"
-  },
-  {
-    "title": "A startup that builds other startups raised $100M and is all-in on physical AI",
-    "excerpt": "UP.Labs, now doing business under the name Vantora, is building startups for industrial corporations.",
-    "date": "Sep 2026",
-    "source": "TECHCRUNCH.COM",
-    "url": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/",
-    "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
-    "category": "all"
-  },
-  {
-    "title": "Anthropic is operating a lab that conducts biology experiments",
-    "excerpt": "AI leaders have been promising that AI is the key to curing human disease. Anthropic researchers have also been warning that AI might kill us all.",
-    "date": "Sep 2026",
-    "source": "TECHCRUNCH.COM",
-    "url": "https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments/",
-    "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
-    "category": "all"
-  },
-  {
-    "title": "Europe’s Winter Power Surge Is Biggest Since Energy Crisis",
-    "excerpt": "As Europe heads into winter, electricity markets are flashing their strongest warning since the energy crisis.",
+    "title": "New York Builds Data Team to Target Consumer Ripoffs",
+    "excerpt": "New York City is building a 36-person bureau of data scientists, technologists and economists to analyze company records for potential violations involving pricing, wages and other consumer and worker",
     "date": "Sep 2026",
     "source": "FEEDS.BLOOMBERG.COM",
-    "url": "https://www.bloomberg.com/news/articles/2026-09-19/europe-s-winter-power-surge-is-biggest-since-energy-crisis",
+    "url": "https://www.bloomberg.com/news/videos/2026-09-19/new-york-builds-data-team-to-target-consumer-ripoffs-video",
     "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
     "category": "all"
   },
   {
-    "title": "A Goldman M&A Banker Helped Bring the Olympics to Los Angeles",
-    "excerpt": "Gene Sykes on the TMT bubble and more.",
+    "title": "Governor Cox Says Americans Need Healthier Conflict",
+    "excerpt": "Utah Governor Spencer Cox joins Bloomberg This Weekend and argues Americans need more substantive disagreement without the contempt he says is fueling polarization, damaged relationships and political",
     "date": "Sep 2026",
     "source": "FEEDS.BLOOMBERG.COM",
-    "url": "https://www.bloomberg.com/news/articles/2026-09-19/a-goldman-m-a-banker-helped-bring-the-olympics-to-los-angeles",
+    "url": "https://www.bloomberg.com/news/videos/2026-09-19/governor-cox-says-americans-need-healthier-conflict-video",
     "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
     "category": "all"
   },
   {
-    "title": "Odd Lots: Goldman’s Sykes on the 2028 Olympics Deal (Podcast)",
-    "excerpt": "We’re in an era of megadeals, with Goldman Sachs reporting a record year for big deal volumes as companies scramble to compete with AI. Gene Sykes has seen multiple deal cycles come and go over his mu",
+    "title": "Hormuz Oil Shipments Hit Six-Month High, US Commander Says",
+    "excerpt": "Oil and liquefied natural gas shipments through the Strait of Hormuz in the past two weeks reached the highest level in six months, signaling that US naval protection and mine clearance efforts are “p",
     "date": "Sep 2026",
     "source": "FEEDS.BLOOMBERG.COM",
-    "url": "https://www.bloomberg.com/news/audio/2026-09-19/odd-lots-goldman-s-sykes-on-the-2028-olympics-deal-podcast",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-19/hormuz-oil-shipments-hit-six-month-high-us-commander-says",
     "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
     "category": "all"
   },
   {
-    "title": "Bolivia Eliminates Diesel Subsidy After IMF Loan Approval",
-    "excerpt": "Bolivia’s government has completely eliminated its diesel subsidy after the Senate approved a $1.9 billion loan from the International Monetary Fund that calls for spending curbs.",
+    "title": "Saudi Arabia Billionaires’ Family Office Dubai Bet Adds to London Exodus",
+    "excerpt": "An investment firm for one of Saudi Arabia’s richest families is relocating from London to Dubai, according to people familiar with the matter, the latest example of private wealth outflows from the U",
     "date": "Sep 2026",
     "source": "FEEDS.BLOOMBERG.COM",
-    "url": "https://www.bloomberg.com/news/articles/2026-09-19/bolivia-eliminates-diesel-subsidy-after-imf-loan-approval-mu7ydf34",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-18/saudi-arabia-billionaires-family-office-dubai-bet-adds-to-london-exodus",
     "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
     "category": "all"
   }
