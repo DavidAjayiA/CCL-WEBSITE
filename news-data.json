@@ -1,5 +1,23 @@
 [
   {
+    "title": "On-Chain Commodity Trading: How to Trade Gold and Oil with Leverage",
+    "excerpt": "Decentralized finance has opened new opportunities for traders seeking exposure to commodity markets without traditional intermediaries. On-chain commodity perpetuals allow direct access to price move",
+    "date": "Sep 2026",
+    "source": "VENTUREBURN.COM",
+    "url": "https://ventureburn.com/on-chain-commodity-trading-how-to-trade-gold-and-oil-with-leverage/",
+    "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
+    "category": "all"
+  },
+  {
+    "title": "Arbitflow Unveils Human-Led Trading Platform Supported by Proprietary AI Analysis",
+    "excerpt": "Arbitflow has introduced a human-led, managed crypto trading platform powered by AI-driven market analysis. The platform keeps professional traders responsible for execution while AI processes market ",
+    "date": "Sep 2026",
+    "source": "VENTUREBURN.COM",
+    "url": "https://ventureburn.com/arbitflow-unveils-human-led-trading-platform-supported-by-proprietary-ai-analysis/",
+    "image": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=400&h=250&fit=crop",
+    "category": "strategy"
+  },
+  {
     "title": "Disha Secures $5.96M Series A Led by General Catalyst to Scale AI Health Coaching",
     "excerpt": "Vernacular AI health coaching platform Disha has secured US$5.96M in a Series A funding round led by General Catalyst. Existing backers Elevation Capital and Flamel Performing Creatives Private Limite",
     "date": "Sep 2026",
@@ -18,74 +36,56 @@
     "category": "all"
   },
   {
-    "title": "Google, NVIDIA, and Emerald AI Launch AI Data Center Power Coalition, AEMA",
-    "excerpt": "At this point, we’re basically running out of electricity to feed the insatiable AI industry. Every new language model, every stunning image generation, and every breakthrough algorithm requires massi",
-    "date": "Sep 2026",
-    "source": "VENTUREBURN.COM",
-    "url": "https://ventureburn.com/google-nvidia-emerald-ai-data-center-power-coalition/",
-    "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
-    "category": "all"
-  },
-  {
-    "title": "Luzern Risk Raises $45 Million To Scale AI Captive Insurance Network",
-    "excerpt": "CEOs who run a mid size company are often left with a commercial insurance bill that feels out of control. Premiums go up every year, coverage keeps shrinking, and they\nThe post Luzern Risk Raises $45",
-    "date": "Sep 2026",
-    "source": "VENTUREBURN.COM",
-    "url": "https://ventureburn.com/luzern-risk-raises-45-million-ai-captive-insurance-platform/",
-    "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
-    "category": "all"
-  },
-  {
-    "title": "Petlibro’s new AI-powered feeder is a game changer for multi-cat homes",
-    "excerpt": "Petlibro's new Granary 2 smart feeders use a built-in scale and (on pricier models) an AI camera to track exactly how much your cat is eating and when — though the fanciest health-monitoring features ",
+    "title": "Flock reportedly tries to shrink workforce with employee buyouts",
+    "excerpt": "Without buyouts, Flock would \"almost certainly\" need to lay off staff.",
     "date": "Sep 2026",
     "source": "TECHCRUNCH.COM",
-    "url": "https://techcrunch.com/2026/09/19/petlibros-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes/",
+    "url": "https://techcrunch.com/2026/09/19/flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts/",
     "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
     "category": "all"
   },
   {
-    "title": "AI safety conversations have gotten unbelievable",
-    "excerpt": "This week two conversations about AI safety went viral that demonstrate just how hard it is to discern AI fact from fiction.",
+    "title": "Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force",
+    "excerpt": "Trump claimed, without evidence, that the AI backlash is a Democratic hoax.",
     "date": "Sep 2026",
     "source": "TECHCRUNCH.COM",
-    "url": "https://techcrunch.com/2026/09/19/ai-safety-conversations-have-gotten-unbelievable/",
+    "url": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/",
     "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
     "category": "all"
   },
   {
-    "title": "Vals, backed by Andreessen Horowitz, is looking to become the gold standard for AI benchmarking",
-    "excerpt": "Vals AI is hoping to make AI benchmarking a more neutral and trustworthy resource in a world increasingly inundated by AI models.",
+    "title": "Google’s Gemini is the latest AI model to hack other companies",
+    "excerpt": "Google said Gemini had \"acted appropriately\" by ending each hack immediately.",
     "date": "Sep 2026",
     "source": "TECHCRUNCH.COM",
-    "url": "https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking/",
+    "url": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
     "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
     "category": "all"
   },
   {
-    "title": "India forces caller-ID apps to feed spam reports to telcos",
-    "excerpt": "Truecaller says the one-way sharing requirement would hand a commercially valuable proprietary asset to telecom operators.",
+    "title": "The US Navy just told us what’s on its tech wish list for the next several years",
+    "excerpt": "Navy CTO Justin Fanelli talks co-investing alongside VCs instead of funding early research himself, recent buys like a $562 million autonomous refueling deal, and the Navy's updated wish list — from A",
     "date": "Sep 2026",
     "source": "TECHCRUNCH.COM",
-    "url": "https://techcrunch.com/2026/09/18/india-forces-caller-id-apps-to-feed-spam-reports-to-telcos/",
+    "url": "https://techcrunch.com/2026/09/19/even-mid-sprint-to-a-secret-flight-the-navys-tech-chief-had-a-pitch-for-investors/",
     "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
     "category": "all"
   },
   {
-    "title": "New York Builds Data Team to Target Consumer Ripoffs",
-    "excerpt": "New York City is building a 36-person bureau of data scientists, technologists and economists to analyze company records for potential violations involving pricing, wages and other consumer and worker",
+    "title": "Australia Home Auction Clearance Rates Fall Amid Rate Hike Fears",
+    "excerpt": "Australia’s residential real estate market remained subdued with auction clearance rates falling this week as concerns the central bank will increase interest rates later this month grow, according to",
     "date": "Sep 2026",
     "source": "FEEDS.BLOOMBERG.COM",
-    "url": "https://www.bloomberg.com/news/videos/2026-09-19/new-york-builds-data-team-to-target-consumer-ripoffs-video",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-20/australia-home-auction-clearance-rates-fall-amid-rate-hike-fears",
     "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
     "category": "all"
   },
   {
-    "title": "Governor Cox Says Americans Need Healthier Conflict",
-    "excerpt": "Utah Governor Spencer Cox joins Bloomberg This Weekend and argues Americans need more substantive disagreement without the contempt he says is fueling polarization, damaged relationships and political",
+    "title": "Venezuela, TotalEnergies Pave Way for Oil Company’s Return",
+    "excerpt": "Venezuela and TotalEnergies SE signed a memorandum of understanding on Saturday, setting up the French company for a return to operations in the South American country.",
     "date": "Sep 2026",
     "source": "FEEDS.BLOOMBERG.COM",
-    "url": "https://www.bloomberg.com/news/videos/2026-09-19/governor-cox-says-americans-need-healthier-conflict-video",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-20/venezuela-totalenergies-pave-way-for-oil-company-s-return",
     "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
     "category": "all"
   },
@@ -99,11 +99,11 @@
     "category": "all"
   },
   {
-    "title": "Saudi Arabia Billionaires’ Family Office Dubai Bet Adds to London Exodus",
-    "excerpt": "An investment firm for one of Saudi Arabia’s richest families is relocating from London to Dubai, according to people familiar with the matter, the latest example of private wealth outflows from the U",
+    "title": "Companies Avoid Selling the Bonds Investors Crave: Credit Weekly",
+    "excerpt": "Investors are clamoring for the kind of debt companies are reluctant to sell now: longer-term bonds.",
     "date": "Sep 2026",
     "source": "FEEDS.BLOOMBERG.COM",
-    "url": "https://www.bloomberg.com/news/articles/2026-09-18/saudi-arabia-billionaires-family-office-dubai-bet-adds-to-london-exodus",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-19/companies-avoid-selling-the-bonds-investors-crave-credit-weekly",
     "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
     "category": "all"
   }
