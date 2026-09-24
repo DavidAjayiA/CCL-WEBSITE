@@ -1,5 +1,32 @@
 [
   {
+    "title": "Bird.com Secures $450M to Expand Agentic AI Infrastructure",
+    "excerpt": "Bird.com Secures $450M Debt Financing Bird.com has secured $450 million in debt financing led by J.P. Morgan. The financing involved seven banks, including Capital One and Citi. The facility includes\n",
+    "date": "Sep 2026",
+    "source": "VENTUREBURN.COM",
+    "url": "https://ventureburn.com/bird-com-secures-450m-agentic-ai/",
+    "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
+    "category": "all"
+  },
+  {
+    "title": "Numeral Raises $100M to Scale AI Sales Tax Compliance",
+    "excerpt": "Numeral Raises $100M in Series C Funding Numeral has raised $100 million in Series C funding to expand its AI-powered sales tax compliance platform. Insight Partners led the round, with\nThe post Numer",
+    "date": "Sep 2026",
+    "source": "VENTUREBURN.COM",
+    "url": "https://ventureburn.com/numeral-raises-100m-ai-tax-compliance/",
+    "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
+    "category": "all"
+  },
+  {
+    "title": "Basecamp Research Raises $140M to Advance AI-Designed Medicines",
+    "excerpt": "Basecamp Research Raises $140M for AI-Designed Medicines Basecamp Research has raised $140 million in Series C funding to advance AI-designed medicines. The oversubscribed round was led by S32, with b",
+    "date": "Sep 2026",
+    "source": "VENTUREBURN.COM",
+    "url": "https://ventureburn.com/basecamp-research-raises-140m-ai-medicines/",
+    "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
+    "category": "all"
+  },
+  {
     "title": "Tekever Raises $580 Million To Build More AI Drones For Defense",
     "excerpt": "Tekever builds big, smart, AI-powered drones that can fly by themselves for up to 20 hours and spy out zones. They are used by armies and governments. Now, to build\nThe post Tekever Raises $580 Millio",
     "date": "Sep 2026",
@@ -9,101 +36,74 @@
     "category": "all"
   },
   {
-    "title": "Snorkel AI Raises $350 Million To Build Data Factory for Frontier AI Labs",
-    "excerpt": "AI models study data. Lots and lots of data. It was easier to train AI in the old days, but now, AI has progressed. More than labeling photos, you can\nThe post Snorkel AI Raises $350 Million To Build ",
-    "date": "Sep 2026",
-    "source": "VENTUREBURN.COM",
-    "url": "https://ventureburn.com/snorkel-ai-raises-350-million-data-factory-frontier-ai/",
-    "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
-    "category": "all"
-  },
-  {
-    "title": "University Spin-Out Secures £1.1M to Advance Diagnostic Technology",
-    "excerpt": "IMS Solutions, a spin-out from the University of Birmingham and Imperial College London has officially launched, backed by £1.1 million in funding to accelerate the development of advanced diagnostic ",
-    "date": "Sep 2026",
-    "source": "VENTUREBURN.COM",
-    "url": "https://ventureburn.com/university-spin-out-secures-1m-diagnostic-tech/",
-    "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
-    "category": "all"
-  },
-  {
-    "title": "Palma.ai Secures $1.8M Pre-Seed Funding to Govern Enterprise AI Agents",
-    "excerpt": "Enterprise AI adoption has officially moved past simple chatbots. Startups are now racing to give autonomous agents direct access to core company infrastructure, creating massive security blind spots ",
-    "date": "Sep 2026",
-    "source": "VENTUREBURN.COM",
-    "url": "https://ventureburn.com/palma-ai-secures-1-8m-funding/",
-    "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
-    "category": "all"
-  },
-  {
-    "title": "VC firm Bessemer now has another $5.75B to invest in (what else?) AI",
-    "excerpt": "The VC firm says that AI-native companies are growing faster than any technology, ever.",
+    "title": "Everything new coming to Meta’s AI agent Muse",
+    "excerpt": "CEO Mark Zuckerberg kicked off the company’s annual Connect event in Menlo Park on Wednesday with a keynote that made one thing clear: Meta is going all-in on Muse. It's even coming to Meta's AI glass",
     "date": "Sep 2026",
     "source": "TECHCRUNCH.COM",
-    "url": "https://techcrunch.com/2026/09/23/vc-firm-bessemer-now-has-another-5-75b-to-invest-in-what-else-ai/",
+    "url": "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/",
     "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
     "category": "all"
   },
   {
-    "title": "Enveda secures $311M to bring more nature-derived AI drugs into clinical trials",
-    "excerpt": "The round valued the AI biotech at $2 billion. It is currently testing drugs that treat skin conditions and preserve weight loss after stopping GLP-1s.",
+    "title": "Meta made a Tamagotchi-like wearable for its Muse AI agent",
+    "excerpt": "The tiny hardware device creates  another mobile home for its AI agent Muse.",
     "date": "Sep 2026",
     "source": "TECHCRUNCH.COM",
-    "url": "https://techcrunch.com/2026/09/23/enveda-secures-311m-to-bring-more-nature-derived-ai-drugs-into-clinical-trials/",
+    "url": "https://techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent/",
     "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
     "category": "all"
   },
   {
-    "title": "Modal Motors is trying to cut China out of electric motors entirely",
-    "excerpt": "The startup is working on small, light motors with no rare-earth magnets that are suited for drones, fans, and robots.",
+    "title": "Meta is trying VR glasses (again), this time with more IMAX",
+    "excerpt": "Meta's return to the VR glasses realm comes with a promising combination of light weight form factor and enhanced entertainment options.",
     "date": "Sep 2026",
     "source": "TECHCRUNCH.COM",
-    "url": "https://techcrunch.com/2026/09/23/modal-motors-is-trying-to-cut-china-out-of-electric-motors-entirely/",
+    "url": "https://techcrunch.com/2026/09/23/meta-is-trying-vr-glasses-again-this-time-with-more-imax/",
     "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
     "category": "all"
   },
   {
-    "title": "Disney+ and Hulu add to the growing trend of streaming inflation",
-    "excerpt": "At the same time, Disney appears to be exploring new ways to expand its streaming business beyond simply raising subscription prices.",
+    "title": "Meta introduces camera-free AI glasses",
+    "excerpt": "Meta says the camera-free glasses will be lighter and have up to 12 hours battery life.",
     "date": "Sep 2026",
     "source": "TECHCRUNCH.COM",
-    "url": "https://techcrunch.com/2026/09/23/disney-and-hulu-add-to-the-growing-trend-of-streaming-inflation/",
+    "url": "https://techcrunch.com/2026/09/23/meta-introduces-camera-free-ai-glasses/",
     "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
     "category": "all"
   },
   {
-    "title": "Sheinbaum Boosts Lula Before Vote as Leftist Allies Grow Scarce",
-    "excerpt": "Less than two weeks before Brazil’s election, Mexico’s Claudia Sheinbaum offered a strong public show of support for Luiz Inácio Lula da Silva, as Latin America’s two most prominent leftist leaders fi",
+    "title": "Bond Selloff Deepens as Fed Rate-Hike Bets Build: Markets Wrap",
+    "excerpt": "A global selloff in bonds intensified, jolting investors as robust US economic data and weak demand at a debt auction drove Treasury yields across much of the curve to their highest levels in almost t",
     "date": "Sep 2026",
     "source": "FEEDS.BLOOMBERG.COM",
-    "url": "https://www.bloomberg.com/news/articles/2026-09-23/sheinbaum-boosts-lula-before-vote-as-leftist-allies-grow-scarce",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-23/stock-market-today-dow-s-p-live-updates",
     "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
     "category": "all"
   },
   {
-    "title": "Venezuela Spot Oil Sales Snarled by Surging Freight Costs",
-    "excerpt": "Sales of Venezuelan oil for loading in October stalled after a surge in shipping costs muddled negotiations between the country’s state oil company and buyers of its oil.",
+    "title": "Mining Giant Rio Tinto Plans to Expand Metals Trading Business",
+    "excerpt": "Rio Tinto Group plans to expand its marketing operations to trade more metal from other producers as well as derivatives, according to people familiar with its strategy, as part of a drive by its new ",
     "date": "Sep 2026",
     "source": "FEEDS.BLOOMBERG.COM",
-    "url": "https://www.bloomberg.com/news/articles/2026-09-23/venezuela-spot-oil-sales-snarled-by-surging-freight-costs",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-24/mining-giant-rio-tinto-plans-to-expand-metals-trading-business",
     "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
     "category": "all"
   },
   {
-    "title": "Stocks Fall as Inflation Jitters Boost Bond Yields: Markets Wrap",
-    "excerpt": "Stocks joined bonds lower as a rally in oil prices stoked worries about inflationary pressures, which were further reinforced by data showing jump in US business activity at the fastest pace since 202",
+    "title": "Australian Unemployment Climbs to 4.6% Even as Jobs Gain",
+    "excerpt": "Australian unemployment climbed further in August as more people sought work, overshadowing a jump in hiring days before the Reserve Bank weighs resuming interest-rate increases.",
     "date": "Sep 2026",
     "source": "FEEDS.BLOOMBERG.COM",
-    "url": "https://www.bloomberg.com/news/articles/2026-09-22/stock-market-today-dow-s-p-live-updates",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-24/australian-unemployment-surprisingly-rises-despite-job-gains",
     "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
     "category": "all"
   },
   {
-    "title": "USD rallies after US data aided case for Federal Reserve increases",
-    "excerpt": "The dollar jumped Wednesday after US business activity rose at the fastest pace in more than five years, fortifying the case for the Federal Reserve to continue raising interest rates.",
+    "title": "US-China Truce Extended as Xi Gets Rare Welcome From Trump",
+    "excerpt": "President Trump greeted Xi at Joint Base Andrews, a break from protocol that gives Beijing a powerful visual opportunity to present China as an equal peer to the US. The state visit happens after Trea",
     "date": "Sep 2026",
     "source": "FEEDS.BLOOMBERG.COM",
-    "url": "https://www.bloomberg.com/news/articles/2026-09-23/dollar-usd-notches-seasonal-end-of-september-gains-on-hawkish-fed",
+    "url": "https://www.bloomberg.com/news/videos/2026-09-24/us-china-truce-extended-xi-gets-rare-welcome-from-trump-video",
     "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
     "category": "all"
   }
