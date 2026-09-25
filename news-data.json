@@ -1,5 +1,14 @@
 [
   {
+    "title": "Akamai Signs $11.6B Seven-Year Deal With Anthropic to Power CPU Workloads on Akamai Cloud",
+    "excerpt": "Companies building AI need more than powerful chips. They need places to run the heavy CPU work that keeps AI agents and applications running. Akamai built its business by putting\nThe post Akamai Sign",
+    "date": "Sep 2026",
+    "source": "VENTUREBURN.COM",
+    "url": "https://ventureburn.com/akamai-anthropic-11-6-billion-cloud-deal/",
+    "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
+    "category": "all"
+  },
+  {
     "title": "Moxing Raises $150 Million At $1.5B Valuation To Build Low-Cost 4D AI Infrastructure",
     "excerpt": "Enterprises and labs want to build 4D world models to simulate the real world for robots, factories, and smart devices. The problem is these models need expensive imported GPUs, mostly\nThe post Moxing",
     "date": "Sep 2026",
@@ -27,17 +36,17 @@
     "category": "all"
   },
   {
-    "title": "Rightway Raises $155M to Expand AI-Powered Pharmacy Platform",
-    "excerpt": "Rightway Raises $155M Series E Funding Rightway has raised $155 million in Series E financing led by Francisco Partners. Existing investors Thrive Capital and Khosla Ventures also participated. The fu",
+    "title": "Lightspeed targets $250M for new India fund, focusing on early-stage AI",
+    "excerpt": "The venture firm is aligning its India fundraising cycle with its global funds for the first time, as it shifts to a shorter investment period.",
     "date": "Sep 2026",
-    "source": "VENTUREBURN.COM",
-    "url": "https://ventureburn.com/rightway-raises-155m-ai-pharmacy/",
+    "source": "TECHCRUNCH.COM",
+    "url": "https://techcrunch.com/2026/09/24/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai/",
     "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
     "category": "all"
   },
   {
-    "title": "Waymo is scaling fast. Here’s what the fleet data shows.",
-    "excerpt": "In the past month, Waymo has expanded its fleet in Texas by 49%. There are other hotspots as well.",
+    "title": "Waymo is scaling fast: Here’s what the fleet data shows",
+    "excerpt": "In the past month, Waymo has expanded its fleet in Texas by 49%. There are other hot spots as well.",
     "date": "Sep 2026",
     "source": "TECHCRUNCH.COM",
     "url": "https://techcrunch.com/2026/09/24/waymo-is-scaling-fast-heres-what-the-fleet-data-shows/",
@@ -63,26 +72,8 @@
     "category": "all"
   },
   {
-    "title": "PrismML brings its tiny LLMs to Qualcomm-powered smart glasses",
-    "excerpt": "Prism's larger goal is open-weight AI that runs on devices and makes better use of the computing power they already have.",
-    "date": "Sep 2026",
-    "source": "TECHCRUNCH.COM",
-    "url": "https://techcrunch.com/2026/09/24/prismml-brings-its-tiny-llms-to-qualcomm-powered-smart-glasses/",
-    "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
-    "category": "all"
-  },
-  {
-    "title": "Hedge Fund With 235% Return Says Gold Decline Is Temporary",
-    "excerpt": "Australian hedge fund manager Raphael Lamm, whose long-short gold fund has delivered a net return of more than 200% to investors since its launch last year, sees the recent decline in bullion as tempo",
-    "date": "Sep 2026",
-    "source": "FEEDS.BLOOMBERG.COM",
-    "url": "https://www.bloomberg.com/news/articles/2026-09-24/hedge-fund-with-235-return-says-gold-price-decline-is-temporary",
-    "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
-    "category": "all"
-  },
-  {
     "title": "Latest Oil Market News and Analysis for DATE",
-    "excerpt": "Oil fell as US and Iranian negotiators were said to be exploring a phased deal that would see Tehran reopen the Strait of Hormuz.",
+    "excerpt": "Oil eased as US and Iranian negotiators explored a phased deal to reopen the world’s most important energy shipping route.",
     "date": "Sep 2026",
     "source": "FEEDS.BLOOMBERG.COM",
     "url": "https://www.bloomberg.com/news/articles/2026-09-24/latest-oil-market-news-and-analysis-for-date",
@@ -90,20 +81,29 @@
     "category": "all"
   },
   {
-    "title": "Gold Tilts Lower as Iran Impasse Continues to Fan Rate-Hike Bets",
-    "excerpt": "Gold was set to end to the week lower as elevated energy prices and inflation concerns drove bond yields higher and fueled expectations the Federal Reserve will need to raise interest rates further.",
+    "title": "Oil is King for Gilts in Volatile Week",
+    "excerpt": "Gilts have fluctuated wildly at the mercy of oil, but the case for hikes remains less clear than in the US thanks to the economy. Bloomberg's Morwenna Coniam joins Guy Johnson and Anna Edwards on 'Blo",
     "date": "Sep 2026",
     "source": "FEEDS.BLOOMBERG.COM",
-    "url": "https://www.bloomberg.com/news/articles/2026-09-24/gold-tilts-lower-as-iran-impasse-continues-to-fan-rate-hike-bets",
+    "url": "https://www.bloomberg.com/news/videos/2026-09-25/oil-is-king-for-gilts-in-volatile-week-video",
     "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
     "category": "all"
   },
   {
-    "title": "Indonesia’s New Economic Chiefs Vow Unity After Policy Rift",
-    "excerpt": "Bank Indonesia Governor Destry Damayanti and Finance Minister Suaha showcased a united front and promised to align their policies in managing liquidity and boosting economic growth, after disagreement",
+    "title": "Trump Trying to Buy Time With Xi; Amundi's Rosenberg",
+    "excerpt": "Anna Rosenberg, Amundi Investment Institute Head of Geopolitics, joins Bloomberg's Anna Edwards on \"Bloomberg Brief\" to discuss the key takeaways from the Trump-Xi Summit, suggesting the US is trying ",
     "date": "Sep 2026",
     "source": "FEEDS.BLOOMBERG.COM",
-    "url": "https://www.bloomberg.com/news/articles/2026-09-24/indonesia-economic-destry-damayanti--finance-minister-suahasil-nazara-unity-past-policy-rift",
+    "url": "https://www.bloomberg.com/news/videos/2026-09-25/trump-trying-to-buy-time-with-xi-amundi-s-rosenberg-video",
+    "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
+    "category": "all"
+  },
+  {
+    "title": "Lombard Odier Turns Bullish on Treasuries After Five-Year Hiatus",
+    "excerpt": "Switzerland’s Lombard Odier Investment Management has turned overweight US Treasuries for the first time in at least five years, seeing the higher yields as increasingly attractive compared to stocks.",
+    "date": "Sep 2026",
+    "source": "FEEDS.BLOOMBERG.COM",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-25/lombard-odier-turns-bullish-on-treasuries-after-five-year-hiatus",
     "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
     "category": "all"
   }
