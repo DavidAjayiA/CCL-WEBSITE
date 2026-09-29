@@ -1,5 +1,23 @@
 [
   {
+    "title": "SiMa.ai Raises $150 Million To Bring Low-Power AI Chips to Cars and Robotics",
+    "excerpt": "When you try cramming massive artificial intelligence models into physical devices like autonomous cars, drones, or humanoid robots, you hit a brutal wall. Traditional GPUs run incredibly hot and are\n",
+    "date": "Sep 2026",
+    "source": "VENTUREBURN.COM",
+    "url": "https://ventureburn.com/sima-ai-raises-150-million-for-physical-ai-chip/",
+    "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=400&h=250&fit=crop",
+    "category": "tech"
+  },
+  {
+    "title": "Do Bitcoin ETF Inflows Signal Easier Startup Funding?",
+    "excerpt": "Strong inflows into Bitcoin exchange-traded funds (ETFs) can make a crypto founder’s next funding round look better timed. But demand for Bitcoin exposure does not establish that investors are more\nTh",
+    "date": "Sep 2026",
+    "source": "VENTUREBURN.COM",
+    "url": "https://ventureburn.com/do-bitcoin-etf-inflows-signal-easier-startup-funding/",
+    "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
+    "category": "all"
+  },
+  {
     "title": "Amprius Secures $75M Grant for High-Energy Drone Batteries",
     "excerpt": "Amprius Secures $75M for Domestic Battery Production Amprius Technologies has secured a grant of up to $75 million from the U.S. Department of War. The award supports domestic production of\nThe post A",
     "date": "Sep 2026",
@@ -18,20 +36,29 @@
     "category": "all"
   },
   {
-    "title": "Outmarket AI Raises $34.5M to Expand Insurance AI Platform",
-    "excerpt": "Outmarket AI Raises $34.5M in Series B Funding Outmarket AI has raised $34.5 million in Series B funding led by SignalFire. Fika Ventures, Permanent Capital Ventures, TTV Capital and Dash\nThe post Out",
+    "title": "Protego Ventures closes debut $125 million fund for Israeli defense tech",
+    "excerpt": "Protego Ventures, the first and largest dedicated defense tech VC in Israel, just completed its final $125 million closing, TechCrunch learned exclusively.",
     "date": "Sep 2026",
-    "source": "VENTUREBURN.COM",
-    "url": "https://ventureburn.com/outmarket-ai-raises-34-5m-insurance-ai/",
+    "source": "TECHCRUNCH.COM",
+    "url": "https://techcrunch.com/2026/09/29/protego-ventures-closes-debut-125-million-fund-for-israeli-defense-tech/",
     "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
     "category": "all"
   },
   {
-    "title": "Kenya’s Rhea Secures $100K to Scale Soil Tech into Tanzania",
-    "excerpt": "Kenyan agritech startup Rhea has secured $100,000 in a convertible note financing round led by Obudu Capital. The capital injection targets regional expansion, setting the stage to test the company’s\n",
+    "title": "Ex-Tesla team raises $12.5M to put supply chains on autopilot",
+    "excerpt": "Atomic's agentic supply chain software is now being used by companies like DoorDash and HelloFresh.",
     "date": "Sep 2026",
-    "source": "VENTUREBURN.COM",
-    "url": "https://ventureburn.com/kenyas-rhea-secures-100k-soil-tech-tanzania/",
+    "source": "TECHCRUNCH.COM",
+    "url": "https://techcrunch.com/2026/09/29/ex-tesla-team-raises-12-5m-to-put-supply-chains-on-autopilot/",
+    "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
+    "category": "all"
+  },
+  {
+    "title": "Anthropic’s prospectus details losses, growth, and, yes, a warning that its AI could end humanity",
+    "excerpt": "In its prospectus, Anthropic just told investors it's losing tens of billions of dollars a year, but also growing like crazy, and — oh yeah — its own AI might pose an existential risk to humanity.",
+    "date": "Sep 2026",
+    "source": "TECHCRUNCH.COM",
+    "url": "https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity/",
     "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
     "category": "all"
   },
@@ -45,65 +72,38 @@
     "category": "all"
   },
   {
-    "title": "OpenAI reportedly ditches model over safety concerns",
-    "excerpt": "A top executive at the AI lab told the Wall Street Journal that the model in question had displayed a poor aptitude for following orders.",
-    "date": "Sep 2026",
-    "source": "TECHCRUNCH.COM",
-    "url": "https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns/",
-    "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
-    "category": "all"
-  },
-  {
-    "title": "Aurora CFO says 30,000 driverless trucks by 2030 isn’t as far-fetched as it sounds",
-    "excerpt": "Self-driving truck company Aurora laid out an audacious plan for 2030. Its CFO says its targets aren't aspirational.",
-    "date": "Sep 2026",
-    "source": "TECHCRUNCH.COM",
-    "url": "https://techcrunch.com/2026/09/28/aurora-cfo-says-30000-driverless-trucks-by-2030-isnt-as-far-fetched-as-it-sounds/",
-    "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
-    "category": "all"
-  },
-  {
-    "title": "Source: Inference provider Modal Labs closing in on $750M round at $15.75B valuation",
-    "excerpt": "The new financing is expected to more than triples the AI infrastructure startup's valuation from just four months ago.",
-    "date": "Sep 2026",
-    "source": "TECHCRUNCH.COM",
-    "url": "https://techcrunch.com/2026/09/28/source-inference-provider-modal-labs-closing-in-on-750m-round-at-15-75b-valuation/",
-    "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
-    "category": "all"
-  },
-  {
-    "title": "Latest Oil Market News and Analysis for Sept. 29",
-    "excerpt": "Oil rose for a second day as a lack of progress in US-Iran talks and signs of strong demand outweighed a resumption of flows through a key pipeline from top exporter Saudi Arabia.",
+    "title": "Tata Sons Biggest Shareholder Proposes a Recast to Skip Listing",
+    "excerpt": "Tata Trusts, the majority shareholder of Tata Sons Pvt., proposed that the holding company of India’s biggest conglomerate merge with two of its unlisted units to stave off a listing order.",
     "date": "Sep 2026",
     "source": "FEEDS.BLOOMBERG.COM",
-    "url": "https://www.bloomberg.com/news/articles/2026-09-28/latest-oil-market-news-and-analysis-for-sept-29",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-28/tata-trusts-propose-restructuring-of-tata-sons-to-avoid-listing",
     "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
     "category": "all"
   },
   {
-    "title": "Gold Edges Higher as Treasuries Stabilize After Sharp Selloff",
-    "excerpt": "Gold edged higher after touching a more than seven-week low on Monday as a selloff of US Treasuries stabilized, even as expectations remained high the Federal Reserve will keep tightening policy to re",
+    "title": "Dangote Says Kenya Refinery Will Be Listed in Nairobi",
+    "excerpt": "African billionaire Aliko Dangote said shares in a Kenya refinery that he’s building will trade on the country's stock exchange. Breaking ground on the $16 billion project is planned for Wednesday, bu",
     "date": "Sep 2026",
     "source": "FEEDS.BLOOMBERG.COM",
-    "url": "https://www.bloomberg.com/news/articles/2026-09-29/gold-trades-near-seven-week-low-as-rate-hike-pressure-mounts",
+    "url": "https://www.bloomberg.com/news/videos/2026-09-29/dangote-says-kenya-refinery-will-be-listed-in-nairobi-video",
     "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
     "category": "all"
   },
   {
-    "title": "Copper Edges Higher as Chile Mine Dispute Raises Supply Concerns",
-    "excerpt": "Copper edged higher as supply concerns came to the fore, with workers at a major operation in Chile voting to strike after talks failed.",
+    "title": "US Stock Futures Rise as Traders Await Key Economic Data",
+    "excerpt": "US stock futures posted modest gains on Tuesday as investors readied themselves for the first of several economic data releases.",
     "date": "Sep 2026",
     "source": "FEEDS.BLOOMBERG.COM",
-    "url": "https://www.bloomberg.com/news/articles/2026-09-29/copper-edges-higher-as-chile-mine-dispute-raises-supply-concerns",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-29/us-stock-futures-rise-as-traders-await-key-economic-data",
     "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
     "category": "all"
   },
   {
-    "title": "Samsung Bets $1 Billion on AI Data Centers From Ex-AWS Chief",
-    "excerpt": "Samsung Electronics Co. and five affiliates are investing a combined $1 billion in a US company led by a former Amazon Web Services Inc. chief, deepening the South Korean group’s push into the rapidly",
+    "title": "Trump’s Offer for More Solar Comes With a Catch",
+    "excerpt": "Unfreezing some renewable projects may have only a modest impact on US clean-power growth.",
     "date": "Sep 2026",
     "source": "FEEDS.BLOOMBERG.COM",
-    "url": "https://www.bloomberg.com/news/articles/2026-09-28/samsung-to-invest-1-billion-in-kkr-s-ai-infrastructure-company",
+    "url": "https://www.bloomberg.com/news/newsletters/2026-09-29/trump-s-offer-for-more-solar-comes-with-a-catch",
     "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
     "category": "all"
   }
