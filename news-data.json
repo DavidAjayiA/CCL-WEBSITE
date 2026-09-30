@@ -1,5 +1,23 @@
 [
   {
+    "title": "Occam Secures €3.8M to Scale Drone Autonomy Software Across NATO",
+    "excerpt": "British-Ukrainian defence technology firm Occam has secured €3.8 million in early-stage venture funding. The capital injection brings the company’s total funding to €7 million as it scales software de",
+    "date": "Sep 2026",
+    "source": "VENTUREBURN.COM",
+    "url": "https://ventureburn.com/occam-raises-3-8m-drone-autonomy/",
+    "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
+    "category": "all"
+  },
+  {
+    "title": "OuterSignal Raises $22 Million To Revolutionize Customer Personalization With AI Agents",
+    "excerpt": "Every single day, e-commerce giants treat millions of loyal shoppers like total strangers as they operate blindly. They push identical product drops and static homepage layouts because they simply don",
+    "date": "Sep 2026",
+    "source": "VENTUREBURN.COM",
+    "url": "https://ventureburn.com/outersignal-raises-22-million-power-ai-personalization/",
+    "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
+    "category": "all"
+  },
+  {
     "title": "EORMC Review: Why Do I Think Its Trading Experience Is Smoother and Clearer?",
     "excerpt": "In the past, when I looked at an exchange, my first reaction might have been to check how many products it had, how cool the pages looked, how lively the\nThe post EORMC Review: Why Do I Think Its Trad",
     "date": "Sep 2026",
@@ -18,93 +36,75 @@
     "category": "all"
   },
   {
-    "title": "Hertha Metals Secures $133.65M for Domestic Steel Production",
-    "excerpt": "Hertha Metals Secures $133.65M Series A Funding Hertha Metals has closed a $133.65 million Series A funding round. Khosla Ventures and Doerr Capital co-led the financing. The round included a\nThe post",
-    "date": "Sep 2026",
-    "source": "VENTUREBURN.COM",
-    "url": "https://ventureburn.com/hertha-metals-secures-133-65m-for-steel-production/",
-    "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
-    "category": "all"
-  },
-  {
-    "title": "Jeeves Raises $110M to Expand Stablecoin Banking Platform",
-    "excerpt": "Jeeves Raises $110M to Scale Stablecoin Banking Jeeves has raised $110 million in equity funding to expand its stablecoin-native banking platform. CoinFund led the round with participation from severa",
-    "date": "Sep 2026",
-    "source": "VENTUREBURN.COM",
-    "url": "https://ventureburn.com/jeeves-raises-110m-stablecoin-banking/",
-    "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
-    "category": "all"
-  },
-  {
-    "title": "Apple Pay finally launches in India after years on the sidelines",
-    "excerpt": "Some of India's largest banks are holding off on supporting Apple Pay initially.",
+    "title": "Reddit is killing RSS feeds and ending public API access because of AI bots",
+    "excerpt": "Reddit is ending support for RSS feeds, as the company continues tightening access to its trove of user-generated content.",
     "date": "Sep 2026",
     "source": "TECHCRUNCH.COM",
-    "url": "https://techcrunch.com/2026/09/29/apple-pay-set-to-launch-in-india-with-axis-bank-today-sources-say/",
+    "url": "https://techcrunch.com/2026/09/30/reddit-is-killing-rss-feeds-ending-public-api-access-because-of-ai-bots/",
     "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
     "category": "all"
   },
   {
-    "title": "America.gov gets really weird when you ask it about Minecraft, but it’s not a glitch",
-    "excerpt": "For the sake of national security, it's a relief to learn that America.gov is not hallucinating to the point that it's penning lengthy poetry.",
+    "title": "The ugly economics of consumer AI",
+    "excerpt": "There’s a reason frontier labs have gotten gunshy about consumer AI — and it’s not because the tech isn’t good enough.",
     "date": "Sep 2026",
     "source": "TECHCRUNCH.COM",
-    "url": "https://techcrunch.com/2026/09/29/america-gov-gets-really-weird-when-you-ask-it-about-minecraft-but-its-not-a-glitch/",
+    "url": "https://techcrunch.com/2026/09/30/the-ugly-economics-of-consumer-ai/",
     "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
     "category": "all"
   },
   {
-    "title": "The internet is convinced Elon Musk’s xAI trolled OpenAI’s ‘Dots’ launch",
-    "excerpt": "Before OpenAI launched its new AI agent, Dots, on Tuesday, Elon Musk's xAI had already acquired the domain name \"dot.com,\" which now redirects to the Grok chatbot download page.",
+    "title": "Meta disputes claim that Muse read a user’s private messages without permission",
+    "excerpt": "Meta says its Muse AI agent cannot access a user’s Messages without explicit permission, disputing a journalist’s account that the agent read his private messages while the required Mac setting was tu",
     "date": "Sep 2026",
     "source": "TECHCRUNCH.COM",
-    "url": "https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/",
+    "url": "https://techcrunch.com/2026/09/30/meta-disputes-claim-that-muse-read-a-users-private-messages-without-permission/",
     "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
     "category": "all"
   },
   {
-    "title": "Your car and its mobile app are probably handing over all kinds of data to tech companies",
-    "excerpt": "Researchers at Northeastern University found vehicles and their companion apps regularly shared detailed data with some of the largest tech companies.",
+    "title": "DoorDash launches an AI agent you can text to order food",
+    "excerpt": "By launching an AI agent for food ordering, DoorDash is looking to gain an edge over rivals Uber Eats and Grubhub.",
     "date": "Sep 2026",
     "source": "TECHCRUNCH.COM",
-    "url": "https://techcrunch.com/2026/09/29/your-car-and-its-mobile-app-are-probably-handing-over-all-kinds-of-data-to-tech-companies/",
+    "url": "https://techcrunch.com/2026/09/30/doordash-launches-an-ai-agent-you-can-text-to-order-food/",
     "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
     "category": "all"
   },
   {
-    "title": "Asia Stocks Rise, Bonds Steady Before US Inflation: Markets Wrap",
-    "excerpt": "Asian stocks gained and bonds steadied after a bruising selloff as traders awaited a crucial US inflation reading for clues on the path of interest rates. The dollar headed for its best month since Ju",
+    "title": "Global Bonds Face Worst Quarter Since 2024 on Inflation Fear",
+    "excerpt": "Global government bonds are finishing up their worst quarter since 2024 as $100 oil revives the threat of an inflation shock to the world economy.",
     "date": "Sep 2026",
     "source": "FEEDS.BLOOMBERG.COM",
-    "url": "https://www.bloomberg.com/news/articles/2026-09-29/stock-market-today-dow-s-p-live-updates",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-30/global-bonds-face-worst-quarter-since-2024-on-inflation-fears",
     "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
     "category": "all"
   },
   {
-    "title": "Japan’s Two-Year Bond Sale Draws Stronger Demand on High Yields",
-    "excerpt": "Japan’s two-year government bond auction Wednesday saw stronger demand than the 12-month average as elevated yields underpinned buying.",
+    "title": "Munis Rally Most in Nearly Six Months, Snapping Selloff",
+    "excerpt": "State and local debt prices headed for the biggest gain in almost six months on Wednesday after a nearly two-week selloff.",
     "date": "Sep 2026",
     "source": "FEEDS.BLOOMBERG.COM",
-    "url": "https://www.bloomberg.com/news/articles/2026-09-30/japan-s-two-year-bond-sale-demand-stronger-than-12-month-average",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-30/munis-rally-most-in-nearly-six-months-snapping-selloff",
     "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
     "category": "all"
   },
   {
-    "title": "Yen Strengthens Past 157 Per Dollar, Outperforming G-10 Peers",
-    "excerpt": "The yen was the best performer among its Group-of-10 peers on Wednesday as a series of government warnings on the currency and quarter-end flows provided support.",
+    "title": "UnitedHealth Must Face Shareholder Suit by CalPERS, Judge Rules",
+    "excerpt": "UnitedHealth Group Inc. must defend itself against a slimmed-down lawsuit by a major shareholder that alleges investors were deceived about financial transactions that boosted earnings, a federal judg",
     "date": "Sep 2026",
     "source": "FEEDS.BLOOMBERG.COM",
-    "url": "https://www.bloomberg.com/news/articles/2026-09-30/yen-strengthens-past-157-per-dollar-outperforming-g-10-peers",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-30/unitedhealth-must-face-shareholder-suit-by-calpers-judge-rules",
     "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
     "category": "all"
   },
   {
-    "title": "Inox Clean Energy Files for $1 Billion India IPO",
-    "excerpt": "Inox Clean Energy Ltd. has filed a draft prospectus for an initial public offering to raise up to 100 billion rupees ($1 billion).",
+    "title": "Tesla Lines Up $30 Billion to Borrow With Spending on Rise",
+    "excerpt": "Tesla Inc. has lined up $30 billion of new loans and credit lines, as the electric-car maker dials up investments in artificial intelligence and robotics.",
     "date": "Sep 2026",
     "source": "FEEDS.BLOOMBERG.COM",
-    "url": "https://www.bloomberg.com/news/articles/2026-09-30/inox-clean-energy-files-for-1-billion-india-ipo",
-    "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
-    "category": "all"
+    "url": "https://www.bloomberg.com/news/articles/2026-09-29/tesla-lines-up-30-billion-to-borrow-with-spending-on-the-rise",
+    "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=400&h=250&fit=crop",
+    "category": "tech"
   }
 ]
