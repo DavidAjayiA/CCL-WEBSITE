@@ -1,5 +1,14 @@
 [
   {
+    "title": "Kenya Faces Soaring Food Prices Amid Climate Pressures",
+    "excerpt": "Food prices across Kenya are climbing rapidly as persistent climate change severely strains agricultural supply chains and local harvests. Consumers face mounting pressure at markets as unpredictable ",
+    "date": "Oct 2026",
+    "source": "VENTUREBURN.COM",
+    "url": "https://ventureburn.com/kenya-food-prices-climate-change/",
+    "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
+    "category": "all"
+  },
+  {
     "title": "Supabase Raises $150 Million And Acquires Turso As AI Agents Drive 600% Database Growth",
     "excerpt": "As we get to the point where you can describe a problem and the problem builds itself, one major challenge remains: databases. Every single autonomous agent needs a place to\nThe post Supabase Raises $",
     "date": "Oct 2026",
@@ -27,11 +36,11 @@
     "category": "all"
   },
   {
-    "title": "UK’s Extend Robotics Secures £2.6M to Sell Factory Work Instead of Machines",
-    "excerpt": "UK embodied-AI startup Extend Robotics has closed a £2.6 million early-stage funding round to scale its Result-as-a-Service model across European industrial sectors. Skyworks Venture Capital Fund led ",
+    "title": "Can Safeworld convince people that GenAI robots won’t hurt them?",
+    "excerpt": "Safeworld is building digital humans to make sure robots don't hurt the real ones.",
     "date": "Oct 2026",
-    "source": "VENTUREBURN.COM",
-    "url": "https://ventureburn.com/extend-robotics-raises-2-6m-2/",
+    "source": "TECHCRUNCH.COM",
+    "url": "https://techcrunch.com/2026/10/05/can-safeworld-convince-people-that-gen-ai-robots-wont-hurt-them/",
     "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
     "category": "all"
   },
@@ -63,26 +72,8 @@
     "category": "all"
   },
   {
-    "title": "Trump unveils his new Super Intelligence Force",
-    "excerpt": "This new task force is Trump's latest response to the debate over AI safety.",
-    "date": "Oct 2026",
-    "source": "TECHCRUNCH.COM",
-    "url": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/",
-    "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
-    "category": "all"
-  },
-  {
-    "title": "Euro Falls to 17-Month Low on Region’s Political Risks",
-    "excerpt": "The euro fell to its weakest level since May 2025 as investor concerns over political and fiscal risks in the region intensified.",
-    "date": "Oct 2026",
-    "source": "FEEDS.BLOOMBERG.COM",
-    "url": "https://www.bloomberg.com/news/articles/2026-10-05/euro-falls-to-17-month-low-on-region-s-fiscal-political-risks",
-    "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
-    "category": "all"
-  },
-  {
-    "title": "Stock Rally Extends as Fed Bets Ease, Euro Drops: Markets Wrap",
-    "excerpt": "A global stock rally extended into Asia and Treasuries rose after softer US jobs data eased pressure on the Federal Reserve to keep raising interest rates. The euro declined.",
+    "title": "Stocks Rise as Oil Drop Offsets Europe Debt Worry: Markets Wrap",
+    "excerpt": "A drop in oil prices brought some relief to Wall Street, tempering concerns over Europe’s public finances that sent the euro to its weakest level since May 2025.",
     "date": "Oct 2026",
     "source": "FEEDS.BLOOMBERG.COM",
     "url": "https://www.bloomberg.com/news/articles/2026-10-04/asian-stocks-to-rise-as-hike-bets-ease-oil-climbs-markets-wrap",
@@ -90,20 +81,29 @@
     "category": "all"
   },
   {
-    "title": "Firmus Said to Plan Allocating Half of IPO to Early Backers",
-    "excerpt": "Firmus Grid Ltd. plans to allocate about half of the shares in its initial public offering to existing shareholders, putting Nvidia Corp and Blackstone Group in a position to increase their stakes, ac",
+    "title": "Kuwait Oil Output at 75% of Prewar as Hormuz Transits Rise",
+    "excerpt": "Kuwait is pumping oil at about 75% of the level it was at before the Iran war as more tankers take the risk of navigating the Strait of Hormuz.",
     "date": "Oct 2026",
     "source": "FEEDS.BLOOMBERG.COM",
-    "url": "https://www.bloomberg.com/news/articles/2026-10-05/firmus-said-to-plan-allocating-half-of-ipo-to-existing-investors",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-05/kuwait-is-pumping-oil-at-about-75-of-prewar-rate-kpc-ceo-says",
     "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
     "category": "all"
   },
   {
-    "title": "Latest Oil Market News and Analysis for Oct. 5",
-    "excerpt": "Oil dropped after Saudi Arabia cut prices of its benchmark grade to Asia as flows expand, offsetting a lift from intensified fighting in Yemen.",
+    "title": "London Gold Body Seeks to Boost Finances With Higher Fees",
+    "excerpt": "The London Bullion Market Association has raised membership fees and offered the option to pay the dues two years in advance as it seeks to strengthen its finances amid a costly legal challenge.",
     "date": "Oct 2026",
     "source": "FEEDS.BLOOMBERG.COM",
-    "url": "https://www.bloomberg.com/news/articles/2026-10-04/latest-oil-market-news-and-analysis-for-oct-5",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-05/london-gold-body-seeks-to-boost-finances-with-higher-member-fees",
+    "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
+    "category": "all"
+  },
+  {
+    "title": "Brazil Assets Surge as Investor Favorite Bolsonaro Leads in Race",
+    "excerpt": "Brazilian assets surged as investors rushed to price in a change of government after their preferred candidate, Senator Flávio Bolsonaro, defied polls to come in ahead of President Luiz Inácio Lula da",
+    "date": "Oct 2026",
+    "source": "FEEDS.BLOOMBERG.COM",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-05/bolsonaro-s-first-round-lead-sets-brazil-assets-for-monday-surge",
     "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
     "category": "all"
   }
