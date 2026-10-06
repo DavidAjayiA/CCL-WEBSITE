@@ -1,5 +1,23 @@
 [
   {
+    "title": "Trading Platform vs Trading Terminal: What Is the Difference?",
+    "excerpt": "Retail Forex and CFD traders benefit from advanced online infrastructure that allows them to access a wide range of markets with a few clicks – something old-school traders could only\nThe post Trading",
+    "date": "Oct 2026",
+    "source": "VENTUREBURN.COM",
+    "url": "https://ventureburn.com/trading-platform-vs-trading-terminal-what-is-the-difference/",
+    "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
+    "category": "all"
+  },
+  {
+    "title": "Moonshot AI Prepares for Hong Kong IPO As It Hits $50 Billion Valuation",
+    "excerpt": "Over the last few years, Silicon Valley has done everything in its power to own the generative AI narrative. But a massive plot twist is unfolding overseas, as Chinese open-weight\nThe post Moonshot AI",
+    "date": "Oct 2026",
+    "source": "VENTUREBURN.COM",
+    "url": "https://ventureburn.com/moonshot-ai-prepares-for-hong-kong-ipo-50-billion-valuation/",
+    "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
+    "category": "all"
+  },
+  {
     "title": "Wadagni Secures CFAF 65.5B Deal With President Macron to Boost Benin Economy",
     "excerpt": "For years, the Republic of Benin has wrestled with an urgent need to inject heavy capital into its infrastructure. Benin has been trying to empower local enterprises and stabilize its\nThe post Wadagni",
     "date": "Oct 2026",
@@ -18,92 +36,74 @@
     "category": "all"
   },
   {
-    "title": "SignSplit Secures $400 Million for Signed Data Platform",
-    "excerpt": "SignSplit Secures $400M Strategic Seed Funding SignSplit has secured $400 million in strategic seed financing from W Group. The financing values the company at $1 billion. The round also includes\nThe ",
-    "date": "Oct 2026",
-    "source": "VENTUREBURN.COM",
-    "url": "https://ventureburn.com/signsplits-secures-400m-signed-data-platform/",
-    "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
-    "category": "all"
-  },
-  {
-    "title": "Clockwork.io Raises $31 Million to Eliminate GPU Waste in AI Workloads and Training",
-    "excerpt": "One tiny infrastructure glitch can literally halt thousands of interconnected GPUs. While the system agonizes through a slow, painful reboot, massive amounts of money practically evaporate into thin a",
-    "date": "Oct 2026",
-    "source": "VENTUREBURN.COM",
-    "url": "https://ventureburn.com/clockwork-raises-31-million-stop-ai-gpu-waste/",
-    "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
-    "category": "all"
-  },
-  {
-    "title": "Facebook tests going Reels-first in India",
-    "excerpt": "Meta is testing a new Facebook UX in India that sends some users directly into full-screen video when they open the app, putting Reels front and center.",
+    "title": "Silicon Valley’s AI wunderkind launches Underdog, the most private Instinct/Muse competitor yet",
+    "excerpt": "Sigil Wen, backed by a Silicon Valley who's who, has built an on-device AI assistant that promises to be free, fully private, and capable for everyday tasks.",
     "date": "Oct 2026",
     "source": "TECHCRUNCH.COM",
-    "url": "https://techcrunch.com/2026/10/06/facebook-tests-going-reels-first-in-india/",
+    "url": "https://techcrunch.com/2026/10/06/silicon-valleys-ai-wunderkind-launches-underdog-the-most-private-instinct-muse-competitor-yet/",
     "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
     "category": "all"
   },
   {
-    "title": "Type One Energy raised $200M to build a fusion power plant by 2034",
-    "excerpt": "Type One Energy is betting that its lean approach to fusion power will get a power plant on the grid faster, and investors have rewarded it with $200 million.",
+    "title": "How AI decision models could change content moderation",
+    "excerpt": "On Tuesday, Musubi announced a lightweight decision model made for real-time moderation called PolicyLM-1.7B, released with open weights.",
     "date": "Oct 2026",
     "source": "TECHCRUNCH.COM",
-    "url": "https://techcrunch.com/2026/10/06/type-one-energy-raised-200m-to-build-a-fusion-power-plant-by-2034/",
+    "url": "https://techcrunch.com/2026/10/06/how-ai-decision-models-could-change-content-moderation/",
     "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
     "category": "all"
   },
   {
-    "title": "Lucid Motors’ EV output falls to lowest level in almost 2 years",
-    "excerpt": "The company is deliberately limiting production after years of struggling to find mass-market demand for its EVs.",
+    "title": "AI computing startup Lambda to raise $4B ahead of planned IPO",
+    "excerpt": "Nvidia-backed Lambda is raising up to $4 billion at a $14.5 billion pre-money valuation ahead of a planned 2027 IPO, led by Coatue and Blackstone.",
     "date": "Oct 2026",
     "source": "TECHCRUNCH.COM",
-    "url": "https://techcrunch.com/2026/10/05/lucid-motors-ev-output-falls-to-lowest-level-in-almost-two-years/",
+    "url": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/",
     "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
     "category": "all"
   },
   {
-    "title": "OpenAI will start watermarking ChatGPT’s text in the EU",
-    "excerpt": "OpenAI will watermark ChatGPT and Codex text in the EU to comply with the AI Act. Editing can make the invisible marks harder to detect, it says.",
+    "title": "The next hurdle for AI agents: getting websites to let them in",
+    "excerpt": "Personal AI agents promise to shop, book flights, and make reservations for you. But deliberate blocks and anti-bot defenses are getting in the way, leaving consumers caught in the middle. A new stand",
     "date": "Oct 2026",
     "source": "TECHCRUNCH.COM",
-    "url": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/",
+    "url": "https://techcrunch.com/2026/10/06/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in/",
     "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
     "category": "all"
   },
   {
-    "title": "Emera to Buy Canadian Utilities in C$14.3 Billion Deal (EMA CN, CU CN)",
-    "excerpt": "Emera Inc. agreed to acquire Canadian Utilities Ltd. in an all-stock deal valued at about C$14.3 billion ($10 billion), creating a sprawling power and natural gas company with customers from Florida t",
+    "title": "Hamilton Lane’s Bell on Secondary Markets Opportunity",
+    "excerpt": "As U.S. mortgage rates rise above 7% for the first time in a couple of years, Elizabeth Bell, Co-Head of Real Estate at Hamilton Lane, discusses whether the broader real estate market has been written",
     "date": "Oct 2026",
     "source": "FEEDS.BLOOMBERG.COM",
-    "url": "https://www.bloomberg.com/news/articles/2026-10-06/emera-to-buy-canadian-utilities-in-c-14-3b-deal",
+    "url": "https://www.bloomberg.com/news/videos/2026-10-06/hamilton-lane-s-bell-on-secondary-markets-opportunity-video",
     "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
     "category": "all"
   },
   {
-    "title": "US Trade Gap Widens to $105.6 Billion as Imports Hit Record",
-    "excerpt": "The US trade deficit widened sharply in August to the largest since early 2025 as a surge in inbound shipments of capital goods helped push imports to a record.",
+    "title": "Record Run for US Stocks to Set Tone for Asia: Markets Wrap",
+    "excerpt": "A record-breaking rally on Wall Street may set the tone for Asian markets as traders focus on earnings, even as elevated oil prices threaten to keep interest rates and global bond yields higher for lo",
     "date": "Oct 2026",
     "source": "FEEDS.BLOOMBERG.COM",
-    "url": "https://www.bloomberg.com/news/articles/2026-10-06/us-trade-deficit-widens-to-105-6-billion-on-oil-capital-goods",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-06/stock-market-today-dow-s-p-live-updates",
     "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
     "category": "all"
   },
   {
-    "title": "Latest Oil Market News and Analysis for Oct. 6",
-    "excerpt": "Oil slipped as rising exports from the Middle East and a price cut by Saudi Arabia pointed to a looser market.",
+    "title": "Latest Oil Market News and Analysis for Oct. 7",
+    "excerpt": "Oil steadied as traders weighed increased flows through the Strait of Hormuz against a pickup in Iranian attacks against vessels.",
     "date": "Oct 2026",
     "source": "FEEDS.BLOOMBERG.COM",
-    "url": "https://www.bloomberg.com/news/articles/2026-10-05/latest-oil-market-news-and-analysis-for-oct-6",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-06/latest-oil-market-news-and-analysis-for-oct-7",
     "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
     "category": "all"
   },
   {
-    "title": "S&P 500 Targets Record as AI Deals, Oil Buoy Mood: Markets Wrap",
-    "excerpt": "The S&P 500 is moving closer to its first record high since August, aided by a clutch of artificial-intelligence deals alongside a rebound in Treasuries and a slide in oil.",
+    "title": "Trump pierde apoyo entre los votantes latinos en EE.UU.",
+    "excerpt": "Donald Trump logró avances importantes entre los votantes latinos en 2024, pero a pocas semanas de las elecciones de mitad de mandato, una encuesta de NBC News y Telemundo muestra señales de desgaste.",
     "date": "Oct 2026",
     "source": "FEEDS.BLOOMBERG.COM",
-    "url": "https://www.bloomberg.com/news/articles/2026-10-05/s-p-500-closes-in-on-record-high-as-tech-rallies-markets-wrap-muvv94wz",
+    "url": "https://www.bloomberg.com/news/videos/2026-10-06/trump-pierde-apoyo-entre-los-votantes-latinos-en-ee-uu-video",
     "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
     "category": "all"
   }
