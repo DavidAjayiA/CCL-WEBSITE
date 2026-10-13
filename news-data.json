@@ -1,5 +1,32 @@
 [
   {
+    "title": "SWI Raises €800M to Expand AI Infrastructure Across Europe and US",
+    "excerpt": "SWI Raises €800M to Accelerate AI Infrastructure Growth SWI Group has raised €800 million from institutional investors to expand its artificial intelligence infrastructure. The Amsterdam-listed invest",
+    "date": "Oct 2026",
+    "source": "VENTUREBURN.COM",
+    "url": "https://ventureburn.com/swi-raises-800m-ai-infrastructure-expansion/",
+    "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=400&h=250&fit=crop",
+    "category": "tech"
+  },
+  {
+    "title": "Scarlet Raises $50M to Accelerate AI Medical Device Certification",
+    "excerpt": "Scarlet Raises $50M to Expand Medical AI Certification Scarlet has raised $50 million in Series B funding to expand its medical device certification platform. Headline led the round, with Notion\nThe p",
+    "date": "Oct 2026",
+    "source": "VENTUREBURN.COM",
+    "url": "https://ventureburn.com/scarlet-raises-50m-ai-medical-device-certification/",
+    "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
+    "category": "all"
+  },
+  {
+    "title": "Mujin Raises $224 Million Series D: Why SK Square Is Betting Big on Physical AI Robots",
+    "excerpt": "We’re deep into the artificial intelligence revolution. Just when you thought the AI adoption had hit its peak, there’s a shift to give the tech hands. Mujin raises $224 million\nThe post Mujin Raises ",
+    "date": "Oct 2026",
+    "source": "VENTUREBURN.COM",
+    "url": "https://ventureburn.com/mujin-raises-224-million-sk-square-physical-ai/",
+    "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=400&h=250&fit=crop",
+    "category": "tech"
+  },
+  {
     "title": "Beginner’s Guide to Cloud Mining in 2026: How to Mine Bitcoin and Dogecoin Without Your Own Mining Rig",
     "excerpt": "Want to mine Bitcoin or Dogecoin without buying equipment, dealing with fan noise, or keeping machines cool? Online mining services let you participate without running a mining rig at home.\nThe post B",
     "date": "Oct 2026",
@@ -9,101 +36,74 @@
     "category": "all"
   },
   {
-    "title": "Binance Launches $200K STABLE Trading Competition with New Multiplier Mechanics",
-    "excerpt": "Binance just kicked off a fresh trading competition, dangling a $200,000 prize pot for anyone engaging with the STABLE token. Running from October 9 through October 23, 2026, the event\nThe post Binanc",
-    "date": "Oct 2026",
-    "source": "VENTUREBURN.COM",
-    "url": "https://ventureburn.com/binance-stable-trading-competition/",
-    "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
-    "category": "all"
-  },
-  {
-    "title": "Meanwhile Raises $37.5M to Expand Bitcoin Life Insurance Globally",
-    "excerpt": "Meanwhile Raises $37.5M as Global Demand Grows Meanwhile has raised $37.5 million in new funding from its existing investors. Bain Capital Crypto led the round alongside Haun Ventures, Framework Ventu",
-    "date": "Oct 2026",
-    "source": "VENTUREBURN.COM",
-    "url": "https://ventureburn.com/meanwhile-raises-37-5m-bitcoin-life-insurance/",
-    "image": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=400&h=250&fit=crop",
-    "category": "consulting"
-  },
-  {
-    "title": "VEIR Raises $110M to Scale Superconducting Power Systems for AI Data Centres",
-    "excerpt": "VEIR Targets AI Data Centre Power Demands VEIR, a US-based power technology company, has raised $110 million in Series C funding. Matter Venture Partners and Tyche Partners co-led the oversubscribed\nT",
-    "date": "Oct 2026",
-    "source": "VENTUREBURN.COM",
-    "url": "https://ventureburn.com/veir-raises-110m-superconducting-power-ai-data-centres/",
-    "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
-    "category": "all"
-  },
-  {
-    "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
-    "excerpt": "In a Saturday morning post, Microsoft's CEO wrote that it’s time “to step back and assess the trust architecture” of AI.",
+    "title": "Meta releases its first frontier model, Muse Wonder",
+    "excerpt": "Where Muse Spark aimed to be a lightweight model that could perform at low latency, the Wonder models are larger and said to be more capable, with higher benchmark scores and better results on complex",
     "date": "Oct 2026",
     "source": "TECHCRUNCH.COM",
-    "url": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
+    "url": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/",
     "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
     "category": "all"
   },
   {
-    "title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
-    "excerpt": "Is Apple hoping to get into the AI-generated podcast business?",
+    "title": "WindBorne wins a hefty US Air Force contract for its balloon data",
+    "excerpt": "A Silicon Valley startup that uses weather balloons and AI to predict the weather won a U.S. military contract worth almost $50 million.",
     "date": "Oct 2026",
     "source": "TECHCRUNCH.COM",
-    "url": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
+    "url": "https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/",
     "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
     "category": "all"
   },
   {
-    "title": "Petra Power looks to modernize energy for data centers and defense vehicles",
-    "excerpt": "The startup says its fuel cells are super efficient and cut fuel costs during a time when the tech industry can’t get enough electricity.",
+    "title": "Honeyjar offers AI tools to improve PR and comms at every company",
+    "excerpt": "Journalists, entrepreneurs, and even some public relations professionals will tell you that the PR process is broken. But could AI actually make things better?",
     "date": "Oct 2026",
     "source": "TECHCRUNCH.COM",
-    "url": "https://techcrunch.com/2026/10/10/petra-power-looks-to-modernize-energy-for-data-centers-and-defense-vehicles/",
+    "url": "https://techcrunch.com/2026/10/12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company/",
     "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
     "category": "all"
   },
   {
-    "title": "Cloudflare acquires Deno to improve its Workers programming model",
-    "excerpt": "Cloudflare will use this acquisition to improve its Workers programming model and platform.",
+    "title": "Microsoft president says UK is best placed to drive AI regulation",
+    "excerpt": "Microsoft president Brad Smith calls for urgent AI regulation, saying milk and washing machines have more oversight than AI companies.",
     "date": "Oct 2026",
     "source": "TECHCRUNCH.COM",
-    "url": "https://techcrunch.com/2026/10/10/cloudflare-acquires-deno-to-improve-its-workers-programming-model/",
+    "url": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/",
     "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
     "category": "all"
   },
   {
-    "title": "Cockroach Party Leaders Vow to Continue Protests After Release",
-    "excerpt": "Leaders of India’s youth-led protest movement - Cockroach Janta Party - vowed to press ahead with their demand for the resignation of the country’s top election official after being released from a te",
+    "title": "Asian Stocks Decline, Tracking US Chip Losses: Markets Wrap",
+    "excerpt": "Asian stocks dropped, tracking losses on Wall Street as weakness in US chipmakers dented sentiment ahead of the start of earnings season.",
     "date": "Oct 2026",
     "source": "FEEDS.BLOOMBERG.COM",
-    "url": "https://www.bloomberg.com/news/articles/2026-10-11/indian-cockroaches-plan-new-protest-amid-heavy-delhi-security",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-12/stock-market-today-dow-s-p-live-updates",
     "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
     "category": "all"
   },
   {
-    "title": "Exclusive: Dimon, Farley, Gov. Whitmer on Rebuilding American Manufacturing",
-    "excerpt": "Ford, JPMorgan and the state of Michigan are teaming up to connect manufacturers and startups with capital, customers and government support as the US tries to rebuild supply chains that were moved ov",
+    "title": "Goldman Says Markets Are Underestimating How Far Yuan Can Rise",
+    "excerpt": "A stronger yuan is among the most underpriced scenarios in the world’s $9.5 trillion-a-day foreign exchange market, according to Goldman Sachs Group Inc.’s Kamakshya Trivedi.",
     "date": "Oct 2026",
     "source": "FEEDS.BLOOMBERG.COM",
-    "url": "https://www.bloomberg.com/news/videos/2026-10-11/why-ford-and-jpmorgan-are-betting-on-michigan-video",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-12/goldman-says-markets-are-underestimating-how-far-yuan-can-rise",
     "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
     "category": "all"
   },
   {
-    "title": "Emerging Markets Better Armed for Renewed European Debt Turmoil",
-    "excerpt": "Emerging-market bonds and currencies were whipsawed by the Eurozone debt crisis 15 years ago, but they are now better equipped to withstand any repeat of that turmoil, analysts say.",
+    "title": "Hong Kong Lifeline Buys Cheng Family Time to Save New World",
+    "excerpt": "It was a Wednesday evening in late September and analysts covering New World Development Co. were getting antsy. The cash-strapped Hong Kong developer was late to report its earnings, and executives h",
     "date": "Oct 2026",
     "source": "FEEDS.BLOOMBERG.COM",
-    "url": "https://www.bloomberg.com/news/articles/2026-10-11/emerging-markets-better-armed-for-renewed-european-debt-turmoil",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-12/hong-kong-lifeline-buys-cheng-family-time-to-save-new-world",
     "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
     "category": "all"
   },
   {
-    "title": "Singapore F1 Race Draws Near-Record Turnout Despite Choking Haze",
-    "excerpt": "Singapore’s Formula 1 Grand Prix race saw a near-record turnout, bucking concerns that one of the worst regional haze in recent years would threaten the event.",
+    "title": "Singapore Bank Selloff Tests the City-State’s Safe Haven Status",
+    "excerpt": "A selloff in Singapore bank shares driven by fears of earnings downgrades is threatening one of Asia’s best-performing major stock benchmarks this year, putting the city-state’s safe haven status to t",
     "date": "Oct 2026",
     "source": "FEEDS.BLOOMBERG.COM",
-    "url": "https://www.bloomberg.com/news/articles/2026-10-11/singapore-f1-race-draws-near-record-turnout-despite-choking-haze",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-12/singapore-bank-selloff-tests-the-city-state-s-safe-haven-status",
     "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
     "category": "all"
   }
