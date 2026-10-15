@@ -36,6 +36,15 @@
     "category": "all"
   },
   {
+    "title": "Figma announces new features to define how agents work on its platform",
+    "excerpt": "Figma is also releasing its code layers feature in open beta.",
+    "date": "Oct 2026",
+    "source": "TECHCRUNCH.COM",
+    "url": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/",
+    "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
+    "category": "all"
+  },
+  {
     "title": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis",
     "excerpt": "The founders detailed how their startup is developing AI that can design chips, learn from each iteration, and improve subsequent designs, all with the goal of automating and accelerating the chip des",
     "date": "Oct 2026",
@@ -63,47 +72,38 @@
     "category": "all"
   },
   {
-    "title": "Gudea leverages AI to help organizations prevent social media crises before they erupt",
-    "excerpt": "Every day, conversations unfold across social media and websites around the world. A seemingly insignificant post—whether it involves AI-generated misinformation, hate speech, or a damaging rumor—can ",
-    "date": "Oct 2026",
-    "source": "TECHCRUNCH.COM",
-    "url": "https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt/",
-    "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
-    "category": "all"
-  },
-  {
-    "title": "Treasury Haven Trade Bounces Back as Stocks Sink, Yields Entice",
-    "excerpt": "US Treasuries led a global bond rally as a selloff in equities deepened risk aversion and spurred demand for haven assets.",
+    "title": "Indian Stocks Beat Asian Peers by Most In Over a Year on AI Rout",
+    "excerpt": "Indian equities outpaced Asian peers on Thursday, as an unwinding of the artificial intelligence trade spurred a rotation toward markets that had largely missed the surge.",
     "date": "Oct 2026",
     "source": "FEEDS.BLOOMBERG.COM",
-    "url": "https://www.bloomberg.com/news/articles/2026-10-15/treasuries-extend-gains-as-equities-selloff-dents-risk-sentiment",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-15/india-stocks-set-to-beat-asia-by-most-in-over-a-year-on-ai-rout",
+    "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=400&h=250&fit=crop",
+    "category": "tech"
+  },
+  {
+    "title": "Market Calm Shatters as AI, Rate Fears Collide",
+    "excerpt": "Global stocks are falling as an AI rout drives investors toward the safety of bonds",
+    "date": "Oct 2026",
+    "source": "FEEDS.BLOOMBERG.COM",
+    "url": "https://www.bloomberg.com/news/newsletters/2026-10-15/market-calm-shatters-as-ai-rate-fears-collide",
     "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
     "category": "all"
   },
   {
-    "title": "Stock Losses Deepen on Chip Rout, Treasuries Rise: Markets Wrap",
-    "excerpt": "A global equity selloff deepened as chip stocks plunged on Wall Street and in Asia, further unwinding this year’s blistering rally in the artificial intelligence trade. Treasuries gained on haven dema",
+    "title": "Lufthansa Says ‘Couldn’t Miss’ TAP Deal Has €450 Million Upside",
+    "excerpt": "Deutsche Lufthansa AG outlined the benefits of a “couldn’t miss” opportunity to buy a minority stake in Portuguese airline TAP SA, including catching up with European rivals in Latin America and findi",
+    "date": "Oct 2026",
+    "source": "FEEDS.BLOOMBERG.COM",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-15/lufthansa-says-couldn-t-miss-tap-deal-has-450-million-upside",
+    "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
+    "category": "all"
+  },
+  {
+    "title": "Stocks Slide as AI Rout Drives Investors to Bonds: Markets Wrap",
+    "excerpt": "Global equities fell as a selloff in the artificial-intelligence trade gathered speed and pushed investors toward the safety of bonds.",
     "date": "Oct 2026",
     "source": "FEEDS.BLOOMBERG.COM",
     "url": "https://www.bloomberg.com/news/articles/2026-10-14/stock-market-today-dow-s-p-live-updates",
-    "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=400&h=250&fit=crop",
-    "category": "tech"
-  },
-  {
-    "title": "Taiwan Dollar, Won Slump as Chip Stock Selloff Hurts Sentiment",
-    "excerpt": "The Taiwan dollar and South Korean won led losses among Asian currencies in early trading as an overnight slump in Wall Street semiconductor shares spilled into regional markets, dampening demand for ",
-    "date": "Oct 2026",
-    "source": "FEEDS.BLOOMBERG.COM",
-    "url": "https://www.bloomberg.com/news/articles/2026-10-15/taiwan-dollar-won-slump-as-chip-stock-selloff-hurts-sentiment",
-    "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=400&h=250&fit=crop",
-    "category": "tech"
-  },
-  {
-    "title": "Lithium Extends Deep Slump as Battery Demand Concerns Mount",
-    "excerpt": "Chinese lithium futures extended a deep selloff this week on growing concerns about the demand outlook for the battery metal.",
-    "date": "Oct 2026",
-    "source": "FEEDS.BLOOMBERG.COM",
-    "url": "https://www.bloomberg.com/news/articles/2026-10-15/lithium-extends-deep-slump-as-battery-demand-concerns-mount",
     "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
     "category": "all"
   }
