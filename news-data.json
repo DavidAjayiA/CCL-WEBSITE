@@ -36,7 +36,25 @@
     "category": "all"
   },
   {
-    "title": "‘Cyberselfish’ author takes aim at Silicon Valley libertarians as her book returns from the dead",
+    "title": "The best apps for tracking your reading and discovering new books",
+    "excerpt": "There are numerous apps on the market that promise to do just that, so we’ve compiled a list of some of the best ones to help you pick the right one for you.",
+    "date": "Oct 2026",
+    "source": "TECHCRUNCH.COM",
+    "url": "https://techcrunch.com/2026/10/25/5-best-apps-track-reading-discover-new-books/",
+    "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
+    "category": "all"
+  },
+  {
+    "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
+    "excerpt": "The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest.",
+    "date": "Oct 2026",
+    "source": "TECHCRUNCH.COM",
+    "url": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
+    "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
+    "category": "all"
+  },
+  {
+    "title": "‘Cyberselfish’ author takes aim at techno-libertarianism as her book returns from the dead",
     "excerpt": "\"That's a 12-year-old view of the world.\"",
     "date": "Oct 2026",
     "source": "TECHCRUNCH.COM",
@@ -54,56 +72,38 @@
     "category": "tech"
   },
   {
-    "title": "TechCrunch Mobility: Blue-green is the color of autonomy",
-    "excerpt": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
-    "date": "Oct 2026",
-    "source": "TECHCRUNCH.COM",
-    "url": "https://techcrunch.com/2026/10/25/techcrunch-mobility-blue-green-is-the-color-of-autonomy/",
-    "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
-    "category": "all"
-  },
-  {
-    "title": "The hottest AI wearables and gadgets you should know about",
-    "excerpt": "We compiled a list of all the hottest AI wearables, including Muse Charm, Bee, Friend, Plaud, and more.",
-    "date": "Oct 2026",
-    "source": "TECHCRUNCH.COM",
-    "url": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",
-    "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
-    "category": "all"
-  },
-  {
-    "title": "Brazil Court Extends Voting by Two Hours on Candidate Requests",
-    "excerpt": "Brazil’s Supreme Court extended voting hours across the nation until 7 p.m. in Sunday’s election, after separate requests from President Luiz Inácio Lula da Silva and challenger Flávio Bolsonaro.",
+    "title": "AI Trade Falters in Runup to Earnings, Oil Drops: Markets Wrap",
+    "excerpt": "The artificial intelligence trade took another hit as investors braced for more earnings from megacap tech companies that will offer clues on whether the recent pullback in technology shares has furth",
     "date": "Oct 2026",
     "source": "FEEDS.BLOOMBERG.COM",
-    "url": "https://www.bloomberg.com/news/articles/2026-10-25/brazil-court-extends-voting-by-two-hours-on-candidate-requests",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-25/us-equity-futures-climb-as-crude-oil-price-dips-markets-wrap",
+    "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=400&h=250&fit=crop",
+    "category": "tech"
+  },
+  {
+    "title": "Latest Oil Market News and Analysis for Oct. 26",
+    "excerpt": "Oil retreated as the US and Iran stuck to familiar rhetoric in their conflict, and a technical gauge pointed to overbought conditions.",
+    "date": "Oct 2026",
+    "source": "FEEDS.BLOOMBERG.COM",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-25/latest-oil-market-news-and-analysis-for-oct-26",
     "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
     "category": "all"
   },
   {
-    "title": "De olho nas eleições",
-    "excerpt": "Flávio Bolsonaro e Lula chegam ao segundo turno tecnicamente empatados após debate e atos realizados no país nesta sábado. Com reportagem e edição de Patricia Xavier e produção de Beatriz Amat e Fabio",
+    "title": "France Avoids Rerun of Looting With Tough Security",
+    "excerpt": "France avoided a repeat of large-scale violence and looting that marred nationwide protests a week ago, suggesting the government’s decision to boost police numbers and contain marches paid off. (Sour",
     "date": "Oct 2026",
     "source": "FEEDS.BLOOMBERG.COM",
-    "url": "https://www.bloomberg.com/news/videos/2026-10-25/de-olho-nas-eleicoes-video-mvo4e3rz",
+    "url": "https://www.bloomberg.com/news/videos/2026-10-26/france-avoids-rerun-of-looting-with-tough-security-video",
     "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
     "category": "all"
   },
   {
-    "title": "9 Days to Midterm Elections, Big Tech Earnings",
-    "excerpt": "The news doesn’t stop when markets close. Hosts David Gura, Christina Ruffini and Lisa Mateo bring clarity, context and a bit of humor to the weekend’s biggest headlines, LIVE from New York. Joined by",
+    "title": "Investors Flee India Small-Caps as Margin Calls Come Knocking",
+    "excerpt": "Smaller stocks account for a large share of positions funded through margin loans.",
     "date": "Oct 2026",
     "source": "FEEDS.BLOOMBERG.COM",
-    "url": "https://www.bloomberg.com/news/videos/2026-10-25/bloomberg-this-weekend-10-25-2026-video",
-    "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
-    "category": "all"
-  },
-  {
-    "title": "Inside The Two Argentinas Under Javier Milei ",
-    "excerpt": "President Javier Milei has brought inflation down and opened Argentina to more investment, helping fuel a boom in energy and other export industries. But manufacturing, retail and small businesses are",
-    "date": "Oct 2026",
-    "source": "FEEDS.BLOOMBERG.COM",
-    "url": "https://www.bloomberg.com/news/videos/2026-10-25/inside-the-two-argentinas-under-javier-milei-video",
+    "url": "https://www.bloomberg.com/news/newsletters/2026-10-26/investors-flee-india-small-caps-as-margin-calls-come-knocking",
     "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
     "category": "all"
   }
