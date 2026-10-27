@@ -1,5 +1,23 @@
 [
   {
+    "title": "Moscow Hosts African Leaders for Russia-Africa Summit and Energy Forum 2026",
+    "excerpt": "Moscow is set to host African leaders for the Russia-Africa Summit and Energy Forum, a high-stakes diplomatic gathering. Beyond the speeches and pictures between October 28 and 29, there are\nThe post ",
+    "date": "Oct 2026",
+    "source": "VENTUREBURN.COM",
+    "url": "https://ventureburn.com/moscow-russia-africa-summit-and-energy-forum-2026/",
+    "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
+    "category": "all"
+  },
+  {
+    "title": "Bedrock Robotics Raises $600 Million As Demand for Autonomous Heavy Equipment Surges",
+    "excerpt": "Construction has a people problem. And one startup just got a massive vote of confidence for fixing it. Bedrock Robotics raises $600 million in a Series C round that values\nThe post Bedrock Robotics R",
+    "date": "Oct 2026",
+    "source": "VENTUREBURN.COM",
+    "url": "https://ventureburn.com/bedrock-robotics-raises-600-million-autonomous-heavy-machines/",
+    "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
+    "category": "all"
+  },
+  {
     "title": "Inside Anthropic’s IPO Filing: Massive Cloud Bills and Soaring AI Sales",
     "excerpt": "The artificial intelligence gold rush is entering a breathtaking new chapter. Right at the center of the frenzy is Anthropic, the heavyweight behind the Claude AI models. When Anthropic’s IPO\nThe post",
     "date": "Oct 2026",
@@ -18,71 +36,44 @@
     "category": "tech"
   },
   {
-    "title": "Binance Launches $1.7M Halloween Pumpkin Frenzy Trading Campaign",
-    "excerpt": "Binance unveils a $1.7M Halloween prize pool featuring trading tasks and referral rewards. Learn how to claim your share of the pumpkin loot.\nThe post Binance Launches $1.7M Halloween Pumpkin Frenzy T",
-    "date": "Oct 2026",
-    "source": "VENTUREBURN.COM",
-    "url": "https://ventureburn.com/binance-halloween-pumpkin-frenzy/",
-    "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
-    "category": "all"
-  },
-  {
-    "title": "Opply Secures $7.5M to Scale Agentic AI for CPG Supply Chains",
-    "excerpt": "London and Chicago-based agentic AI company Opply has secured $7.5 million (£5.6 million) in funding to put its software in charge of complex consumer packaged goods (CPG) supply chains. Chalfen\nThe p",
-    "date": "Oct 2026",
-    "source": "VENTUREBURN.COM",
-    "url": "https://ventureburn.com/opply-secures-7-5m-agentic-ai-cpg/",
-    "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
-    "category": "all"
-  },
-  {
-    "title": "Databricks co-founder shares his secrets for winning big enterprises customers",
-    "excerpt": "Turns out selling to big companies isn’t about having the shiniest tech: it’s about hitching a ride on a giant’s sales team.",
+    "title": "Nvidia backs Indian startup helping companies run AI models with fewer GPUs",
+    "excerpt": "Simplismart says its annualized revenue run rate has grown 14-fold in six months, with the U.S. accounting for more than half its revenue.",
     "date": "Oct 2026",
     "source": "TECHCRUNCH.COM",
-    "url": "https://techcrunch.com/2026/10/26/databricks-co-founder-shares-his-secrets-for-winning-big-enterprises-customers/",
+    "url": "https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus/",
     "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
     "category": "all"
   },
   {
-    "title": "Watch out, YouTube — Instagram goes from short-form to 90-minute videos",
-    "excerpt": "After years in which every social platform (even LinkedIn!) aggressively pursued short-form video, this is a notable shift in strategy for Instagram.",
+    "title": "X is nudging users to promote their posts with a pointing hand, and people are confused",
+    "excerpt": "Whose hand is behind this travesty?",
     "date": "Oct 2026",
     "source": "TECHCRUNCH.COM",
-    "url": "https://techcrunch.com/2026/10/26/watch-out-youtube-instagram-goes-from-short-form-to-90-minute-videos/",
+    "url": "https://techcrunch.com/2026/10/26/x-is-nudging-users-to-promote-their-posts-with-a-pointing-hand-and-people-are-confused/",
     "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
     "category": "all"
   },
   {
-    "title": "Uh-oh, it sounds like the iPhone Duo keeps cracking and users aren’t happy about it",
-    "excerpt": "A small number of early adopters of the much-hyped new foldable phone from Apple have complained of screens cracking.",
+    "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
+    "excerpt": "Alexander Embiricos, the OpenAI executive responsible for dots, never wants to have a meeting with someone else's AI agent.",
     "date": "Oct 2026",
     "source": "TECHCRUNCH.COM",
-    "url": "https://techcrunch.com/2026/10/26/uh-oh-it-sounds-like-the-iphone-duo-keeps-cracking-and-users-arent-happy-about-it/",
+    "url": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
     "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
     "category": "all"
   },
   {
-    "title": "Fusion startups are giving the government shares in exchange for awards. Is it worth it?",
-    "excerpt": "Fusion startups face a new challenge, one unrelated to plasma physics: Give the government shares in exchange for funding awards or go it alone?",
+    "title": "Cohere says Alibaba’s Qwen model tried to send a file to Beijing",
+    "excerpt": "An AI model said it wouldn’t use any tools, then tried to send something to a server in Beijing anyway, and while researchers say it’s probably a training quirk and not espionage, the whole thing has ",
     "date": "Oct 2026",
     "source": "TECHCRUNCH.COM",
-    "url": "https://techcrunch.com/2026/10/26/fusion-startups-are-giving-the-government-shares-in-exchange-for-awards-is-it-worth-it/",
+    "url": "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/",
     "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
     "category": "all"
-  },
-  {
-    "title": "Asian Stocks to Gain as Anthropic Files for IPO: Markets Wrap",
-    "excerpt": "Asian stocks were set to rise, tracking gains on Wall Street as Anthropic PBC’s initial public offering filing revived enthusiasm for artificial intelligence ahead of big tech earnings and the Federal",
-    "date": "Oct 2026",
-    "source": "FEEDS.BLOOMBERG.COM",
-    "url": "https://www.bloomberg.com/news/articles/2026-10-26/stock-market-today-dow-s-p-live-updates",
-    "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=400&h=250&fit=crop",
-    "category": "tech"
   },
   {
     "title": "Latest Oil Market News and Analysis for Oct. 27",
-    "excerpt": "Oil fell for a second day as stepped-up diplomatic efforts bolstered hopes a broader escalation in the US-Iran war may be averted.",
+    "excerpt": "Oil slipped in a volatile session as traders weighed moves to de-escalate tensions in the Persian Gulf, and looming elections including in Israel.",
     "date": "Oct 2026",
     "source": "FEEDS.BLOOMBERG.COM",
     "url": "https://www.bloomberg.com/news/articles/2026-10-26/latest-oil-market-news-and-analysis-for-oct-27",
@@ -90,20 +81,29 @@
     "category": "all"
   },
   {
-    "title": "Anthropic Mum on Investment Grade as It Warns of More Debt",
-    "excerpt": "Anthropic PBC warned it may need to seek more financing sooner than the artificial-intelligence company had anticipated while saying little about its potential path to an investment-grade credit ratin",
+    "title": "US Stock Futures Gain, Oil falls on Iran Comments: Markets Wrap",
+    "excerpt": "Stocks gained and oil declined amid renewed hopes for a diplomatic solution to the US-Iran war, while positive results from companies including United Parcel Service Inc. and Coca-Cola Co. helped buoy",
     "date": "Oct 2026",
     "source": "FEEDS.BLOOMBERG.COM",
-    "url": "https://www.bloomberg.com/news/articles/2026-10-26/anthropic-remains-mum-on-investment-grade-as-it-flags-more-debt",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-26/stock-market-today-dow-s-p-live-updates",
     "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
     "category": "all"
   },
   {
-    "title": "Duke’s Mayo CEO: Our Room for Growth Is Substantial",
-    "excerpt": "E. Yuri Hermida, CEO of Duke’s Mayo Company, discussed the company’s name change from Sauer Brands as it enters a new growth chapter. After divesting its spice business, the company is centering its i",
+    "title": "India Diesel Export Boom Set to Ease Global Crunch Next Year",
+    "excerpt": "A surge in Indian diesel exports is set to hit global markets next year as new refining capacity comes online, bringing much-needed supply to fuel-starved markets from the US to Europe.",
     "date": "Oct 2026",
     "source": "FEEDS.BLOOMBERG.COM",
-    "url": "https://www.bloomberg.com/news/videos/2026-10-26/duke-s-mayo-ceo-our-room-for-growth-is-substantial-video",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-27/india-diesel-export-boom-set-to-ease-global-crunch-next-year",
+    "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
+    "category": "all"
+  },
+  {
+    "title": "GM to Leave NYSE for Stock Listing on Tech-Focused Nasdaq",
+    "excerpt": "General Motors Co. plans to shift its stock listing to the Nasdaq Global Select Market from the New York Stock Exchange, positioning the old-school automaker as a tech-forward company as it embraces a",
+    "date": "Oct 2026",
+    "source": "FEEDS.BLOOMBERG.COM",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-27/gm-to-move-stock-listing-to-tech-focused-nasdaq-leaving-nyse",
     "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
     "category": "all"
   }
