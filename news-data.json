@@ -1,37 +1,55 @@
 [
   {
-    "title": "BioGeometry Raises $100 Million to Scale AI Models That Design Drugs From Scratch",
-    "excerpt": "On average, it takes about 10-15 years to produce a new drug. Artificial intelligence could rewrite how new drugs are discovered as BioGeometry raises $100 million. The Beijing-based startup closed\nTh",
+    "title": "Upwind Raises $400M to Expand Cloud Security Platform",
+    "excerpt": "Upwind Raises $400M at $3.8B Valuation Upwind has raised $400 million in Series C funding to further develop its security platform for the cloud and artificial intelligence. The company, based\nThe pos",
     "date": "Oct 2026",
     "source": "VENTUREBURN.COM",
-    "url": "https://ventureburn.com/biogeometry-raises-100-million-ai-drug-design-models/",
+    "url": "https://ventureburn.com/upwind-raises-400m-cloud-security/",
     "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=400&h=250&fit=crop",
     "category": "tech"
   },
   {
-    "title": "Foundry Robotics Raises $100 Million To Build America’s First AI-Powered Assembly Factory",
-    "excerpt": "Building thousands of drones at a fast rate in America has been a major problem. Foundry Robotics raises $100 million to fix exactly that. The Emeryville, California startup announced the\nThe post Fou",
+    "title": "Fragment Raises $56M to Expand Enterprise Procurement AI",
+    "excerpt": "Fragment Raises $56M to Automate Procurement Fragment has raised a total of $56m in funding to date for its goal of automating intricate procurement processes using AI. The San Francisco-based\nThe pos",
     "date": "Oct 2026",
     "source": "VENTUREBURN.COM",
-    "url": "https://ventureburn.com/foundry-robotics-raises-100-million-ai-assembly-factory/",
+    "url": "https://ventureburn.com/fragment-raises-56m-enterprise-procurement-ai/",
     "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
     "category": "all"
   },
   {
-    "title": "Goldman and BlackRock Alumni Secure $4M to Bring Farm and Apartment Loans Onchain",
-    "excerpt": "A New York startup launched by Wall Street veterans wants to move American farm, energy, and apartment loans onto public blockchains. Birch Hill closed a $4 million seed round led\nThe post Goldman and",
+    "title": "Numeracle Raises $28 Million to Stop Your Bank’s Calls Showing Up As Spam Likely",
+    "excerpt": "Every now and again you get that “Spam Likely” notification on a call, and you ignore it. On a few occasions, it could be your bank or your doctor trying\nThe post Numeracle Raises $28 Million to Stop ",
     "date": "Oct 2026",
     "source": "VENTUREBURN.COM",
-    "url": "https://ventureburn.com/goldman-blackrock-alumni-raise-4m/",
+    "url": "https://ventureburn.com/numeracle-raises-28-million-stop-real-calls-flagged-spam/",
     "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
     "category": "all"
   },
   {
-    "title": "Re:Build Manufacturing Raises $2.1 Billion To Scale US Industrial Manufacturing",
-    "excerpt": "For decades, most of America’s factories existed overseas. Now a company led by Amazon veterans wants to bring them home, and it just got serious backing. Re:Build Manufacturing raises $2.1\nThe post R",
+    "title": "Rendezvous Robotics Raises $20 Million to Build Self-Assembling Spacecraft",
+    "excerpt": "Rendezvous Robotics Raises $20 Million in Seed Funding Rendezvous Robotics has raised $20 million in an oversubscribed seed round. The financing was led by MaC Venture Capital and Toyota Ventures.\nThe",
     "date": "Oct 2026",
     "source": "VENTUREBURN.COM",
-    "url": "https://ventureburn.com/rebuild-manufacturing-raises-2-1-billion-us-industrial-manufacturing/",
+    "url": "https://ventureburn.com/rendezvous-robotics-raises-20m-self-assembling-spacecraft/",
+    "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
+    "category": "all"
+  },
+  {
+    "title": "Upwind raises $400M after walking away from Datadog acquisition offer",
+    "excerpt": "The cloud security startup raised a Series C at a $3.8B valuation, instead of selling itself for the same price.",
+    "date": "Oct 2026",
+    "source": "TECHCRUNCH.COM",
+    "url": "https://techcrunch.com/2026/10/28/upwind-raises-400m-after-walking-away-from-datadog-acquisition-offer/",
+    "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
+    "category": "all"
+  },
+  {
+    "title": "Apple’s touchscreen MacBook Pro pushes laptop pricing to a new extreme",
+    "excerpt": "Prepare to cough up around $14,549 if you want the new touchscreen MacBook Pro to have every upgrade.",
+    "date": "Oct 2026",
+    "source": "TECHCRUNCH.COM",
+    "url": "https://techcrunch.com/2026/10/28/apples-touchscreen-macbook-pro-pushes-laptop-pricing-to-a-new-extreme/",
     "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
     "category": "all"
   },
@@ -54,56 +72,38 @@
     "category": "all"
   },
   {
-    "title": "Microsoft recorded $10 billion in revenue from OpenAI",
-    "excerpt": "Microsoft said it made $10 billion in revenue from commercial arrangements with OpenAI, including revenue-sharing payments, in the quarter ending September 30. It underscores the still-enormous financ",
+    "title": "Henderson Land: HK Home Market Resilient to High Rates",
+    "excerpt": "Andrew Fung, CFO at Henderson Land, discusses the impact of higher interest rates on Hong Kong's property market. He also says rental yields are supporting the housing market in the financial hub. He ",
     "date": "Oct 2026",
-    "source": "TECHCRUNCH.COM",
-    "url": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/",
+    "source": "FEEDS.BLOOMBERG.COM",
+    "url": "https://www.bloomberg.com/news/videos/2026-10-29/henderson-land-hk-home-market-resilient-to-high-rates-video",
     "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
     "category": "all"
   },
   {
-    "title": "Microsoft hits 10 quarters of record-breaking revenue in a row",
-    "excerpt": "Whatever the future of AI might be, the current situation is still very good for Microsoft. The tech giant reported yet another record for quarterly revenue on Wednesday: $92.3 billion, a 19% increase",
+    "title": "Japan 2-Year Bond Sale Sees Firm Demand Before BOJ Decision",
+    "excerpt": "Japan’s two-year government bond auction drew firm demand, as elevated yields attracted investors ahead of a Bank of Japan policy decision on Friday, where rates are widely expected to remain unchange",
     "date": "Oct 2026",
-    "source": "TECHCRUNCH.COM",
-    "url": "https://techcrunch.com/2026/10/28/microsoft-hits-10-quarters-of-record-breaking-revenue-in-a-row/",
+    "source": "FEEDS.BLOOMBERG.COM",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-29/japan-s-two-year-bond-sale-demand-stronger-than-12-month-average",
+    "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
+    "category": "all"
+  },
+  {
+    "title": "Tech Rally Stalls as Alphabet, Samsung Disappoint: Markets Wrap",
+    "excerpt": "Technology shares fell, stalling this week’s rally, after disappointing earnings from two industry heavyweights revived doubts over whether billions of dollars in AI spending will deliver sufficient r",
+    "date": "Oct 2026",
+    "source": "FEEDS.BLOOMBERG.COM",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-28/stock-market-today-dow-s-p-live-updates",
     "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
     "category": "all"
   },
   {
     "title": "Oil Declines as Traders Parse Signs of Fresh Diplomacy on Iran",
-    "excerpt": "Oil dropped as traders weighed fresh diplomatic efforts in the Middle East to avert a potential restart of US military strikes on Iran.",
+    "excerpt": "Oil dropped as traders assessed fresh diplomatic efforts in the Middle East to avert a potential restart of US military strikes on Iran.",
     "date": "Oct 2026",
     "source": "FEEDS.BLOOMBERG.COM",
     "url": "https://www.bloomberg.com/news/articles/2026-10-28/oil-declines-as-traders-parse-signs-of-fresh-diplomacy-on-iran",
-    "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
-    "category": "all"
-  },
-  {
-    "title": "Fed mantiene tasas sin dar muchas pistas sobre diciembre",
-    "excerpt": "La Reserva Federal mantuvo las tasas de interés sin cambios y reafirmó su compromiso de contener la inflación, pero evitó dar señales claras sobre un posible aumento en diciembre.\n\nLa decisión llega a",
-    "date": "Oct 2026",
-    "source": "FEEDS.BLOOMBERG.COM",
-    "url": "https://www.bloomberg.com/news/videos/2026-10-28/fed-mantiene-tasas-sin-dar-muchas-pistas-sobre-diciembre-video",
-    "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
-    "category": "all"
-  },
-  {
-    "title": "Sprouts Slashes Outlook After Cyclospora Outbreak Hit Sales",
-    "excerpt": "Sprouts Farmers Market Inc. shares tumbled after cutting its outlook, as the grocer’s sales suffered from the cyclospora lettuce outbreak and a gloomy consumer.",
-    "date": "Oct 2026",
-    "source": "FEEDS.BLOOMBERG.COM",
-    "url": "https://www.bloomberg.com/news/articles/2026-10-28/sprouts-slashes-outlook-after-cyclospora-outbreak-hit-sales",
-    "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
-    "category": "all"
-  },
-  {
-    "title": "Fed Officials Left Interest Rates Unchanged",
-    "excerpt": "Jon Ferro, Lisa Abramowicz and Tom Keene host a special edition of \"Bloomberg Surveillance\" as the Federal Open Market Committee voted 10-2 to hold its benchmark federal funds rate in a range of 3.75%",
-    "date": "Oct 2026",
-    "source": "FEEDS.BLOOMBERG.COM",
-    "url": "https://www.bloomberg.com/news/videos/2026-10-28/bloomberg-surveillance-the-fed-decides-10-27-2026-video",
     "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
     "category": "all"
   }
