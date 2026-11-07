@@ -1,5 +1,14 @@
 [
   {
+    "title": "OpenAI Raises $11 Billion At a $1.25 Trillion Valuation: Why It Missed the Original Target",
+    "excerpt": "OpenAI just secured a massive bag, but it’s not what it expected. In a new funding round, OpenAI raises $11 billion to hit a valuation of $1.25 trillion. While it’s\nThe post OpenAI Raises $11 Billion ",
+    "date": "Nov 2026",
+    "source": "VENTUREBURN.COM",
+    "url": "https://ventureburn.com/openai-raises-11-billion-1-25-trillion-valuation-below-target/",
+    "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
+    "category": "all"
+  },
+  {
     "title": "CesiumAstro Raises $730 Million To Launch New AI-Powered 737-Satellite Constellation",
     "excerpt": "There’s another huge move in the space race, and for once, it isn’t related to Elon Musk. CesiumAstro raises $730 million in a Series D round that values the Austin\nThe post CesiumAstro Raises $730 Mi",
     "date": "Nov 2026",
@@ -27,17 +36,35 @@
     "category": "all"
   },
   {
-    "title": "Humble Robotics Raises $51 Million to Expand Autonomous Freight Technology",
-    "excerpt": "Humble Robotics Secures $51 Million Series A Funding Humble Robotics has raised $51 million in Series A funding to advance autonomous freight technology. Obvious Ventures led the financing. Existing i",
+    "title": "From the front row to the hot seat — what the midterms mean for Big Tech",
+    "excerpt": "After spending two years getting cozy with the White House, Big Tech is suddenly trying to make friends with Democrats, and the open question is whether that image makeover can hold up against what st",
     "date": "Nov 2026",
-    "source": "VENTUREBURN.COM",
-    "url": "https://ventureburn.com/humble-robotics-raises-51-million-autonomous-freight/",
+    "source": "TECHCRUNCH.COM",
+    "url": "https://techcrunch.com/2026/11/06/from-the-front-row-to-the-hot-seat-what-the-midterms-mean-for-big-tech/",
+    "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
+    "category": "all"
+  },
+  {
+    "title": "Crusoe sells troubled Wyoming data center project to Google",
+    "excerpt": "The deal highlights the challenges of developing massive AI data centers.",
+    "date": "Nov 2026",
+    "source": "TECHCRUNCH.COM",
+    "url": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
+    "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
+    "category": "all"
+  },
+  {
+    "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
+    "excerpt": "OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks.",
+    "date": "Nov 2026",
+    "source": "TECHCRUNCH.COM",
+    "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
     "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
     "category": "all"
   },
   {
     "title": "The Duo apps are coming, says Apple",
-    "excerpt": "There are now 100K Duo-optimized apps, says Apple, and thousands more arrive daily.",
+    "excerpt": "There are now 100,000 Duo-optimized apps, says Apple, and thousands more arrive daily.",
     "date": "Nov 2026",
     "source": "TECHCRUNCH.COM",
     "url": "https://techcrunch.com/2026/11/06/the-duo-apps-are-coming-says-apple/",
@@ -45,65 +72,38 @@
     "category": "all"
   },
   {
-    "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
-    "excerpt": "Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allowing anyone access to the hacking tool.",
-    "date": "Nov 2026",
-    "source": "TECHCRUNCH.COM",
-    "url": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
-    "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
-    "category": "all"
-  },
-  {
-    "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
-    "excerpt": "Meta's Muse agents continue to get new features and integrations. Spaces promises to be a new way to interact with the AI helpers.",
-    "date": "Nov 2026",
-    "source": "TECHCRUNCH.COM",
-    "url": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
-    "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
-    "category": "all"
-  },
-  {
-    "title": "After the midterms, is the AI industry in for a rough two years?",
-    "excerpt": "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday — in all but one, the ",
-    "date": "Nov 2026",
-    "source": "TECHCRUNCH.COM",
-    "url": "https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/",
-    "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
-    "category": "all"
-  },
-  {
-    "title": "AI-Generated Movie Heading Theaters",
-    "excerpt": "Artificial intelligence is moving from experimental videos to the big screen. Fable Studio CEO Edward Saatchi says a team of just 30 people spent nine months creating Gods Don’t Give Gifts, an AI-gene",
+    "title": "Former Malaysia PM Najib’s House Arrest Delayed Pending Review",
+    "excerpt": "Former Malaysian Prime Minister Najib Razak’s transfer from prison to house arrest has been postponed pending further review of conditions around a royal pardon, the attorney general’s office said.",
     "date": "Nov 2026",
     "source": "FEEDS.BLOOMBERG.COM",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-06/ai-generated-movie-heading-theaters-video",
-    "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=400&h=250&fit=crop",
-    "category": "tech"
-  },
-  {
-    "title": "Canadian Dollar Notches Worst Week Since September on Weak Jobs",
-    "excerpt": "The Canadian dollar posted its biggest weekly loss since late September after weaker-than-expected domestic employment data reinforced concerns about the outlook for the country’s economy.",
-    "date": "Nov 2026",
-    "source": "FEEDS.BLOOMBERG.COM",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-06/canadian-dollar-set-for-worst-week-since-september-on-weak-jobs",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-07/former-malaysia-pm-najib-s-house-arrest-delayed-pending-review",
     "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
     "category": "all"
   },
   {
-    "title": "Ann Berry on the Importance of Learning AI",
-    "excerpt": "Barry speaks with Ann Berry, founder and managing partner of Threadneedle. They discuss her path from Goldman Sachs M&A and private equity to running a hospitality services company through the pandemi",
+    "title": "China Extends Gold-Buying Streak to Two Years as Prices Drop",
+    "excerpt": "China’s central bank added to its gold reserves in October — extending a buying streak to two years — as the precious metal fell almost 7% to end the month below the $4,000-an-ounce support threshold.",
     "date": "Nov 2026",
     "source": "FEEDS.BLOOMBERG.COM",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-06/ann-berry-on-the-importance-of-learning-ai-video",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-07/china-extends-gold-buying-streak-to-two-years-as-prices-drop",
     "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
     "category": "all"
   },
   {
-    "title": "Airbnb Surges 12% as Growth Accelerates and Outlook Rises | Closing Bell",
-    "excerpt": "Comprehensive cross-platform coverage of the U.S. market close on Bloomberg Television, Bloomberg Radio, and YouTube with Romaine Bostick, Kailey Leinz, Carol Massar and Tim Stenovec. (Source: Bloombe",
+    "title": "Beijing Vows to Hit Back Against US Sanctions on China Companies",
+    "excerpt": "China strongly opposes US sanctions on two Chinese companies over their dealings with a third party and reserves the right to take “necessary measures” to protect its interests, China’s Ministry of Co",
     "date": "Nov 2026",
     "source": "FEEDS.BLOOMBERG.COM",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-06/airbnb-surges-on-growth-outlook-closing-bell-video",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-07/beijing-vows-to-hit-back-against-us-sanctions-on-china-companies",
+    "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
+    "category": "all"
+  },
+  {
+    "title": "How a Bank Scandal Is Taking Down Trump’s Ally in Paraguay",
+    "excerpt": "Officials at the Inter-American Development Bank’s investment arm suspected something was off almost as soon as they walked through the doors of Paraguay’s Ueno Bank SA.",
+    "date": "Nov 2026",
+    "source": "FEEDS.BLOOMBERG.COM",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-06/how-a-banking-scandal-is-taking-down-trump-s-ally-in-paraguay",
     "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
     "category": "all"
   }
