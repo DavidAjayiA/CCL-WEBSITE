@@ -1,5 +1,23 @@
 [
   {
+    "title": "Index Industries Raises $50 Million To Tokenize US Housing for Easy Investing",
+    "excerpt": "To own a part of the American housing market, you used to have to be a homeowner. It usually demands a large upfront payment, a mortgage, and a good amount\nThe post Index Industries Raises $50 Million",
+    "date": "Nov 2026",
+    "source": "VENTUREBURN.COM",
+    "url": "https://ventureburn.com/index-industries-raises-50-million-easy-us-housing-investment/",
+    "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
+    "category": "all"
+  },
+  {
+    "title": "Torus Raises $500 Million To Run AI Data Centers On Modular Battery Systems",
+    "excerpt": "A major constraint of the expansion of AI has been the power consumption. The grid simply cannot handle the vast amount of electricity required by data centers. One Utah-based start-up\nThe post Torus ",
+    "date": "Nov 2026",
+    "source": "VENTUREBURN.COM",
+    "url": "https://ventureburn.com/torus-raises-500-million-for-modular-ai-data-centers/",
+    "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
+    "category": "all"
+  },
+  {
     "title": "Mercor Raises $750 Million in Series D Funding To Train AI On Every Job",
     "excerpt": "Last week, OpenAI made headlines with its $11 billion raise at a $1.25 trillion valuation. AI continues to attract cash, but this week it’s moving to a destination you might\nThe post Mercor Raises $75",
     "date": "Nov 2026",
@@ -18,92 +36,74 @@
     "category": "all"
   },
   {
-    "title": "Binance Launches Sub-Affiliate Feature with 7-Tier Commission Sharing",
-    "excerpt": "Binance introduces Sub-Affiliate feature enabling affiliates to share commissions across 7 levels with strict rules.\nThe post Binance Launches Sub-Affiliate Feature with 7-Tier Commission Sharing appe",
-    "date": "Nov 2026",
-    "source": "VENTUREBURN.COM",
-    "url": "https://ventureburn.com/binance-introduces-sub-affiliate-feature/",
-    "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
-    "category": "all"
-  },
-  {
-    "title": "OKX Unveils Spot Trading for Unified Tokenized Stocks Including xNVDL and xSKDD",
-    "excerpt": "OKX launches 24/7 spot trading for Unified Tokenized Stocks like xNVDL and xSKDD powered by xStocks on Solana and X Layer.\nThe post OKX Unveils Spot Trading for Unified Tokenized Stocks Including xNVD",
-    "date": "Nov 2026",
-    "source": "VENTUREBURN.COM",
-    "url": "https://ventureburn.com/okx-unified-tokenized-stocks-listing/",
-    "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
-    "category": "all"
-  },
-  {
-    "title": "Nvidia’s crisis has corporate governance experts reaching for the popcorn",
-    "excerpt": "The governance experts we talked to say nobody has seen anything like what's unfolding right now.",
+    "title": "The unfolding Jensen Huang scandal: a timeline",
+    "excerpt": "The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
     "date": "Nov 2026",
     "source": "TECHCRUNCH.COM",
-    "url": "https://techcrunch.com/2026/11/10/nvidias-crisis-has-corporate-governance-experts-reaching-for-the-popcorn/",
+    "url": "https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
     "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
     "category": "all"
   },
   {
-    "title": "X launches its own clipping feature to spur influencer engagement",
-    "excerpt": "X is jumping into clipping, the popular practice of cutting long videos into short, shareable clips that can go viral.",
+    "title": "Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang",
+    "excerpt": "As soon as Wednesday evening, Nvidia's board could decide to remove its founder and CEO of 33 years.",
     "date": "Nov 2026",
     "source": "TECHCRUNCH.COM",
-    "url": "https://techcrunch.com/2026/11/10/x-launches-its-own-clipping-feature-to-spur-influencer-engagement/",
+    "url": "https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/",
     "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
     "category": "all"
   },
   {
-    "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
-    "excerpt": "OpenAI has not yet said what its plans are for the future of travel. But Sonder founder Francis Davidson is a well-known figure in the travel industry.",
+    "title": "Jensen Huang accused of having another affair — with an Nvidia exec",
+    "excerpt": "Jensen Huang, who has come under fire for admitting to an affair with a woman accused of being a Chinese intelligence agent, has been accused of having a separate affair with an Nvidia subordinate.",
     "date": "Nov 2026",
     "source": "TECHCRUNCH.COM",
-    "url": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/",
+    "url": "https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec/",
     "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
     "category": "all"
   },
   {
-    "title": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect",
-    "excerpt": "New York is preparing to enforce its sweeping AI safety law, requiring major developers like OpenAI and Anthropic to register, disclose safety practices, and report critical incidents or face fines.",
+    "title": "Why the data center you dread might never even be built",
+    "excerpt": "The data center boom is running into serious real-world obstacles, from widespread local opposition and permitting delays to a scramble for electricity. Before those challenges even come into play, th",
     "date": "Nov 2026",
     "source": "TECHCRUNCH.COM",
-    "url": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/",
+    "url": "https://techcrunch.com/video/why-the-data-center-you-dread-might-never-even-be-built/",
     "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
     "category": "all"
   },
   {
-    "title": "Stocks Rally as CoreWeave Fuels AI Trade Revival: Markets Wrap",
-    "excerpt": "Traders piled back into the artificial intelligence trade, lifting US stock futures following strong results from beaten-down neocloud firm CoreWeave Inc. and robust demand for Anthropic PBC’s initial",
+    "title": "The $150 Billion Catch in US Shipbuilding",
+    "excerpt": "South Korea pledged $150 billion to revive US shipbuilding. But with the first shipbuilding contract between Hanwha Group and the US Navy worth only $269 million, it’s Washington’s turn to take the le",
     "date": "Nov 2026",
     "source": "FEEDS.BLOOMBERG.COM",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-10/stock-market-today-dow-s-p-live-updates",
-    "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=400&h=250&fit=crop",
-    "category": "tech"
-  },
-  {
-    "title": "US Equity Futures Rise as AI Enthusiasm Counters Hot Inflation",
-    "excerpt": "US stock futures are rising Wednesday as better-than-expected results from Coreweave Inc., anticipation of Anthropic PBC’s initial public offering and a blockbuster quarter for OpenAI are reviving the",
-    "date": "Nov 2026",
-    "source": "FEEDS.BLOOMBERG.COM",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-11/us-equity-futures-rise-as-ai-enthusiasm-counters-hot-inflation",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-12/opinion-the-150-billion-us-shipbuilding-catch-video",
     "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
     "category": "all"
   },
   {
-    "title": "European Stocks Set for Record as Energy, Tech and Miners Gain",
-    "excerpt": "European stocks climbed toward a fresh record, as energy shares rallied alongside gains in tech and miners, boosting sentiment.",
+    "title": "Pivotal Advisors CEO: Investors Should See AI as Part of Portfolio",
+    "excerpt": "Tiffany McGhee, CEO and CIO of Pivotal Advisors, discusses last week’s sharp stock selloff and says AI demand remains strong, with hyperscalers reporting demand above supply and cloud growth accelerat",
     "date": "Nov 2026",
     "source": "FEEDS.BLOOMBERG.COM",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-11/european-stocks-set-for-record-as-miners-and-tech-rally",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-11/mcghee-investors-should-see-ai-as-part-of-portfolio-video",
     "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
     "category": "all"
   },
   {
-    "title": "Anthropic’s IPO Is Said to Be Multiple Times Oversubscribed",
-    "excerpt": "Anthropic PBC’s initial public offering has drawn multiple times the orders for the shares available, according to people familiar with the matter, as demand accelerates for potentially the biggest fi",
+    "title": "US Stock Futures Fall as Nvidia Turmoil Deepens: Markets Wrap",
+    "excerpt": "US stock index futures fell after a report that Nvidia Corp.’s board was considering the removal of Chief Executive Officer Jensen Huang, tempering an earlier rally in technology shares.",
     "date": "Nov 2026",
     "source": "FEEDS.BLOOMBERG.COM",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-11/anthropic-s-mega-ipo-is-said-to-be-multiple-times-oversubscribed",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-11/stock-market-today-dow-s-p-live-updates",
+    "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
+    "category": "all"
+  },
+  {
+    "title": "Dana Telsey on the Future of Department Stores",
+    "excerpt": "Dana Telsey, CEO and chief research officer of Telsey Advisory Group, says Nordstrom’s transition to private ownership was the right decision. Telsey points to improving business performance, a wider ",
+    "date": "Nov 2026",
+    "source": "FEEDS.BLOOMBERG.COM",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-11/dana-telsey-on-the-future-of-department-stores-video",
     "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
     "category": "all"
   }
