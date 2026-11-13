@@ -45,8 +45,8 @@
     "category": "all"
   },
   {
-    "title": "Muse can now place calls to U.S. businesses — if you pay",
-    "excerpt": "Muse's AI can now place outbound calls to US businesses — but it's not free.",
+    "title": "Muse can now place calls to US businesses — if you pay",
+    "excerpt": "Muse's AI can now place outbound calls to U.S. businesses — but it's not free.",
     "date": "Nov 2026",
     "source": "TECHCRUNCH.COM",
     "url": "https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/",
@@ -72,17 +72,8 @@
     "category": "all"
   },
   {
-    "title": "Peru Raises Interest Rates for First Time in Nearly Four Years",
-    "excerpt": "Peru raised interest rates for the first time in nearly four years to curb an inflation spike fueled by rising food and energy prices.",
-    "date": "Nov 2026",
-    "source": "FEEDS.BLOOMBERG.COM",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-12/peru-raises-interest-rates-for-first-time-in-nearly-four-years",
-    "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
-    "category": "all"
-  },
-  {
     "title": "Latest Oil Market News and Analysis for Nov. 13",
-    "excerpt": "Oil held a gain after President Donald Trump said the US could forgo a deal with Iran, dimming prospects for a breakthrough to end the war that has roiled Middle East supplies.",
+    "excerpt": "Oil held gains after President Donald Trump said the US could forgo a deal with Iran, dimming prospects for a breakthrough to end the war that has roiled Middle East supplies.",
     "date": "Nov 2026",
     "source": "FEEDS.BLOOMBERG.COM",
     "url": "https://www.bloomberg.com/news/articles/2026-11-12/latest-oil-market-news-and-analysis-for-nov-13",
@@ -90,20 +81,29 @@
     "category": "all"
   },
   {
-    "title": "O fluxo de veneno no Brasil: Como agrotóxicos entram no país",
-    "excerpt": "Beatriz Amat conta como o fluxo de veneno no Brasil: Como agrotóxicos entram no país. Com produção de Gisele Fernandes e edição de Mariana Lumy. \n (Source: Bloomberg)",
+    "title": "Asian Stocks Erase Gain, Bonds Slide Before US PPI: Markets Wrap",
+    "excerpt": "Asian stocks erased an early advance while regional bonds slumped as caution returned ahead of US producer-price data that may offer fresh clues on the path for Federal Reserve interest rates.",
     "date": "Nov 2026",
     "source": "FEEDS.BLOOMBERG.COM",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-12/fluxo-veneno-no-brasil-como-agrotoxicos-entram-no-pais-video",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-12/stock-market-today-dow-s-p-live-updates",
     "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
     "category": "all"
   },
   {
-    "title": "The Yen Is Becoming Too Hard for Some Investors to Trade",
-    "excerpt": "After a year of wild swings, the yen surprised traders by settling into a tight range clustered near 158 per dollar over recent months. But this week it broke out again, unexpectedly breaching the key",
+    "title": "EM Stocks Eye First Weekly Gain Since September as Tech Rebounds",
+    "excerpt": "Emerging-market stocks are headed for their first weekly gain since late September as investors return to the technology sector on bets that the upheaval at Nvidia Corp. will not upend the wider artif",
     "date": "Nov 2026",
     "source": "FEEDS.BLOOMBERG.COM",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-12/the-yen-is-becoming-too-hard-for-some-investors-to-trade",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-13/em-stocks-eye-first-weekly-gain-since-september-as-tech-rebounds",
+    "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=400&h=250&fit=crop",
+    "category": "tech"
+  },
+  {
+    "title": "China Policy Bank Bonds Suffer Selloff as Tax Worries Hit Market",
+    "excerpt": "Concern over a potential tax on Chinese government bonds is spilling over to major policy banks, pushing up their borrowing costs.",
+    "date": "Nov 2026",
+    "source": "FEEDS.BLOOMBERG.COM",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-13/china-policy-bank-bonds-suffer-selloff-as-tax-worries-hit-market",
     "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
     "category": "all"
   }
