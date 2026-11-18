@@ -1,5 +1,32 @@
 [
   {
+    "title": "Model ML Raises $250 Million at $1.5 Billion Value to Build AI Agents for Bankers",
+    "excerpt": "Go to any junior banker and ask him or her where the week went, and you’ll hear the same answer. Pitch decks and diligence memos. Time spent in font work\nThe post Model ML Raises $250 Million at $1.5 ",
+    "date": "Nov 2026",
+    "source": "VENTUREBURN.COM",
+    "url": "https://ventureburn.com/model-ml-raises-250-million-ai-agents-for-bankers/",
+    "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
+    "category": "all"
+  },
+  {
+    "title": "Remanence Raises $30 Million To Help Companies Train and Own Their AI Models",
+    "excerpt": "Each time that a business operates an AI agent, they pay in credits. The more they use an agent, the higher their bill gets. Remanence raises $30 million in seed\nThe post Remanence Raises $30 Million ",
+    "date": "Nov 2026",
+    "source": "VENTUREBURN.COM",
+    "url": "https://ventureburn.com/remanence-raises-30-million-companies-train-own-ai-models/",
+    "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
+    "category": "all"
+  },
+  {
+    "title": "Tiberius Aerospace Raises $85 Million To Scale AI-Designed Munitions",
+    "excerpt": "The revolution of precision munitions has brought about a new trend in modern warfare that focuses on precision engagement. However, there’s one problem: modern warfare burns through these precision m",
+    "date": "Nov 2026",
+    "source": "VENTUREBURN.COM",
+    "url": "https://ventureburn.com/tiberius-aerospace-raises-85-million-ai-munitions/",
+    "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
+    "category": "all"
+  },
+  {
     "title": "Stark Future Raises €150M+ at €1.2B Valuation to Expand Electric Motorcycles",
     "excerpt": "Stark Future Raises €150M+ in Oversubscribed Funding Round Stark Future has raised over €150 million to jumpstart its penetration into the global motorcycle market. The electric motorcycle producer fr",
     "date": "Nov 2026",
@@ -9,101 +36,38 @@
     "category": "all"
   },
   {
-    "title": "Plural Raises €1bn to Back Europe’s Next Generation of Technology Founders",
-    "excerpt": "Plural Raises €1bn to Accelerate European Technology Investment Plural raised €1B for European frontier tech fund. The €1 billion raise demonstrates a significant investment in European frontier techn",
-    "date": "Nov 2026",
-    "source": "VENTUREBURN.COM",
-    "url": "https://ventureburn.com/plural-raises-1bn-european-frontier-tech/",
-    "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
-    "category": "all"
-  },
-  {
-    "title": "Corma Raises $125M at $1B Valuation to Scale Cybersecurity AI",
-    "excerpt": "Corma Raises $125M in Series A Funding Corma has raised $125 million in Series A funding at a $1 billion valuation. The Israeli-founded cybersecurity startup has revealed the investment on\nThe post Co",
-    "date": "Nov 2026",
-    "source": "VENTUREBURN.COM",
-    "url": "https://ventureburn.com/corma-raises-125m-defensive-cybersecurity-ai/",
-    "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
-    "category": "all"
-  },
-  {
-    "title": "Dreamteam Raises $53M to Build an AI-Native CRM Platform",
-    "excerpt": "Dreamteam Raises $53M to Reinvent Customer Relationship Management Dreamteam raises $53 million to build AI-powered CRM platform Dreamteam, a California-based startup building a new sort of customer r",
-    "date": "Nov 2026",
-    "source": "VENTUREBURN.COM",
-    "url": "https://ventureburn.com/dreamteam-raises-53m-ai-native-crm/",
-    "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
-    "category": "all"
-  },
-  {
-    "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
-    "excerpt": "Three months since introducing its product, AI cybersecurity startup Corba has raised a $125 million Series A at a $1 billion valuation led by NEA.",
-    "date": "Nov 2026",
-    "source": "TECHCRUNCH.COM",
-    "url": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/",
-    "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
-    "category": "all"
-  },
-  {
-    "title": "Cyber giant Infoblox confirms security incident after hackers access ‘company information’",
-    "excerpt": "The cybersecurity and automation giant said it's working with outside investigators to understand the scale of the breach.",
-    "date": "Nov 2026",
-    "source": "TECHCRUNCH.COM",
-    "url": "https://techcrunch.com/2026/11/16/cyber-giant-infoblox-confirms-security-incident-after-hackers-access-company-information/",
-    "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
-    "category": "all"
-  },
-  {
-    "title": "All the questions Nvidia should answer on Tuesday — but probably won’t",
-    "excerpt": "Nvidia interim CEO and longtime CFO Colette Kress is about to have one of the biggest days of her career on Tuesday when the company reports its third-quarter results. Given the turmoil Nvidia is in, ",
-    "date": "Nov 2026",
-    "source": "TECHCRUNCH.COM",
-    "url": "https://techcrunch.com/2026/11/16/all-the-questions-nvidia-should-answer-on-tuesday-but-probably-wont/",
-    "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
-    "category": "all"
-  },
-  {
-    "title": "Apple reveals new Mac security controls as AI agents raise privacy risks",
-    "excerpt": "Following an October announcement, Apple has detailed new permission controls, warnings, and transparency features coming to macOS 27.3 to address risks posed by AI agents and other apps.",
-    "date": "Nov 2026",
-    "source": "TECHCRUNCH.COM",
-    "url": "https://techcrunch.com/2026/11/16/apple-reveals-new-mac-security-controls-as-ai-agents-raise-privacy-risks/",
-    "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
-    "category": "all"
-  },
-  {
-    "title": "RBNZ Flags Growing Private Credit Risks in Property Finance",
-    "excerpt": "New Zealand’s central bank highlighted increasing risks from the growing role of private credit in the nation’s economy, particularly in property development and commercial real estate finance.",
+    "title": "Fidelity Says Even at 6% Treasuries Fail to Be ‘Massively Cheap’",
+    "excerpt": "The recent selloff in Treasuries has sparked debate about buying opportunities, but Fidelity International’s Salman Ahmed reckons that even a 6% yield wouldn’t make the 10-year note “massively cheap.”",
     "date": "Nov 2026",
     "source": "FEEDS.BLOOMBERG.COM",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-16/rbnz-flags-growing-private-credit-risks-in-real-estate-finance",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-17/fidelity-says-even-at-6-treasuries-fail-to-be-massively-cheap",
     "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
     "category": "all"
   },
   {
-    "title": "Latest Oil Market News and Analysis for Nov. 17",
-    "excerpt": "Oil fell on signs supplies are outpacing demand, and as Vice President JD Vance signaled the US wants to avoid a prolonged war in Iran.",
+    "title": "Nasdaq, S&P 500 Futures Rise After Nvidia Earnings: Markets Wrap",
+    "excerpt": "US equity-index futures rose along with Asian shares after Nvidia Corp.’s sales forecast topped Wall Street estimates, easing concerns about the artificial intelligence trade following a recent sellof",
     "date": "Nov 2026",
     "source": "FEEDS.BLOOMBERG.COM",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-16/latest-oil-market-news-and-analysis-for-nov-17",
-    "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
-    "category": "all"
-  },
-  {
-    "title": "Asian Stocks Track US Losses Before Nvidia Results: Markets Wrap",
-    "excerpt": "Asian stocks fell, tracking declines on Wall Street as caution ahead of Nvidia Corp.’s widely anticipated earnings was compounded by US moves to further restrict China’s access to advanced artificial ",
-    "date": "Nov 2026",
-    "source": "FEEDS.BLOOMBERG.COM",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-16/stock-market-today-dow-s-p-live-updates",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-17/stock-market-today-dow-s-p-live-updates",
     "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=400&h=250&fit=crop",
     "category": "tech"
   },
   {
-    "title": "New Zealand Sees Best Quarterly Population Gain in Two Years",
-    "excerpt": "New Zealand saw its best quarterly increase in population in more than two years as immigration inflows pick up, offering a potential boost to housing demand and the wider economy.",
+    "title": "Thailand Sees US Chip Curbs as Risk to Data Center Drive",
+    "excerpt": "New US restrictions on the export and access to top-end semiconductors risks denting Thailand’s ambitions to be a hub for data centers, the foreign minister said.\nForeign Minister Sihasak said in a BT",
     "date": "Nov 2026",
     "source": "FEEDS.BLOOMBERG.COM",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-17/new-zealand-sees-best-quarterly-population-gain-in-two-years",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-18/thailand-sees-us-chip-curbs-as-risk-to-data-center-drive-video",
+    "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
+    "category": "all"
+  },
+  {
+    "title": "Council on Foreign Relations’ McGuire on Trump-XI Meeting Implications for Chips",
+    "excerpt": "Chris McGuire, Council on Foreign Relations' Senior Fellow on China and Emerging Technologies discusses US restrictions on Nvidia chip sales and remote access, as the US president prepares to meet Chi",
+    "date": "Nov 2026",
+    "source": "FEEDS.BLOOMBERG.COM",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-17/what-trump-xi-s-meeting-could-mean-for-the-chip-sector-video",
     "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
     "category": "all"
   }
