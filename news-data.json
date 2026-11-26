@@ -1,73 +1,37 @@
 [
   {
-    "title": "Zipher Raises $53 Million To Let AI Agents Run Your Data Infrastructure For You",
-    "excerpt": "AI agents can query, start pipelines and spin up data jobs at any hour of the day. While they help the productivity of companies, there’s one major drawback. Typically, most\nThe post Zipher Raises $53",
-    "date": "Nov 2026",
-    "source": "VENTUREBURN.COM",
-    "url": "https://ventureburn.com/zipher-raises-53-million-ai-agents-data-infrastructure/",
-    "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
-    "category": "all"
-  },
-  {
-    "title": "Eleven Secures €57M First Close for Fourth Fund Targeting €100M",
-    "excerpt": "Eleven Secures €57M First Close for Fund IV Eleven, a European early-stage venture capital firm, has announced a first close of €57m for its fourth fund. Eleven is looking to\nThe post Eleven Secures €",
-    "date": "Nov 2026",
-    "source": "VENTUREBURN.COM",
-    "url": "https://ventureburn.com/eleven-secures-57m-fourth-fund/",
-    "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
-    "category": "all"
-  },
-  {
-    "title": "Avicena Raises $100 Million Series C to Swap Copper for Light in AI Data Centers",
-    "excerpt": "AI chips continue to improve every day, but the wires that connect them are not keeping up. Data center components like accelerators, memory and switches exchange massive amounts of information.\nThe p",
-    "date": "Nov 2026",
-    "source": "VENTUREBURN.COM",
-    "url": "https://ventureburn.com/avicena-raises-100-million-fix-datacenters-microled-optical-links/",
-    "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
-    "category": "all"
-  },
-  {
-    "title": "Trustly Raises $60 Million in Equity to Turn Bank Payments Into AI Insight",
-    "excerpt": "Online payments should be easy. However, people continue to enter card numbers and search for passwords every time they want to make a purchase. Understanding how each additional step can\nThe post Tru",
-    "date": "Nov 2026",
-    "source": "VENTUREBURN.COM",
-    "url": "https://ventureburn.com/trustly-raises-60-million-equity-ai-product-development/",
-    "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
-    "category": "all"
-  },
-  {
-    "title": "Treasury Yields Sink to Two-Month Low as Stocks Rout Intensifies",
-    "excerpt": "Treasuries soared on Wednesday as a full-blown selloff in global equities over the sustainability of the AI trade prompted investors to rush into the safety of US government debt.",
+    "title": "Congo Gold Trader Plans Two Refineries with 68-Ton Capacity",
+    "excerpt": "Democratic Republic of Congo’s state gold trader plans to build two refineries with capacity for 68 tons as the country looks to curb smuggling and profit more from its reserves of the precious metal.",
     "date": "Nov 2026",
     "source": "FEEDS.BLOOMBERG.COM",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-25/treasuries-rise-across-curve-as-ai-concerns-dent-risk-sentiment",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-26/congo-gold-trader-plans-two-refineries-with-68-ton-capacity",
     "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
     "category": "all"
   },
   {
-    "title": "Anthropic’s Post-IPO Struggles Contrast With SpaceX’s Early Days",
-    "excerpt": "Anthropic PBC is experiencing a rougher initiation to public markets than SpaceX, and a host of market and technical factors threaten to weigh down its stock performance before the Claude developer re",
+    "title": "Global Stocks Climb as AI Trade Mounts a Comeback: Markets Wrap",
+    "excerpt": "Stocks rose as investors in Europe and Asia tracked a comeback in technology shares on Wall Street after days of sharp swings.",
     "date": "Nov 2026",
     "source": "FEEDS.BLOOMBERG.COM",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-25/anthropic-s-post-ipo-struggles-contrast-with-spacex-s-early-days",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-25/stock-market-today-dow-s-p-live-updates",
     "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
     "category": "all"
   },
   {
-    "title": "CoreWeave, Nvidia Credit Risk Hit Fresh Highs as AI Fears Mount",
-    "excerpt": "CoreWeave Inc. and Nvidia Corp. credit-risk measures hit fresh all-time highs Wednesday while gauges of perceived fears again reached levels last seen in March, as Wall Street grew increasingly fearfu",
+    "title": "UBS Vows to Remain Global as Swiss Capital Outlook Darkens",
+    "excerpt": "UBS Group AG’s top leadership sought to reassure staff that Switzerland’s effort to tighten regulation won’t take away something the bank has been building for decades — a truly global business.",
     "date": "Nov 2026",
     "source": "FEEDS.BLOOMBERG.COM",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-25/coreweave-nvidia-credit-risk-hit-fresh-highs-as-ai-fears-mount",
-    "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=400&h=250&fit=crop",
-    "category": "tech"
+    "url": "https://www.bloomberg.com/news/articles/2026-11-26/ubs-vows-to-remain-global-as-swiss-capital-outlook-darkens",
+    "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
+    "category": "all"
   },
   {
-    "title": "Stocks Swoon as AI Fears Spur Rush to Treasuries: Markets Wrap",
-    "excerpt": "The rout in technology stocks is showing no sign of letting up as questions about the artificial-intelligence trade pile up, with investors turning to bonds despite elevated inflation data.",
+    "title": "Brazil Tightens Consumer Lending Rules as Family Debt Soars",
+    "excerpt": "Brazil’s central bank unveiled measures to curb excessive consumer borrowing as President Luiz Inácio Lula da Silva grows concerned about soaring household debt.",
     "date": "Nov 2026",
     "source": "FEEDS.BLOOMBERG.COM",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-24/asian-stocks-to-slide-as-ai-trade-doubts-resurface-markets-wrap",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-26/brazil-tightens-consumer-lending-rules-as-household-debt-soars",
     "image": "https://images.unsplash.com/photo-1497993128226-dc7e82b4f1e5?w=400&h=250&fit=crop",
     "category": "all"
   }
